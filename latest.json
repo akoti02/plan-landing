@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "notes": "Первый релиз с самообновлением. Дальше при выходе новой версии — кнопка «Обновить» в приложении.",
+  "pub_date": "2026-05-15T15:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhLUUpVRVAvMEE5dUxoRXFwN3JUK0txWEFRR3psemcreU5Mdm9XaW1TVFozbUhFYTRONmpqaDF4Q25NM3NjdENpbUtoeVhqam1SMEJueXZoT2ZRYkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODU3OTg3CWZpbGU6cGxhbi5leGUKRzhNUUw0ZUFGQ1hQb2tIRnp0KzBpRldiZnFnZithL1FsMzRxY0ZUTThISEhPZ013cUxLMkVUNFhiNFdIUUNCaktsYWxibkFjNk5ySGxhcnVNQU9DQ2c9PQo=",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.0/plan-0.1.0-windows-x64.exe"
+    },
+    "android-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUYxa0xTT0NtVi9MNmFqbFVvbnJEQmh3dHIxajlIOTRuUm5CRUtRV2pjT2NDYnp5U0k2ZWowbEtXQU42ZmJOcVJ2ZlFNT2VyNXRweWExOXVmNU81bWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODU3OTg3CWZpbGU6YXBwLXVuaXZlcnNhbC1yZWxlYXNlLmFwawpqcGhjQ2dpMXBrNlZ1UzRnWlZWdjRUSEExY3RscnlIOG9qL241OEZ1ZXZLMGlPS3lwdEp1WEtoQzAyR0hud1lLa0pxaURsTStraEN6NHFwdys3TmhDZz09Cg==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.0/plan-0.1.0-universal.apk"
+    },
+    "android-armv7": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUYxa0xTT0NtVi9MNmFqbFVvbnJEQmh3dHIxajlIOTRuUm5CRUtRV2pjT2NDYnp5U0k2ZWowbEtXQU42ZmJOcVJ2ZlFNT2VyNXRweWExOXVmNU81bWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODU3OTg3CWZpbGU6YXBwLXVuaXZlcnNhbC1yZWxlYXNlLmFwawpqcGhjQ2dpMXBrNlZ1UzRnWlZWdjRUSEExY3RscnlIOG9qL241OEZ1ZXZLMGlPS3lwdEp1WEtoQzAyR0hud1lLa0pxaURsTStraEN6NHFwdys3TmhDZz09Cg==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.0/plan-0.1.0-universal.apk"
+    },
+    "android-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUYxa0xTT0NtVi9MNmFqbFVvbnJEQmh3dHIxajlIOTRuUm5CRUtRV2pjT2NDYnp5U0k2ZWowbEtXQU42ZmJOcVJ2ZlFNT2VyNXRweWExOXVmNU81bWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODU3OTg3CWZpbGU6YXBwLXVuaXZlcnNhbC1yZWxlYXNlLmFwawpqcGhjQ2dpMXBrNlZ1UzRnWlZWdjRUSEExY3RscnlIOG9qL241OEZ1ZXZLMGlPS3lwdEp1WEtoQzAyR0hud1lLa0pxaURsTStraEN6NHFwdys3TmhDZz09Cg==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.0/plan-0.1.0-universal.apk"
+    }
+  }
+}
