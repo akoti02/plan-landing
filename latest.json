@@ -1,23 +1,23 @@
 {
-  "version": "0.1.1",
-  "notes": "Самообновление встроено: Android тащит APK через встроенный апдейтер, Windows ставит NSIS installer. Все следующие версии будут приходить кнопкой «Обновить» внутри приложения.",
-  "pub_date": "2026-05-15T16:15:00Z",
+  "version": "0.1.2",
+  "notes": "Шифрование данных на диске, защита от блокировок, QR-pairing, геолокация.",
+  "pub_date": "2026-05-16T00:42:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpqL0RuZ09tUnpwWFZ6Q013UnlmUnVuQkR1Rk1wK2hYaDFZcllYdG9XbHZoelNCODlZeWRuOHNLRjBpQWY4b3B0TTJhbnRGWEx4eGVBMkMwRWJEelE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODYxNjYxCWZpbGU6cGxhbi0wLjEuMS13aW5kb3dzLXg2NC1zZXR1cC5leGUKcWt2akFtaG5SdlJwTmJiT28wZ1c1T1FscGg5OVJMNnhZREgxMEphSkN5RVRCT25INnlVYVRRV3cvSHdZa1ZaeDBiUHp4b3E3MXJCaUdWSFVTS3F0QkE9PQo=",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.1/plan-0.1.1-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdJOFhZOUo2UTMvWUtkdXFjZzdxQzhqOW5uREFwUk1KQ3BIZFoxRVg4OEhUa2p4UlhzeFVDM2x5Zzk3cG5PT0NjRkVIUzBmQlpjbDdSeEFFOVR2NVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODg4MjA1CWZpbGU6cGxhbi0wLjEuMi13aW5kb3dzLXg2NC1zZXR1cC5leGUKcnViOTd1RlRaMGFzUEdvYkxNZ2U2L21ZRTBtVEswV1FCUkwzS2ZVaW9FQnZBYzJnbXJkWUkxWmpjVkhsd2dQdlc2czRXbHhiUHFYTUsvR2lGZUZRQkE9PQo=",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.2/plan-0.1.2-windows-x64-setup.exe"
     },
     "android-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUNzWStqU0RaV2lobGgzZ0Q2Ui9uNXFDbFYxb1FZZVRRdHhheDJWMW02WmtmNU5RcXlQOUxzRFlqcGpSQkNtV1k2VHE2bmlNVEVacmtwWFhiQVlkQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODYxNjYxCWZpbGU6cGxhbi0wLjEuMS11bml2ZXJzYWwuYXBrCnhVUnJGU3pScitFODJMLytEM0dnOFJ0RHJsQ3ZSRDg0STBCT1pnZ3ROQmJMQUlMUGVrL3F3VkRsRXVqN1BRaExnSkZmMnNGbjBFYjNpNjAvck5uMUN3PT0K",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.1/plan-0.1.1-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUh3YVVWd05JMUtLWnAxOG02QkxHUTIzT1VGZmdldDJXdUVUVElhTVAwZXg4MkQ0bkZmbFVjNFVBcncrSjZ2R1RpSWc4ZTZUN002L002QUVrakZJQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODg4NDY3CWZpbGU6cGxhbi0wLjEuMi11bml2ZXJzYWwuYXBrClRiaHIwcEkwUUpzZjNvL1QyTXNKZWR6N2ZkUm9XK29LeThKWlZxRHYzNzFOa2NDbTJkNzFETTA3eGtpV3poU2twZGd1b2cwT2lEMklUbkFpWE5CMkNRPT0K",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.2/plan-0.1.2-universal.apk"
     },
     "android-armv7": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUNzWStqU0RaV2lobGgzZ0Q2Ui9uNXFDbFYxb1FZZVRRdHhheDJWMW02WmtmNU5RcXlQOUxzRFlqcGpSQkNtV1k2VHE2bmlNVEVacmtwWFhiQVlkQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODYxNjYxCWZpbGU6cGxhbi0wLjEuMS11bml2ZXJzYWwuYXBrCnhVUnJGU3pScitFODJMLytEM0dnOFJ0RHJsQ3ZSRDg0STBCT1pnZ3ROQmJMQUlMUGVrL3F3VkRsRXVqN1BRaExnSkZmMnNGbjBFYjNpNjAvck5uMUN3PT0K",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.1/plan-0.1.1-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUh3YVVWd05JMUtLWnAxOG02QkxHUTIzT1VGZmdldDJXdUVUVElhTVAwZXg4MkQ0bkZmbFVjNFVBcncrSjZ2R1RpSWc4ZTZUN002L002QUVrakZJQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODg4NDY3CWZpbGU6cGxhbi0wLjEuMi11bml2ZXJzYWwuYXBrClRiaHIwcEkwUUpzZjNvL1QyTXNKZWR6N2ZkUm9XK29LeThKWlZxRHYzNzFOa2NDbTJkNzFETTA3eGtpV3poU2twZGd1b2cwT2lEMklUbkFpWE5CMkNRPT0K",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.2/plan-0.1.2-universal.apk"
     },
     "android-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUNzWStqU0RaV2lobGgzZ0Q2Ui9uNXFDbFYxb1FZZVRRdHhheDJWMW02WmtmNU5RcXlQOUxzRFlqcGpSQkNtV1k2VHE2bmlNVEVacmtwWFhiQVlkQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODYxNjYxCWZpbGU6cGxhbi0wLjEuMS11bml2ZXJzYWwuYXBrCnhVUnJGU3pScitFODJMLytEM0dnOFJ0RHJsQ3ZSRDg0STBCT1pnZ3ROQmJMQUlMUGVrL3F3VkRsRXVqN1BRaExnSkZmMnNGbjBFYjNpNjAvck5uMUN3PT0K",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.1/plan-0.1.1-universal.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUh3YVVWd05JMUtLWnAxOG02QkxHUTIzT1VGZmdldDJXdUVUVElhTVAwZXg4MkQ0bkZmbFVjNFVBcncrSjZ2R1RpSWc4ZTZUN002L002QUVrakZJQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODg4NDY3CWZpbGU6cGxhbi0wLjEuMi11bml2ZXJzYWwuYXBrClRiaHIwcEkwUUpzZjNvL1QyTXNKZWR6N2ZkUm9XK29LeThKWlZxRHYzNzFOa2NDbTJkNzFETTA3eGtpV3poU2twZGd1b2cwT2lEMklUbkFpWE5CMkNRPT0K",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.2/plan-0.1.2-universal.apk"
     }
   }
 }
