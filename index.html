@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>План — семейный планировщик</title>
+<meta name="description" content="Семейный планировщик: задачи, заметки, чат и звонки. Без серверов, без слежки.">
+<style>
+  :root {
+    --bg-0: #0a0712;
+    --bg-1: #15102a;
+    --fg-0: #f4ecff;
+    --fg-1: #c8b8e8;
+    --accent: #ffb24a;
+    --accent-hover: #ffc06d;
+    --line: #2a2348;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg-0);
+    color: var(--fg-0);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background-image:
+      radial-gradient(at 20% 0%, rgba(255, 178, 74, 0.08) 0%, transparent 50%),
+      radial-gradient(at 80% 100%, rgba(120, 80, 200, 0.10) 0%, transparent 50%);
+  }
+  main {
+    max-width: 480px;
+    width: 100%;
+    text-align: center;
+  }
+  .glyph {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 96px;
+    line-height: 1;
+    color: var(--accent);
+    margin-bottom: 12px;
+    letter-spacing: -2px;
+  }
+  h1 {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-weight: 400;
+    font-size: 44px;
+    margin: 0 0 8px;
+    letter-spacing: -0.5px;
+  }
+  .tagline {
+    color: var(--fg-1);
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 0 0 36px;
+  }
+  .button {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--bg-0);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 18px 36px;
+    border-radius: 12px;
+    text-decoration: none;
+    transition: background 120ms ease, transform 120ms ease;
+    box-shadow: 0 4px 24px rgba(255, 178, 74, 0.22);
+  }
+  .button:hover { background: var(--accent-hover); transform: translateY(-1px); }
+  .button:active { transform: translateY(0); }
+  .button .filetype { font-size: 13px; font-weight: 400; opacity: 0.7; margin-left: 10px; }
+  .meta {
+    margin-top: 28px;
+    font-size: 13px;
+    color: var(--fg-1);
+    line-height: 1.7;
+  }
+  .meta code {
+    background: var(--bg-1);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-family: "SF Mono", "Cascadia Code", Consolas, monospace;
+    font-size: 11px;
+    color: var(--fg-0);
+    word-break: break-all;
+  }
+  .features {
+    margin-top: 56px;
+    text-align: left;
+    border-top: 1px solid var(--line);
+    padding-top: 28px;
+  }
+  .features h2 {
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 0 12px;
+    color: var(--fg-1);
+  }
+  .features ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .features li {
+    padding: 8px 0;
+    color: var(--fg-1);
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  .features li::before { content: "— "; color: var(--accent); }
+  .install-hint {
+    margin-top: 36px;
+    padding: 16px;
+    background: var(--bg-1);
+    border-radius: 10px;
+    text-align: left;
+    font-size: 14px;
+    color: var(--fg-1);
+    line-height: 1.6;
+  }
+  .install-hint b { color: var(--fg-0); }
+  footer {
+    margin-top: 56px;
+    font-size: 12px;
+    color: var(--fg-1);
+    opacity: 0.6;
+  }
+  @media (max-width: 480px) {
+    .glyph { font-size: 72px; }
+    h1 { font-size: 32px; }
+    .button { width: 100%; padding: 16px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="glyph">П</div>
+  <h1>План</h1>
+  <p class="tagline">
+    Семейный планировщик: задачи, заметки, чат, звонки и обмен файлами.<br>
+    Без серверов. Без слежки. Только семья.
+  </p>
+
+  <a class="button" href="https://github.com/akoti02/plan-releases/releases/download/v0.1.0/plan-0.1.0-universal.apk" download="plan-0.1.0.apk">
+    Скачать «План»<span class="filetype">APK · 42 МБ</span>
+  </a>
+
+  <div class="meta">
+    Версия 0.1.0 для Android (arm64-v8a, x86_64, минимум API 24 — Android&nbsp;7)<br>
+    SHA-256: <code>95c5dc0bf7559fe40ea1fca992db2995bc0bea9be4aec957127cbfc470dd9be4</code>
+  </div>
+
+  <div class="install-hint">
+    <b>Как поставить:</b> открой APK на телефоне → Android спросит
+    разрешение на установку приложений из неизвестных источников →
+    разреши → откроется установщик. Готово.
+  </div>
+
+  <div class="features">
+    <h2>Что внутри</h2>
+    <ul>
+      <li>Задачи и заметки с поиском по всему</li>
+      <li>Чат с фото и файлами — между всеми членами семьи</li>
+      <li>Аудио- и видеозвонки</li>
+      <li>Семейная фраза вместо логинов и паролей</li>
+      <li>Полностью на русском</li>
+    </ul>
+  </div>
+
+  <footer>
+    © Артур Акоев, 2026 · <a href="mailto:akotiaa02@gmail.com" style="color: inherit;">akotiaa02@gmail.com</a>
+  </footer>
+</main>
+</body>
+</html>
