@@ -1,23 +1,23 @@
 {
-  "version": "0.1.6",
-  "notes": "ИИ создаёт, правит, выполняет и удаляет задачи, подзадачи и заметки (с подтверждением) и читает Word/Excel. Заложена доставка обновлений интерфейса по воздуху.",
-  "pub_date": "2026-06-07T19:37:41Z",
+  "version": "0.1.7",
+  "notes": "Бейдж «просрочено» в задачах больше не обрезается за правым краем — длинное время переносится на новую строку.",
+  "pub_date": "2026-06-07T20:52:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1V4RWIwaGpiVlZoUkM5eVdtVmxOVUpxYzBKM2FHOW1hVU5SVERSTmExSnhiM2xrWTFVM2NYcG5kbVpZSzFkT1oyOW5TWEZ3V0hORUwwNUVVR0pPUmpOcVMybzRObVJSWlU5V1RYWlRObkJKVFZoek5tZDNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWXhNRFl3Q1dacGJHVTZjR3hoYmkwd0xqRXVOaTEzYVc1a2IzZHpMWGcyTkMxelpYUjFjQzVsZUdVS1ZURnNjMmwyVjB4WFFXODRReXR4TkhBMUswaHFVVEJ0VHpsMFJYWnJRMVJIY2k5NE5VWlNkSFpSUkRCSWRFWmlhalJ2U0ZNdmFWTjBXRGN2VkVZMGNEWTNUQzlpZEhoVkx6bFFhWEI1UlVwblltTnhRVUU5UFFvPQ==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.6/plan-0.1.6-windows-x64-setup.exe"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VaQ2JDOXhRVlZ3VUVSSmMzb3ZUa00xTmpWYVRsZExSM2xGWVVaV0swUlFhMHRKVjBnd1VrdGxVM050V0ZwekwxRnZUbEpoYlcxa2RIRTRSV3B1V2xKa1UxQjFUVk5JTVhaMmQzQTNjVWxSUTNOemNHZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWTFOVEk1Q1dacGJHVTZjR3hoYmkwd0xqRXVOeTEzYVc1a2IzZHpMWGcyTkMxelpYUjFjQzVsZUdVS05FTmpOVzFPVEdaNkwwYzNkelZDV1hFMll6WnZTVTAxTjNCcVluVnBVMkp3Y0ZZd1dURm9aRm95Y0ZkS09HaEpjMUp6V25CV2NVVnFibnA0UlRCemN6QmlPV1JKY0hoUkwyZzNSbm8xZVd0aFZYRXpSR2M5UFFvPQ==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.7/plan-0.1.7-windows-x64-setup.exe"
     },
     "android-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1ZCMlkwMVBXRkJhTjJnNFFVNDJVazlGU2xocGRsTmpUVlJMWTFwWFlqWnNlbVZMWTBVNVJVNDNkSGRtUzFWRFF5ODBaRUkyZUZCNU9VSm1RMUl3U0RRNFVHOTZRbk5DVG1SemNrTTBWRlZGV0RGQ1NHZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWXhNRFl3Q1dacGJHVTZjR3hoYmkwd0xqRXVOaTExYm1sMlpYSnpZV3d1WVhCckNsRkhWalJ0TVVGRU1qVlNiMWxWWmpWNWRuTmphakUyVmtaVlNFbFdiRmxyU2twSVlWRjVjV1ZNTVRWbWVtUTVVRlp0TXl0ME4yaHZkamhxU1U5U1VqVmhjVkZqV21oWFZFcHFZbmRsUzNGS2VGZHJTMEpSUFQwSw==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.6/plan-0.1.6-universal.apk"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VwYWRFdzVVakZRVW1wWFltcDZjVlZLU0VGdlZVTkVhRWxHYmpGSFRqRkVVVXR0VjJ3NFJWaFhhbklyZEZWa2RHMU9UbEpyVkRST1EyOXVUR2d6ZFdrNWNFZ3lPRFJYY0dNeU4wbE1PV2wxTVVGb1RYZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWTFOVEk1Q1dacGJHVTZjR3hoYmkwd0xqRXVOeTExYm1sMlpYSnpZV3d1WVhCckNtNUROelZyVTFKekwxSnFURUU1ZGtGMlJrdERVRkpGZG5Wck0yaDRjVTVWY2poa1JGTjFja3h1YUVsb1UwWlRhM2x6TlVkaFdtTmtkWGgwVWxoSFpXVm1TRlYzTjNaUWJYZHVVR3BXYVVZdldEWk5aVU5CUFQwSw==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.7/plan-0.1.7-universal.apk"
     },
     "android-armv7": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1ZCMlkwMVBXRkJhTjJnNFFVNDJVazlGU2xocGRsTmpUVlJMWTFwWFlqWnNlbVZMWTBVNVJVNDNkSGRtUzFWRFF5ODBaRUkyZUZCNU9VSm1RMUl3U0RRNFVHOTZRbk5DVG1SemNrTTBWRlZGV0RGQ1NHZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWXhNRFl3Q1dacGJHVTZjR3hoYmkwd0xqRXVOaTExYm1sMlpYSnpZV3d1WVhCckNsRkhWalJ0TVVGRU1qVlNiMWxWWmpWNWRuTmphakUyVmtaVlNFbFdiRmxyU2twSVlWRjVjV1ZNTVRWbWVtUTVVRlp0TXl0ME4yaHZkamhxU1U5U1VqVmhjVkZqV21oWFZFcHFZbmRsUzNGS2VGZHJTMEpSUFQwSw==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.6/plan-0.1.6-universal.apk"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VwYWRFdzVVakZRVW1wWFltcDZjVlZLU0VGdlZVTkVhRWxHYmpGSFRqRkVVVXR0VjJ3NFJWaFhhbklyZEZWa2RHMU9UbEpyVkRST1EyOXVUR2d6ZFdrNWNFZ3lPRFJYY0dNeU4wbE1PV2wxTVVGb1RYZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWTFOVEk1Q1dacGJHVTZjR3hoYmkwd0xqRXVOeTExYm1sMlpYSnpZV3d1WVhCckNtNUROelZyVTFKekwxSnFURUU1ZGtGMlJrdERVRkpGZG5Wck0yaDRjVTVWY2poa1JGTjFja3h1YUVsb1UwWlRhM2x6TlVkaFdtTmtkWGgwVWxoSFpXVm1TRlYzTjNaUWJYZHVVR3BXYVVZdldEWk5aVU5CUFQwSw==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.7/plan-0.1.7-universal.apk"
     },
     "android-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1ZCMlkwMVBXRkJhTjJnNFFVNDJVazlGU2xocGRsTmpUVlJMWTFwWFlqWnNlbVZMWTBVNVJVNDNkSGRtUzFWRFF5ODBaRUkyZUZCNU9VSm1RMUl3U0RRNFVHOTZRbk5DVG1SemNrTTBWRlZGV0RGQ1NHZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWXhNRFl3Q1dacGJHVTZjR3hoYmkwd0xqRXVOaTExYm1sMlpYSnpZV3d1WVhCckNsRkhWalJ0TVVGRU1qVlNiMWxWWmpWNWRuTmphakUyVmtaVlNFbFdiRmxyU2twSVlWRjVjV1ZNTVRWbWVtUTVVRlp0TXl0ME4yaHZkamhxU1U5U1VqVmhjVkZqV21oWFZFcHFZbmRsUzNGS2VGZHJTMEpSUFQwSw==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.6/plan-0.1.6-universal.apk"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VwYWRFdzVVakZRVW1wWFltcDZjVlZLU0VGdlZVTkVhRWxHYmpGSFRqRkVVVXR0VjJ3NFJWaFhhbklyZEZWa2RHMU9UbEpyVkRST1EyOXVUR2d6ZFdrNWNFZ3lPRFJYY0dNeU4wbE1PV2wxTVVGb1RYZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpnd09EWTFOVEk1Q1dacGJHVTZjR3hoYmkwd0xqRXVOeTExYm1sMlpYSnpZV3d1WVhCckNtNUROelZyVTFKekwxSnFURUU1ZGtGMlJrdERVRkpGZG5Wck0yaDRjVTVWY2poa1JGTjFja3h1YUVsb1UwWlRhM2x6TlVkaFdtTmtkWGgwVWxoSFpXVm1TRlYzTjNaUWJYZHVVR3BXYVVZdldEWk5aVU5CUFQwSw==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.7/plan-0.1.7-universal.apk"
     }
   }
 }
