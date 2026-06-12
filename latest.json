@@ -1,29 +1,29 @@
 {
-  "version": "0.1.8",
-  "notes": "Теперь обновления приходят сами по интернету и быстрее. Мелкие улучшения.",
-  "pub_date": "2026-06-12T13:31:16Z",
+  "version": "0.1.9",
+  "notes": "Новая иконка Tempora и эмблема на экране входа.",
+  "pub_date": "2026-06-12T14:19:36Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VKdGFsUnpMemxwYW1kbkwzb3pNRmRhWTBwdVFTdGxRa2hIZUUxWVIyTmpkVmt3THk4eWIwRmliM1J3U2xOaWVITkNSRzVQVUN0amEyOTVPVUYzUkd4TE5FNVZRekk0YUhwQloweFdSblpvTkRKcmJYZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3hNRGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPQzEzYVc1a2IzZHpMWGcyTkMxelpYUjFjQzVsZUdVS0swMVZNbXczWldKVlNVMVZOREpCVUVkS1dWWnZhbEJ5YVVsWWVqUlBjbGwyZURSdVpUTkdNamh6TmtGck9FMXFjR0ZIWTBkb0x6UlNkR1IxTHprclFtc3ZiSFZ6THpSb01tMDVORkZDTm5keVV6QjJSSGM5UFFvPQ==",
       "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.8-windows-x64-setup.exe"
     },
     "android-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VKWGRXMU9Semt5WjNjMVVFTjZUV1pXVm01TVR6VldWVGxhVDI5MVRXTXhjamQwTW1SUU9VWXJOMFJDWTJvME5YWk5ha05hTDJrd2JYTkhTRWw1VUZreVkyRjBWV04yTDJrM01HZHFXV1JUYm5CRVZsRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3hNRGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPQzExYm1sMlpYSnpZV3d1WVhCckNqVndaek5RTW1kckwzcGhOM3AyTjNrelFucFhTRVkzVDA1a1JHc3pSVU5oV0hNMldWWXpkakJ0TmpWbWRVbERUMVEwYW01V2JYQTNNMWsyV1ROTGJ6SndOM2RHT0ZoWVVFZDJkMlpCSzBNMmMxbDNURU5uUFQwSw==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.8-universal.apk",
-      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.7-to-0.1.8.patch",
-      "from_version": "0.1.7"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1V0MUsyMUVTV1JzYTJKMWVreElhSFJvTTJsbFpsRjJkRWhzZVVWQ1VXRjJaM0JoUzBKa05sVndia0ozUTNSTVl6VXZaak0wTnpOU2VGcHBWVTV2VkRsbWFHVmlkbmxXWVN0NVNFOXpSakkxSzJsMEsxRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3pPVGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPUzExYm1sMlpYSnpZV3d1WVhCckNqTk5hemRMTlc0d1dXOUZXVXh5WkVSSmRrZHFkMVZhZVdkRGRUQmtjVFJrZVhCWlFrbDNhbG8zVVdwM1ltYzRaMmh4TlZOTVprNHlkVlJUYmtSelMxSm5aWGRtYW1rMmF6RTNVblJ3YlcxM2RHaFhORU5CUFQwSw==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.9-universal.apk",
+      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.8-to-0.1.9.patch",
+      "from_version": "0.1.8"
     },
     "android-armv7": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VKWGRXMU9Semt5WjNjMVVFTjZUV1pXVm01TVR6VldWVGxhVDI5MVRXTXhjamQwTW1SUU9VWXJOMFJDWTJvME5YWk5ha05hTDJrd2JYTkhTRWw1VUZreVkyRjBWV04yTDJrM01HZHFXV1JUYm5CRVZsRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3hNRGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPQzExYm1sMlpYSnpZV3d1WVhCckNqVndaek5RTW1kckwzcGhOM3AyTjNrelFucFhTRVkzVDA1a1JHc3pSVU5oV0hNMldWWXpkakJ0TmpWbWRVbERUMVEwYW01V2JYQTNNMWsyV1ROTGJ6SndOM2RHT0ZoWVVFZDJkMlpCSzBNMmMxbDNURU5uUFQwSw==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.8-universal.apk",
-      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.7-to-0.1.8.patch",
-      "from_version": "0.1.7"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1V0MUsyMUVTV1JzYTJKMWVreElhSFJvTTJsbFpsRjJkRWhzZVVWQ1VXRjJaM0JoUzBKa05sVndia0ozUTNSTVl6VXZaak0wTnpOU2VGcHBWVTV2VkRsbWFHVmlkbmxXWVN0NVNFOXpSakkxSzJsMEsxRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3pPVGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPUzExYm1sMlpYSnpZV3d1WVhCckNqTk5hemRMTlc0d1dXOUZXVXh5WkVSSmRrZHFkMVZhZVdkRGRUQmtjVFJrZVhCWlFrbDNhbG8zVVdwM1ltYzRaMmh4TlZOTVprNHlkVlJUYmtSelMxSm5aWGRtYW1rMmF6RTNVblJ3YlcxM2RHaFhORU5CUFQwSw==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.9-universal.apk",
+      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.8-to-0.1.9.patch",
+      "from_version": "0.1.8"
     },
     "android-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VKWGRXMU9Semt5WjNjMVVFTjZUV1pXVm01TVR6VldWVGxhVDI5MVRXTXhjamQwTW1SUU9VWXJOMFJDWTJvME5YWk5ha05hTDJrd2JYTkhTRWw1VUZreVkyRjBWV04yTDJrM01HZHFXV1JUYm5CRVZsRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3hNRGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPQzExYm1sMlpYSnpZV3d1WVhCckNqVndaek5RTW1kckwzcGhOM3AyTjNrelFucFhTRVkzVDA1a1JHc3pSVU5oV0hNMldWWXpkakJ0TmpWbWRVbERUMVEwYW01V2JYQTNNMWsyV1ROTGJ6SndOM2RHT0ZoWVVFZDJkMlpCSzBNMmMxbDNURU5uUFQwSw==",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.8-universal.apk",
-      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.7-to-0.1.8.patch",
-      "from_version": "0.1.7"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1V0MUsyMUVTV1JzYTJKMWVreElhSFJvTTJsbFpsRjJkRWhzZVVWQ1VXRjJaM0JoUzBKa05sVndia0ozUTNSTVl6VXZaak0wTnpOU2VGcHBWVTV2VkRsbWFHVmlkbmxXWVN0NVNFOXpSakkxSzJsMEsxRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3pPVGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPUzExYm1sMlpYSnpZV3d1WVhCckNqTk5hemRMTlc0d1dXOUZXVXh5WkVSSmRrZHFkMVZhZVdkRGRUQmtjVFJrZVhCWlFrbDNhbG8zVVdwM1ltYzRaMmh4TlZOTVprNHlkVlJUYmtSelMxSm5aWGRtYW1rMmF6RTNVblJ3YlcxM2RHaFhORU5CUFQwSw==",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.9-universal.apk",
+      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.8-to-0.1.9.patch",
+      "from_version": "0.1.8"
     }
   }
 }
