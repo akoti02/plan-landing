@@ -166,6 +166,17 @@
     color:#5b3c11;
     opacity:.9;
   }
+  /* secondary (outline) button — distinct platform from the gold primary */
+  .btn-ios{
+    margin-top:14px;
+    background:rgba(255,178,74,.07);
+    color:var(--paper);
+    border:1px solid var(--line);
+    box-shadow:none;
+  }
+  .btn-ios:hover{background:rgba(255,178,74,.13);box-shadow:none;filter:none;transform:translateY(-2px)}
+  .btn-ios .btn-main{color:var(--paper)}
+  .btn-ios .btn-sub{color:var(--paper-dim)}
   #ver{
     margin-top:16px;
     font-size:13px;
@@ -356,15 +367,14 @@
 
     <section class="cta">
       <a id="dl" href="https://github.com/akoti02/plan-releases/releases/download/v0.1.9/plan-0.1.9-universal.apk" class="btn">
-        <span class="btn-main">Скачать Tempora</span>
-        <span class="btn-sub">для Android · APK</span>
+        <span class="btn-main">Скачать для Android</span>
+        <span class="btn-sub">APK · Android 7 и новее</span>
       </a>
-      <span id="ver">Версия для Android (Android 7 и новее)</span>
-
-      <p id="iosnote">
-        <span class="ios-mark">iPhone</span>
-        На iPhone — <a href="/ios/install.html" style="color:var(--gold-soft);border-bottom:1px solid var(--line)">установить по ссылке</a> (только для телефонов семьи).
-      </p>
+      <a id="dl-ios" href="/ios/install.html" class="btn btn-ios">
+        <span class="btn-main">Установить на iPhone</span>
+        <span class="btn-sub">для телефонов семьи</span>
+      </a>
+      <span id="ver">Android и iPhone — одна семья, одно приложение</span>
     </section>
 
     <section class="block">
