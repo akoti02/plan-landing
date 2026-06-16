@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  OTA-манифест Ad Hoc установки Tempora (iOS) — СВЕЖИЙ URL для обхода кэша.
+  Указывает на Tempora-v3.ipa (байт-в-байт тот же проверенный Ad Hoc IPA,
+  get-task-allow=false). Новое имя файла гарантирует, что Safari/CDN не
+  отдадут закэшированную старую версию.
+-->
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key><string>software-package</string>
+          <key>url</key><string>https://plan.akoev.com/ios/Tempora-v3.ipa</string>
+        </dict>
+        <dict>
+          <key>kind</key><string>display-image</string>
+          <key>url</key><string>https://plan.akoev.com/ios/icon-display.png</string>
+        </dict>
+        <dict>
+          <key>kind</key><string>full-size-image</string>
+          <key>url</key><string>https://plan.akoev.com/ios/icon-full.png</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key><string>ru.akoti.plan</string>
+        <key>bundle-version</key><string>0.1.9</string>
+        <key>kind</key><string>software</string>
+        <key>title</key><string>Tempora</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
