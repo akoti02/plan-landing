@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<title>Tempora — чистая установка для iPhone</title>
+<!--
+  СВЕЖАЯ страница установки (обход кэша). Указывает на manifest-v2.plist →
+  Tempora-v2.ipa (новые имена = Safari/CDN не отдадут старый закэшированный
+  файл). Открывать ТОЛЬКО в Safari на iPhone.
+-->
+<style>
+  :root{
+    --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
+    --accent:#ffb24a; --accent-hover:#ffc06d; --line:#2a2348; --warn:#ff7a7a;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg-0); color:var(--fg-0);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter","Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased; min-height:100vh;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    padding:24px;
+    background-image:
+      radial-gradient(at 20% 0%, rgba(255,178,74,0.08) 0%, transparent 50%),
+      radial-gradient(at 80% 100%, rgba(120,80,200,0.10) 0%, transparent 50%);
+  }
+  main{max-width:480px; width:100%; text-align:center;}
+  .glyph{font-family:"Georgia","Times New Roman",serif; font-size:96px; line-height:1;
+    color:var(--accent); margin-bottom:12px; letter-spacing:-2px;}
+  h1{font-family:"Georgia","Times New Roman",serif; font-weight:400; font-size:44px;
+    margin:0 0 8px; letter-spacing:-0.5px;}
+  .tagline{color:var(--fg-1); font-size:17px; line-height:1.5; margin:0 0 28px;}
+  .pre{margin:0 0 28px; padding:18px 20px; background:rgba(255,122,122,0.10);
+    border:1px solid rgba(255,122,122,0.35); border-radius:10px; text-align:left;
+    font-size:15px; color:var(--fg-0); line-height:1.6;}
+  .pre b{color:var(--warn);}
+  .pre ol{margin:8px 0 0; padding-left:20px;}
+  .pre li{margin:7px 0;}
+  .button{display:inline-block; background:var(--accent); color:var(--bg-0);
+    font-size:18px; font-weight:600; padding:18px 36px; border-radius:12px;
+    text-decoration:none; transition:background 120ms ease, transform 120ms ease;
+    box-shadow:0 4px 24px rgba(255,178,74,0.22); border:none; cursor:pointer;}
+  .button:hover{background:var(--accent-hover); transform:translateY(-1px);}
+  .button:active{transform:translateY(0);}
+  .steps{margin-top:28px; padding:18px 20px; background:var(--bg-1);
+    border-radius:10px; text-align:left; font-size:15px; color:var(--fg-1);
+    line-height:1.65;}
+  .steps b{color:var(--fg-0);}
+  .steps ol{margin:8px 0 0; padding-left:20px;}
+  .steps li{margin:6px 0;}
+  .note{margin-top:24px; font-size:13px; color:var(--fg-1); opacity:0.8; line-height:1.6;}
+  footer{margin-top:48px; font-size:12px; color:var(--fg-1); opacity:0.6;}
+  @media (max-width:480px){
+    .glyph{font-size:72px;} h1{font-size:32px;} .button{width:100%; padding:16px;}
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="glyph">T</div>
+  <h1>Tempora</h1>
+  <p class="tagline">
+    Чистая установка — свежая версия без «Режима разработчика».
+  </p>
+
+  <div class="pre">
+    <b>СНАЧАЛА удали старую версию (обязательно):</b>
+    <ol>
+      <li>Найди значок <b>Tempora</b> → задержи палец → <b>«Удалить приложение»</b> → <b>«Удалить»</b>.</li>
+      <li>Проверь, что значка нет ни на экране, ни в «Библиотеке приложений».</li>
+      <li><b>Перезагрузи iPhone</b> (выключи и включи) — это сбрасывает старую установку.</li>
+      <li>Только теперь нажимай кнопку ниже.</li>
+    </ol>
+  </div>
+
+  <a id="install" class="button" href="#">Установить заново</a>
+
+  <div class="steps">
+    <b>Дальше:</b>
+    <ol>
+      <li>iPhone спросит «Установить “Tempora”?» — нажми <b>Установить</b>.</li>
+      <li>Закрой Safari, найди значок Tempora — он будет ставиться.</li>
+      <li>Первый запуск пишет «Ненадёжный разработчик»? Это нормально:
+        <b>Настройки → Основные → VPN и управление устройством</b> →
+        выбери разработчика → <b>Доверять</b>.</li>
+      <li>Открывай Tempora. «Режима разработчика» быть <b>не должно</b>.</li>
+    </ol>
+  </div>
+
+  <p class="note">
+    Открой эту страницу в <b>Safari</b> (не Chrome, не внутри другого
+    приложения), иначе кнопка не сработает.
+  </p>
+
+  <footer>© Артур Акоев, 2026</footer>
+</main>
+
+<script>
+  // manifest-v2.plist лежит рядом. Добавляем cache-buster — на всякий случай.
+  (function () {
+    var here = location.href.split('?')[0].split('#')[0];
+    var dir = here.substring(0, here.lastIndexOf('/') + 1);
+    var manifestUrl = dir + 'manifest-v2.plist';
+    var link = 'itms-services://?action=download-manifest&url=' +
+               encodeURIComponent(manifestUrl);
+    document.getElementById('install').setAttribute('href', link);
+  })();
+</script>
+</body>
+</html>
