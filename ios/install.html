@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Анти-кэш для самой страницы (оболочка всё равно сама тянет свежий latest.json). -->
+<!-- Анти-кэш для самой страницы. meta ненадёжен на CDN/Safari, поэтому НИЖЕ в JS
+     стоит настоящий авто-обновитель: сверяет page_rev из latest.json и форсит
+     перезагрузку оболочки мимо кэша. -->
 <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
@@ -11,10 +13,11 @@
 <!--
   ПОСТОЯННАЯ страница установки (URL не меняется НИКОГДА):
   https://plan.akoev.com/ios/install.html
-  На каждой загрузке тянет latest.json (с меткой времени = мимо кэша) и
-  показывает АКТУАЛЬНЫЙ «BUILD N» + ставит именно этот билд через
-  manifest-bN.plist → Tempora-bN.ipa (уникальные имена = кэш не вмешается).
-  Открывать ТОЛЬКО в Safari (Chrome не открывает itms-services).
+  АВТО-ОБНОВИТЕЛЬ: на каждой загрузке тянет latest.json МИМО кэша. Если сервер
+  ждёт более новую оболочку (page_rev > PAGE_REV) — значит у тебя закэширована
+  старая страница: форсим перезагрузку на свежий URL (новый query = кэш-промах в
+  Safari и на CDN). В любом случае ставим САМЫЙ свежий build из latest.json, даже
+  если оболочка устарела. Открывать ТОЛЬКО в Safari (Chrome глотает itms-services).
 -->
 <style>
   :root{ --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
@@ -44,8 +47,8 @@
   .steps{margin-top:24px; padding:18px 20px; background:var(--bg-1); border-radius:10px;
     text-align:left; font-size:15px; color:var(--fg-1); line-height:1.65;}
   .steps b{color:var(--fg-0);} .steps ol{margin:8px 0 0; padding-left:20px;} .steps li{margin:7px 0;}
-  .refresh{margin-top:18px; font-size:13px; color:var(--fg-1); opacity:.8; text-decoration:underline; cursor:pointer; background:none; border:none;}
-  @media (max-width:480px){ .glyph{font-size:64px;} h1{font-size:30px;} .button{width:100%; padding:16px;} }
+  .refresh{margin-top:18px; font-size:13px; color:var(--fg-1); opacity:.85; text-decoration:underline; cursor:pointer; background:none; border:none;}
+  .rev{margin-top:10px; font-size:11px; color:var(--fg-1); opacity:.45;}
 </style>
 </head>
 <body>
@@ -71,31 +74,63 @@
     </ol>
   </div>
 
-  <button class="refresh" onclick="location.reload(true)">обновить страницу</button>
+  <button class="refresh" id="force">принудительно обновить страницу</button>
+  <div class="rev" id="rev"></div>
   <footer style="margin-top:28px;font-size:12px;color:var(--fg-1);opacity:.6">© Артур Акоев, 2026</footer>
 </main>
 
 <script>
   (function () {
+    // Версия САМОЙ оболочки. Поднимай при КАЖДОМ изменении install.html
+    // и одновременно в latest.json ("page_rev"). Если latest.json просит больше —
+    // у пользователя закэширована старая страница → авто-перезагрузка ниже.
+    var PAGE_REV = 54;
     var buildEl = document.getElementById('build');
     var btn = document.getElementById('install');
-    function setManifest(manifestFile) {
+    var revEl = document.getElementById('rev');
+    revEl.textContent = 'страница rev ' + PAGE_REV;
+
+    // Жёсткая перезагрузка на УНИКАЛЬНЫЙ URL = кэш-промах в Safari и на CDN.
+    function hardReload(reason) {
+      var u = location.pathname + '?fresh=' + Date.now() + '-' + Math.floor(Math.random() * 1e6);
+      location.replace(u);
+    }
+    document.getElementById('force').addEventListener('click', function () { hardReload('manual'); });
+
+    function setManifest(manifestFile, build) {
       var here = location.href.split('?')[0].split('#')[0];
       var dir = here.substring(0, here.lastIndexOf('/') + 1);
-      var url = dir + manifestFile + '?v=' + Date.now();   // метка = мимо кэша
+      var url = dir + manifestFile + '?v=' + Date.now();   // уникальное имя манифеста = кэш не вмешается
       btn.setAttribute('href', 'itms-services://?action=download-manifest&url=' + encodeURIComponent(url));
+      btn.textContent = 'Установить build ' + build;
       btn.classList.remove('disabled');
     }
-    // Тянем свежий указатель версии МИМО кэша (уникальный query + no-store).
-    fetch('latest.json?t=' + Date.now(), { cache: 'no-store' })
+
+    // latest.json — МИМО любого кэша (no-store + уникальный query).
+    fetch('latest.json?t=' + Date.now() + '-' + Math.random(), { cache: 'no-store', headers: { 'Cache-Control': 'no-cache' } })
       .then(function (r) { return r.json(); })
       .then(function (j) {
+        // ── АВТО-ОБНОВИТЕЛЬ ОБОЛОЧКИ ──
+        var wantRev = j.page_rev || 0;
+        if (wantRev > PAGE_REV) {
+          // Защита от петли перезагрузки: форсим максимум один раз на каждую
+          // желаемую версию за сессию. Если после перезагрузки оболочка всё ещё
+          // старая (упрямый кэш) — просто показываем свежий build (он тянется
+          // из latest.json в любом случае), без бесконечного reload.
+          var forced = false;
+          try { forced = sessionStorage.getItem('frev') === String(wantRev); } catch (e) {}
+          if (!forced) {
+            try { sessionStorage.setItem('frev', String(wantRev)); } catch (e) {}
+            hardReload('stale-shell rev ' + PAGE_REV + ' < ' + wantRev);
+            return;
+          }
+        }
         buildEl.textContent = 'BUILD ' + j.build;
-        btn.textContent = 'Установить build ' + j.build;
-        setManifest(j.manifest);
+        setManifest(j.manifest, j.build);
+        revEl.textContent = 'страница rev ' + PAGE_REV + (wantRev > PAGE_REV ? ' · сервер: ' + wantRev + ' (кэш упрям — нажми «принудительно обновить»)' : ' · актуально');
       })
       .catch(function () {
-        buildEl.textContent = 'не удалось проверить — нажми «обновить страницу»';
+        buildEl.textContent = 'не удалось проверить — нажми «принудительно обновить страницу»';
       });
   })();
 </script>
