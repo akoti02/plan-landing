@@ -3,97 +3,100 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Анти-кэш для самой страницы (оболочка всё равно сама тянет свежий latest.json). -->
+<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>Tempora — установка для iPhone</title>
 <!--
-  OTA-страница установки Ad Hoc (мама Юля + Света).
-  Кнопка строит ссылку itms-services://… из адреса самой страницы
-  (manifest.plist лежит рядом). Открывать ТОЛЬКО в Safari на iPhone —
-  Chrome/в-приложении-браузеры itms-services не открывают.
-  И эта страница, и manifest.plist, и .ipa, и иконки ДОЛЖНЫ отдаваться
-  по HTTPS с валидным сертификатом.
+  ПОСТОЯННАЯ страница установки (URL не меняется НИКОГДА):
+  https://plan.akoev.com/ios/install.html
+  На каждой загрузке тянет latest.json (с меткой времени = мимо кэша) и
+  показывает АКТУАЛЬНЫЙ «BUILD N» + ставит именно этот билд через
+  manifest-bN.plist → Tempora-bN.ipa (уникальные имена = кэш не вмешается).
+  Открывать ТОЛЬКО в Safari (Chrome не открывает itms-services).
 -->
 <style>
-  :root{
-    --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
-    --accent:#ffb24a; --accent-hover:#ffc06d; --line:#2a2348;
-  }
-  *{box-sizing:border-box;}
-  html,body{margin:0;padding:0;}
-  body{
-    background:var(--bg-0); color:var(--fg-0);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter","Helvetica Neue",Arial,sans-serif;
+  :root{ --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
+    --accent:#ffb24a; --accent-hover:#ffc06d; --good:#46d18a; }
+  *{box-sizing:border-box;} html,body{margin:0;padding:0;}
+  body{ background:var(--bg-0); color:var(--fg-0);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter",Arial,sans-serif;
     -webkit-font-smoothing:antialiased; min-height:100vh;
-    display:flex; flex-direction:column; align-items:center; justify-content:center;
-    padding:24px;
+    display:flex; flex-direction:column; align-items:center; justify-content:center; padding:24px;
     background-image:
       radial-gradient(at 20% 0%, rgba(255,178,74,0.08) 0%, transparent 50%),
-      radial-gradient(at 80% 100%, rgba(120,80,200,0.10) 0%, transparent 50%);
-  }
+      radial-gradient(at 80% 100%, rgba(120,80,200,0.10) 0%, transparent 50%); }
   main{max-width:480px; width:100%; text-align:center;}
-  .glyph{font-family:"Georgia","Times New Roman",serif; font-size:96px; line-height:1;
-    color:var(--accent); margin-bottom:12px; letter-spacing:-2px;}
-  h1{font-family:"Georgia","Times New Roman",serif; font-weight:400; font-size:44px;
-    margin:0 0 8px; letter-spacing:-0.5px;}
-  .tagline{color:var(--fg-1); font-size:17px; line-height:1.5; margin:0 0 36px;}
+  .glyph{font-family:"Georgia",serif; font-size:84px; line-height:1; color:var(--accent); margin-bottom:8px;}
+  h1{font-family:"Georgia",serif; font-weight:400; font-size:40px; margin:0 0 6px;}
+  .build{display:inline-block; margin:0 0 28px; padding:8px 18px; border-radius:999px;
+    background:rgba(70,209,138,0.14); border:1px solid var(--good); color:var(--good);
+    font-size:22px; font-weight:700; letter-spacing:0.5px;}
   .button{display:inline-block; background:var(--accent); color:var(--bg-0);
-    font-size:18px; font-weight:600; padding:18px 36px; border-radius:12px;
-    text-decoration:none; transition:background 120ms ease, transform 120ms ease;
-    box-shadow:0 4px 24px rgba(255,178,74,0.22); border:none; cursor:pointer;}
-  .button:hover{background:var(--accent-hover); transform:translateY(-1px);}
-  .button:active{transform:translateY(0);}
-  .steps{margin-top:36px; padding:18px 20px; background:var(--bg-1);
-    border-radius:10px; text-align:left; font-size:15px; color:var(--fg-1);
-    line-height:1.65;}
-  .steps b{color:var(--fg-0);}
-  .steps ol{margin:8px 0 0; padding-left:20px;}
-  .steps li{margin:6px 0;}
-  .note{margin-top:24px; font-size:13px; color:var(--fg-1); opacity:0.8; line-height:1.6;}
-  footer{margin-top:48px; font-size:12px; color:var(--fg-1); opacity:0.6;}
-  @media (max-width:480px){
-    .glyph{font-size:72px;} h1{font-size:32px;} .button{width:100%; padding:16px;}
-  }
+    font-size:19px; font-weight:700; padding:18px 36px; border-radius:12px;
+    text-decoration:none; box-shadow:0 4px 24px rgba(255,178,74,0.22); cursor:pointer;
+    transition:opacity 150ms ease;}
+  .button:active{transform:translateY(1px);}
+  .button.disabled{opacity:.45; pointer-events:none;}
+  .warn{margin-top:22px; font-size:14px; color:#ffd9a0; line-height:1.6;
+    background:rgba(255,178,74,0.10); border:1px solid var(--accent); border-radius:10px; padding:12px 14px;}
+  .steps{margin-top:24px; padding:18px 20px; background:var(--bg-1); border-radius:10px;
+    text-align:left; font-size:15px; color:var(--fg-1); line-height:1.65;}
+  .steps b{color:var(--fg-0);} .steps ol{margin:8px 0 0; padding-left:20px;} .steps li{margin:7px 0;}
+  .refresh{margin-top:18px; font-size:13px; color:var(--fg-1); opacity:.8; text-decoration:underline; cursor:pointer; background:none; border:none;}
+  @media (max-width:480px){ .glyph{font-size:64px;} h1{font-size:30px;} .button{width:100%; padding:16px;} }
 </style>
 </head>
 <body>
 <main>
   <div class="glyph">T</div>
   <h1>Tempora</h1>
-  <p class="tagline">
-    Семейный планировщик: задачи, заметки, чат и общие фото.<br>
-    Только для нашей семьи.
-  </p>
+  <div class="build" id="build">проверяю версию…</div>
+  <div></div>
 
-  <a id="install" class="button" href="#">Установить на iPhone</a>
+  <a id="install" class="button disabled" href="#">Установить</a>
+
+  <div class="warn">
+    ⚠️ Открой эту страницу <b>в Safari</b> (НЕ в Chrome). В Chrome кнопка молча
+    не сработает. Если ты в Chrome — «···» → «Открыть в Safari».
+  </div>
 
   <div class="steps">
-    <b>Как поставить (2 минуты):</b>
+    <b>Как поставить:</b>
     <ol>
-      <li>Нажми <b>«Установить на iPhone»</b> выше.</li>
-      <li>iPhone спросит «Установить “Tempora”?» — нажми <b>Установить</b>.</li>
-      <li>Закрой Safari, найди значок Tempora на экране — он будет ставиться.</li>
-      <li>Если при первом запуске пишет «Ненадёжный разработчик»:
-        <b>Настройки → Основные → VPN и управление устройством</b> →
-        выбери разработчика → <b>Доверять</b>.</li>
+      <li>Сверь номер вверху — это и есть самая свежая версия.</li>
+      <li>Нажми <b>«Установить build …»</b> → «Установить».</li>
+      <li>Закрой Safari, дождись обновления значка, открой <b>Tempora</b>.</li>
     </ol>
   </div>
 
-  <p class="note">
-    Эту страницу нужно открыть в <b>Safari</b> (не в Chrome и не внутри
-    другого приложения), иначе кнопка не сработает.
-  </p>
-
-  <footer>© Артур Акоев, 2026</footer>
+  <button class="refresh" onclick="location.reload(true)">обновить страницу</button>
+  <footer style="margin-top:28px;font-size:12px;color:var(--fg-1);opacity:.6">© Артур Акоев, 2026</footer>
 </main>
 
 <script>
-  // manifest.plist лежит в той же папке, что и эта страница.
   (function () {
-    var here = location.href.split('?')[0].split('#')[0];
-    var dir = here.substring(0, here.lastIndexOf('/') + 1);
-    var manifestUrl = dir + 'manifest.plist';
-    var link = 'itms-services://?action=download-manifest&url=' +
-               encodeURIComponent(manifestUrl);
-    document.getElementById('install').setAttribute('href', link);
+    var buildEl = document.getElementById('build');
+    var btn = document.getElementById('install');
+    function setManifest(manifestFile) {
+      var here = location.href.split('?')[0].split('#')[0];
+      var dir = here.substring(0, here.lastIndexOf('/') + 1);
+      var url = dir + manifestFile + '?v=' + Date.now();   // метка = мимо кэша
+      btn.setAttribute('href', 'itms-services://?action=download-manifest&url=' + encodeURIComponent(url));
+      btn.classList.remove('disabled');
+    }
+    // Тянем свежий указатель версии МИМО кэша (уникальный query + no-store).
+    fetch('latest.json?t=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        buildEl.textContent = 'BUILD ' + j.build;
+        btn.textContent = 'Установить build ' + j.build;
+        setManifest(j.manifest);
+      })
+      .catch(function () {
+        buildEl.textContent = 'не удалось проверить — нажми «обновить страницу»';
+      });
   })();
 </script>
 </body>
