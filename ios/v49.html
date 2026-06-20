@@ -1,86 +1,12 @@
 <!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
+<html lang="ru"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Анти-кэш: эта страница НИКОГДА не берётся из кэша браузера. -->
 <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-<title>Tempora — установка build 49</title>
-<!--
-  ВЕРСИОННАЯ страница установки (build 49). Уникальный URL + уникальные имена
-  файлов (manifest-b49.plist → Tempora-b49.ipa) = браузер физически не может
-  отдать старое из кэша. Открывать ТОЛЬКО в Safari (не Chrome!).
--->
-<style>
-  :root{ --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
-    --accent:#ffb24a; --accent-hover:#ffc06d; --good:#46d18a; --line:#2a2348; }
-  *{box-sizing:border-box;}
-  html,body{margin:0;padding:0;}
-  body{ background:var(--bg-0); color:var(--fg-0);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter",Arial,sans-serif;
-    -webkit-font-smoothing:antialiased; min-height:100vh;
-    display:flex; flex-direction:column; align-items:center; justify-content:center; padding:24px;
-    background-image:
-      radial-gradient(at 20% 0%, rgba(255,178,74,0.08) 0%, transparent 50%),
-      radial-gradient(at 80% 100%, rgba(120,80,200,0.10) 0%, transparent 50%); }
-  main{max-width:480px; width:100%; text-align:center;}
-  .glyph{font-family:"Georgia",serif; font-size:84px; line-height:1; color:var(--accent); margin-bottom:8px;}
-  h1{font-family:"Georgia",serif; font-weight:400; font-size:40px; margin:0 0 6px;}
-  .build{display:inline-block; margin:0 0 28px; padding:8px 18px; border-radius:999px;
-    background:rgba(70,209,138,0.14); border:1px solid var(--good); color:var(--good);
-    font-size:22px; font-weight:700; letter-spacing:0.5px;}
-  .button{display:inline-block; background:var(--accent); color:var(--bg-0);
-    font-size:19px; font-weight:700; padding:18px 36px; border-radius:12px;
-    text-decoration:none; box-shadow:0 4px 24px rgba(255,178,74,0.22); cursor:pointer;}
-  .button:active{transform:translateY(1px);}
-  .steps{margin-top:32px; padding:18px 20px; background:var(--bg-1); border-radius:10px;
-    text-align:left; font-size:15px; color:var(--fg-1); line-height:1.65;}
-  .steps b{color:var(--fg-0);}
-  .steps ol{margin:8px 0 0; padding-left:20px;} .steps li{margin:7px 0;}
-  .warn{margin-top:22px; font-size:14px; color:#ffd9a0; line-height:1.6;
-    background:rgba(255,178,74,0.10); border:1px solid var(--accent); border-radius:10px; padding:12px 14px;}
-  @media (max-width:480px){ .glyph{font-size:64px;} h1{font-size:30px;} .button{width:100%; padding:16px;} }
-</style>
-</head>
-<body>
-<main>
-  <div class="glyph">T</div>
-  <h1>Tempora</h1>
-  <div class="build">BUILD 49</div>
-  <div></div>
-
-  <a id="install" class="button" href="#">Установить build 49</a>
-
-  <div class="warn">
-    ⚠️ Открой эту страницу <b>в Safari</b> (НЕ в Chrome). В Chrome кнопка молча
-    не сработает и останется старая версия. Если ты в Chrome — нажми «···» →
-    «Открыть в Safari».
-  </div>
-
-  <div class="steps">
-    <b>Как поставить:</b>
-    <ol>
-      <li>Убедись, что вверху написано <b>BUILD 49</b> (это новая версия).</li>
-      <li>Нажми <b>«Установить build 49»</b>.</li>
-      <li>iPhone спросит «Установить “Tempora (build 49)”?» — нажми <b>Установить</b>.</li>
-      <li>Закрой Safari, дождись, пока значок Tempora до-обновится, и открой его.</li>
-    </ol>
-  </div>
-
-  <footer style="margin-top:40px;font-size:12px;color:var(--fg-1);opacity:.6">© Артур Акоев, 2026 · build 49</footer>
-</main>
-
-<script>
-  // Указываем на ВЕРСИОННЫЙ манифест build 49 (+ метка времени = двойная защита от кэша).
-  (function () {
-    var here = location.href.split('?')[0].split('#')[0];
-    var dir = here.substring(0, here.lastIndexOf('/') + 1);
-    var manifestUrl = dir + 'manifest-b49.plist?v=49';
-    var link = 'itms-services://?action=download-manifest&url=' + encodeURIComponent(manifestUrl);
-    document.getElementById('install').setAttribute('href', link);
-  })();
-</script>
-</body>
-</html>
+<meta http-equiv="refresh" content="0; url=install.html?r=1">
+<title>Tempora — переход на актуальную установку</title>
+<script>try{location.replace('install.html?r=' + Date.now());}catch(e){location.href='install.html?r=1';}</script>
+<style>body{background:#0a0712;color:#f4ecff;font-family:-apple-system,Arial,sans-serif;text-align:center;padding:48px 24px}a{color:#ffb24a;font-size:19px;font-weight:700}</style>
+</head><body>
+Это устаревшая страница. Перехожу на актуальную установку (build 53)…<br><br>
+<a href="install.html?r=1">Открыть install.html</a>
+</body></html>
