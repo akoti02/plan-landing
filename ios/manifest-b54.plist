@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  OTA-манифест Ad Hoc установки Tempora (iOS) — ВЕРСИОННЫЙ, build 54.
+  Указывает на Tempora-b54.ipa (уникальное имя = никакого кэша). Открывается
+  страницей install.html через itms-services://?action=download-manifest&url=<этот plist>.
+-->
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key><string>software-package</string>
+          <key>url</key><string>https://plan.akoev.com/ios/Tempora-b54.ipa</string>
+        </dict>
+        <dict>
+          <key>kind</key><string>display-image</string>
+          <key>url</key><string>https://plan.akoev.com/ios/icon-display.png</string>
+        </dict>
+        <dict>
+          <key>kind</key><string>full-size-image</string>
+          <key>url</key><string>https://plan.akoev.com/ios/icon-full.png</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key><string>ru.akoti.plan</string>
+        <key>bundle-version</key><string>0.1.9.54</string>
+        <key>kind</key><string>software</string>
+        <key>title</key><string>Tempora (build 54)</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
