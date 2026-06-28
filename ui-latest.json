@@ -1,11 +1,11 @@
 {
-  "ui_build": 3,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-3/bundle-378d1222.js",
-  "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VJMGRXeHZZVTFIYVRoNFREbExiVkppYzFWWlMweGFRbUZHZVVGRVNHcFJObTl6UWk5WU9UbDVlWG81WW05VVNHUnZiVXcxYlZKelVXaEtlRWRTU1hRdldHd3lObkJNUmxnd0swVmphRVo1T1M5UWVrRkpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneU1qUXlNVE0wQ1dacGJHVTZZblZ1Wkd4bExUTTNPR1F4TWpJeUxtcHpDbTFwZDNGNWVsWldjR2gxTm1jeU55OW9NekJNU1V3eU9IQk9la3BLTnpkV1VqQkNXSGd4Y1ZsT1ZtMWFkWGRxZFVweE1sVnRaMEZuYzJGc1RYcDFNVFphUkRac1QwMVVlakp0VW1Kd2R6WnJXVTVVVVVGUlBUMEs=",
-  "notes": "Видеозвонки: надёжность, переключение, аудио-на-лету, качество; аудио-фиксы",
-  "pub_date": "2026-06-23T19:19:19Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-3/styles.tailwind-54129ff2.css",
-  "css_signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VWdVRETnJUMHQzWkVWaVJVOWFPSG8zYjA4NVNrSXJXVVprZWpadGQwcHVUbGxTUld0RFptWXdkMnRFVERsWlMxQlRZM0U0ZVRCclYwMUpiVms1VFhoVE15czJOVE5DWTNJeFJFRTJhekl3VFdoT1dGRm5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneU1qUXlNVE0wQ1dacGJHVTZjM1I1YkdWekxuUmhhV3gzYVc1a0xUVTBNVEk1Wm1ZeUxtTnpjd3ByTW13MFdrYzBaMmh2VmpGUlMyZExXVnBoYW10amVEVmpSbWhxVkc1RlNXVnBTa3hQTlhjNVVuZ3JlamxGVmtsbU4zRllWMnRpZEdaU1NGQnNUV1ozZWpoeVRVeDRWakZIT0RaNmEwZGlWRVJIT1ROQlFUMDlDZz09",
-  "from_ui_build": 2,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-3/bundle-2-to-3.patch"
+  "ui_build": 4,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-4/bundle-0a67a55a.js",
+  "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1V4TFRVaEplbGRXU2tFMEx6WkxOV2wyUVZoS2EwcFNjVFl6Y21aTWMwbzNaRTgyZW5aMmMwbEZVMkpyVnpCU04weGlTR0ZYVDBJdlZraDZaV1JWYUc1V1QzTjRSV1l3ZUhwTmMyNVpSamx4VlhkMmFGRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneU5qYzJPVFk1Q1dacGJHVTZZblZ1Wkd4bExUQmhOamRoTlRWaExtcHpDbU5MVGxKMFYwUmplRzV1VG5ZemEzTlNUMUZMVFVsQlpUQklTRlV3WjAxWGMyYzFTbFpQT0V4c1dsVnFjRGxvVUhnM0sxTlVZV3R4UjJFMVdWRTVZbnBoZDFaRmVHUlZiVGRIVGt4TlpucFBZV1l3WkVOblBUMEs=",
+  "notes": "Заметки и Данные поменяны местами в верхней панели (Заметки ближе к Задачам)",
+  "pub_date": "2026-06-28T20:07:33Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-4/styles.tailwind-54129ff2.css",
+  "css_signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VFd1ZWWnFMMUZJY3psd1NVUk1WbkpGWjI5ME9IWkZkbU5qYlhKRFkwbHlLMEZwWVdoNWRqaDRXazVGV1hGcE9HMHZOMHhzYUVabk1VazVjR2hEY0ZOU1l6bFlXVlpHTVhSSVZFb3dUM0pSVkZoek5WRlpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneU5qYzJPVFk1Q1dacGJHVTZjM1I1YkdWekxuUmhhV3gzYVc1a0xUVTBNVEk1Wm1ZeUxtTnpjd3BLTld0Sk1VOW9ibloyZEhKdFZFcDVXRUZTWTBjMmNqZGhkVzVEWlVST1ltSmxjV00yYjJodFRsbzRTMEYyVmxWdWFVWklURmxtZW5oSEwyTkhkaTlLYkVKRFdsTmxlbXR4VUZvclVWbEVkMU5WUlhKRFFUMDlDZz09",
+  "from_ui_build": 3,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-4/bundle-3-to-4.patch"
 }
