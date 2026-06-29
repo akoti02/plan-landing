@@ -65,6 +65,8 @@
 
   <a id="install" class="button" href="#">Установить на iPhone</a>
 
+  <div id="buildlabel" style="margin-top:14px; font-size:14px; color:var(--fg-1); opacity:.85">Версия загружается…</div>
+
   <div class="steps">
     <b>Как поставить (2 минуты):</b>
     <ol>
@@ -86,14 +88,31 @@
 </main>
 
 <script>
-  // manifest.plist лежит в той же папке, что и эта страница.
+  // ОДНА постоянная ссылка (Артур 2026-06-29): install.html всегда ставит САМЫЙ
+  // свежий билд. Кнопка сначала получает мгновенный фолбэк (manifest.plist), затем
+  // уточняется по latest.json → ВЕРСИОННЫЙ manifest-bNN.plist (уникальное имя IPA =
+  // Safari не подсунет старую кэш-копию) + показывает номер билда. Даже если сама
+  // страница закэширована — она всё равно читает свежий latest.json. Версионные
+  // vNN.html больше не нужны: этой одной ссылки достаточно навсегда.
   (function () {
     var here = location.href.split('?')[0].split('#')[0];
     var dir = here.substring(0, here.lastIndexOf('/') + 1);
-    var manifestUrl = dir + 'manifest.plist';
-    var link = 'itms-services://?action=download-manifest&url=' +
-               encodeURIComponent(manifestUrl);
-    document.getElementById('install').setAttribute('href', link);
+    function setLink(manifestName) {
+      var url = dir + manifestName + '?t=' + Date.now();
+      var link = 'itms-services://?action=download-manifest&url=' + encodeURIComponent(url);
+      document.getElementById('install').setAttribute('href', link);
+    }
+    setLink('manifest.plist'); // мгновенный фолбэк — кнопка работает сразу
+    try {
+      fetch(dir + 'latest.json?t=' + Date.now(), { cache: 'no-store' })
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+          if (j && j.manifest) setLink(j.manifest);
+          var bl = document.getElementById('buildlabel');
+          if (bl) bl.textContent = (j && j.build != null) ? ('Устанавливается build ' + j.build) : '';
+        })
+        .catch(function () {});
+    } catch (e) {}
   })();
 </script>
 </body>
