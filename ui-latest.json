@@ -1,11 +1,11 @@
 {
-  "ui_build": 5,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-5/bundle-0a67a55a.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVESENhVW9ESFdTK1YvVk4xNkNqSFRTSExXZGZQcWdtZWczYlNVaFB2NFhZV1ZpYjR0ODlBVDFkM0IzU2hjc1VlTVJtSkV5TnRjU0Vnb0lubUhwYmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjc4MDIyCWZpbGU6YnVuZGxlLTBhNjdhNTVhLmpzCmVuWmRKVmNwVlRRS3lDSXBqK242NDhHVy9scC94K1JPVVh4MUw2V2xudDk4NWJLZTJZYWh1aUdJQUJVbEdnVXRYQmVFNGtReW5HVzhGcHJvWnFrcUF3PT0K",
-  "notes": "fix: корректная подпись OTA (была двойная base64) + свап вкладок Заметки/Данные",
-  "pub_date": "2026-06-28T20:24:03Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-5/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdyS0RobGlBS2xTYXRSV0RyaFVxc2NHNElyY2xEc0gzUTg4V0tXK0wzemdUb2FNYzFiRVBZYTBFaDBQWXhrZHRIS0xBekdrQ3k2MUhJOE0zbVo2QVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjc4MDIyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpEdm5YTEY1TXBnbmgyZDhJbmZwdUgxTHpRRXRCeXJlUEJCSUNZUGZTTStpUHRxcW1rai9SZSt0dEtJdnVZM0VIeWlCQnlZblJpVnZ0aVNoYXZhQWxCdz09Cg==",
-  "from_ui_build": 4,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-5/bundle-4-to-5.patch"
+  "ui_build": 6,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-6/bundle-af352a82.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhNMXFTWXdyVTk3bFRYN3I1aWZ3K1RxWjlSVUNoZjhGR09meE5KQnFsQjlkWCt3TlpSOCtyRXl1ZFdaOEgxRVdCa1VWMDJlRFppNTF3d3VhSER4K2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzY5NjcyCWZpbGU6YnVuZGxlLWFmMzUyYTgyLmpzClpIOHNtbFlPZ0p0VmozMUZ0T05oM05vVHFBNWtUYVptQUlCNU81VWxnZUx1UVl4NVpFS1F0ZE4zWDdRS0RmUDVqWW4rQmliSVErVTdwZEJhNjBQdEJ3PT0K",
+  "notes": "Звонки: надёжность (guard'ы, сторож-не-рубит, чистый remount) + звук iPhone (без двойной обработки, громче)",
+  "pub_date": "2026-06-29T21:51:08Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-6/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdRcGlTQ0hzbm53WkI4OG1JNnhoOFdlLzMreVNaaURCL2dBeEtlTEhmeEFYYjJUeG5CZ0krUmQ2RGwvejc2RzQ2MHBhRjZsVlZmZktZQ1Rjd3dtU0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzY5NjcyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpNOEVWU2l5d3MwalNuVnFBTzhEeVpVa3A0bnQvZ3c5VzNrRFRKbGkzSU02SXAwcmVidHV2WTdQWUFHdmRDbXJnYXBsOWNOQm1ybHAzRmRpY2UxMS9EZz09Cg==",
+  "from_ui_build": 5,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-6/bundle-5-to-6.patch"
 }
