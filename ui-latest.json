@@ -1,11 +1,11 @@
 {
-  "ui_build": 7,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-7/bundle-fb267c97.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtyY0VybTBYRVBWMWVmdkxBM05KQmYySTYxb25tTXNkVHZ2RGNDU3lFRlhLK3lFek9abFVqRXEyWU1HMUtPeGcwbllmRW55bnFZeUpSejBmTWpOdEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODAwOTM5CWZpbGU6YnVuZGxlLWZiMjY3Yzk3LmpzCng2eHNkempYanAzaHkvQmFaOEFJTHEreFFabmRFak5QOEFnSWhmWHhDT3VyMXYyTElPeStIbXZzakhDa211QlRjbkxxd3Fjd3FQVCtyRWlKYUJLS0NRPT0K",
-  "notes": "Звук: iPhone usedtx + Samsung громкость + измерение; z-index экрана; iPhone accept-поллинг",
-  "pub_date": "2026-06-30T06:32:03Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-7/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxZLzBrV1ljR1I0OWdxZUdXUm1raU9PRTZpYVhDaDZzTHVWM0llMHV2dnU4a3VQY2Mwc1FsaUV4QmVZZkFXMkI5NEIyMEdaVmg5RVpxTzlrQWI2UFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODAwOTM5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpDbXBtTVUrdllTTmI1eCsvS0FnMEpTeThpems0UjJ1eUs2VHBXN3ErdUJnWGxzOEE1ZFdnbkJoenBZZWRISG5pSCsxMUg3VjFVRUNRdmJSazNLSDJCUT09Cg==",
-  "from_ui_build": 6,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-7/bundle-6-to-7.patch"
+  "ui_build": 8,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-8/bundle-be5bd223.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdOVlpXTlJRY3NTditYZmc0dnI2NDVlNTJQRDBLWVFMQzBKcmk5cUlHd3NIT0FpbWo5anRJQU9PRWRmOUlId0lCZGRGaXpNZms0VDE1Z1hpNVRjVEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA1MDc0CWZpbGU6YnVuZGxlLWJlNWJkMjIzLmpzCmNoL2hYSHhBa0VtZ3BxdWtuT2RrZDVKenllR2R1Mlc2YzhDQ2ZheklWMnBBV3ExZlZsQml1SzdDY2dERXVXcVlTWGhKNWhOeUpUV3loNlpuNjA3a0NRPT0K",
+  "notes": "РЕВЁРТ моих аудио-правок: громкость 1.0→0.6, usedtx iOS→0 (убираю эхо/визг — поднял петлю обратной связи)",
+  "pub_date": "2026-06-30T07:40:31Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-8/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtxN0tpbStjMHFoNmhnY3ozZVBWcXRmSkRwOSt2ajRVSnc0RnZCb2M5bHRRSCtaYUN0TStpSWFHUVZ3NFo0aFNSWXFWVTNRSDJqNnRQWWVQTGlDT1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA1MDc0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpoUS95clJKejVFc3NYK2MrVDEwMHFDb1VML05jZFI4Y0IzVzB0VG1zWndMeG4xQ0lWQW5oSmljWGdZNnNMU1pxZnJ4V2xveUlMV3RmSVFqZU1JSEZDQT09Cg==",
+  "from_ui_build": 7,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-8/bundle-7-to-8.patch"
 }
