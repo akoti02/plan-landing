@@ -1,11 +1,11 @@
 {
-  "ui_build": 14,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-14/bundle-83f1c3f5.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUU2aTNNQkhJd1RkMXVZNzU5aU9pWWVWRC9ic3NlL0xiVEZPbkxHZHdCSERzWW1ndXV2UUpzY3dFZ291Z3l2VUpDYW5TaWp2MEtPVmpNZUtISWxabGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQ3MTUzCWZpbGU6YnVuZGxlLTgzZjFjM2Y1LmpzCkp2OXZ1dzY2akdnRTVqMkdVRDhNR29FaFFNMXdtT1BqZGYxMFY0SUZEMjVNZDh4VXZ5M0J5bWhOVXh1N2tRaEtYcXRLeFJzOHBIOEkrVTdhcjRLNkJRPT0K",
-  "notes": "iOS anti-echo: переустановка .voiceChat/ухо после getUserMedia (WebKit навязывал DefaultToSpeaker + AEC off)",
-  "pub_date": "2026-06-30T19:21:51Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-14/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5pTTJKbFA4VHg4S09CSkp1Ly9WV2Z6QWo1VlVrMmFOeVBxQ3ZQanNLeWRyKzh2bjVQV0V2ZUNqN3RpR1drby9GRCthdStuNEdBcEVEL3dSRFN1dFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQ3MTUzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpCK3NZclVRVEJ6RkdMTGQ0T3Byc0tCQTNmeDdWZXJ4TWt0YXBkaThpMzlSTnRzUENoUmpyOG1RemxkL2dlN1ByVmZRd0ErcnN4emxrdHRUMjJQUDZEUT09Cg==",
-  "from_ui_build": 13,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-14/bundle-13-to-14.patch"
+  "ui_build": 15,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-15/bundle-b9271892.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlFbHV6NEhpSW9LZHNsNWZ5Q2ZDdlc4cWdQLzVqWFZPVzZNOUErdXVMc2V3cmc4Y1lVNkthZFpjODNnUVIvV29VT2d0UVZ3RUpEUGxkZVAxMDA1c3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQ4NDA1CWZpbGU6YnVuZGxlLWI5MjcxODkyLmpzCkdEdzk0c3A0Vm9zNmR0U1cxYVVDbzNHTlZEOTU5eWJRV3kwbXJ6RXQrVjRZNU9tQmgzUFRRSFZFR2ZVUzFwNitKcy9mOXk3WmI3bXJnWmtOREdheUR3PT0K",
+  "notes": "iOS anti-echo v2: .voiceChat+ухо ×7 за 12с + нативный маркер audio_set_speaker для верификации доставки OTA",
+  "pub_date": "2026-06-30T19:42:20Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-15/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUQyMnZWTFhDMlhnaHR4UlJpWTcybi9abTdITjd1L2hGVWhIS0JnbS9MdU1iaTFaOW0xWE5GSldTNVpndVFkbG82WnV4bFk2SzN3OVl5UnoveUNlTEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQ4NDA1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpiUEpZMUxYcUVadTNYVjMrbmdzMG9kNDJyVDNCWXRGZnNpTStZcWRrbHRHYXpvOWN2R0h4YlAxTXR6MHFsQ1VYMDBQdWRUOTRVY240V09ZL1Z6S3FEdz09Cg==",
+  "from_ui_build": 14,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-15/bundle-14-to-15.patch"
 }
