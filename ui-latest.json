@@ -1,11 +1,11 @@
 {
-  "ui_build": 10,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-10/bundle-b77462a1.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxCeGxPSkVldTh6YW9taVRPNWVsUXFzSkx3Y1J1WkY3NmU3VXdndjlZTFN3U3pyamVTaWJpVGVRdHJxcGJRVGtUbE9TbHhwVFk5UmtmZUFUZ29pZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODExNjkwCWZpbGU6YnVuZGxlLWI3NzQ2MmExLmpzCnc0bmtWWXBzN1NTeEtrNXowYzVsVVRWWDdtMndWbmMrNGlJU2d0a0x5L1ZEeHcwQVhSUmVLNnNhRStBcUh6bk9DQ01FdWFQVEU3a3Qxdm9tTEFQY0J3PT0K",
-  "notes": "iOS accept: пауза 120мс перед getUserMedia (capture на готовой сессии)",
-  "pub_date": "2026-06-30T09:31:21Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-10/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtTM2tUNmkvcW8vaE9hZkNsSkRJTGh5aERtMXh5YkwzQVR2aXZPMXJBVTEzY0FDcUtMVXNZTmVDSHp1azdJenB0Y3J4eTAxTnVLYkxERld0YWVBbVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODExNjkxCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwphMlhkTFlDdVFISGxZM2J5ZzljQmhaUloxZ3JwN0xnSlphQ2IvL0duWXhDRGx1NGZxNWszTFoxaFc1WHhmYTBsbEhFSjVtUi84OXk0eDB5eTZzYThBUT09Cg==",
-  "from_ui_build": 9,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-10/bundle-9-to-10.patch"
+  "ui_build": 11,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-11/bundle-4343b318.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5RRElaamJUK0JIajFENXZjS2t4VFFYNXNheEI4WXowRUFKR0lPRGEyYzF4MUxaZE8xWFNicEVNM1d4VExoWXFUSGh3WGdXMGlMYkV4WUF5R3NsL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODEzMzI5CWZpbGU6YnVuZGxlLTQzNDNiMzE4LmpzCmVndjc3S2hrWEJsWkhLWEdDL3JYT042TkpETjJBMUpIZkVNQ3d0VUZvamZsd09raGt3Nk00KzBtRVg0WktjdkxZVlA1amlWbkloRFpBT0p6eUZ2WkJBPT0K",
+  "notes": "iOS: ждём активной аудио-сессии перед микрофоном (фикс нет-звука на входящем)",
+  "pub_date": "2026-06-30T09:58:16Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-11/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxJVmFZZHZ6Z3FKRHBsVWFCR1NJL21LaGdscC9CWDIzMzJxZXV5VFlNc2I2VVNKQlpBbHZEUENvK21ONFROazE1UHY4SUpwZW9iNXNQSUN1OWpSN2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODEzMzMwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpWbU9mSFlYZXI1b2lxbzh3VEdOMitTalFtMEZ3Vkc1Q0lYK2Q4bzJsY2piTlMzQnZaU3NOT3NDNXZOcThQL0FKUElpcUJQZ0hISHNielFadmxXRjZDQT09Cg==",
+  "from_ui_build": 10,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-11/bundle-10-to-11.patch"
 }
