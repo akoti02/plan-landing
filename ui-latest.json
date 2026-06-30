@@ -1,11 +1,11 @@
 {
-  "ui_build": 8,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-8/bundle-be5bd223.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdOVlpXTlJRY3NTditYZmc0dnI2NDVlNTJQRDBLWVFMQzBKcmk5cUlHd3NIT0FpbWo5anRJQU9PRWRmOUlId0lCZGRGaXpNZms0VDE1Z1hpNVRjVEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA1MDc0CWZpbGU6YnVuZGxlLWJlNWJkMjIzLmpzCmNoL2hYSHhBa0VtZ3BxdWtuT2RrZDVKenllR2R1Mlc2YzhDQ2ZheklWMnBBV3ExZlZsQml1SzdDY2dERXVXcVlTWGhKNWhOeUpUV3loNlpuNjA3a0NRPT0K",
-  "notes": "РЕВЁРТ моих аудио-правок: громкость 1.0→0.6, usedtx iOS→0 (убираю эхо/визг — поднял петлю обратной связи)",
-  "pub_date": "2026-06-30T07:40:31Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-8/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtxN0tpbStjMHFoNmhnY3ozZVBWcXRmSkRwOSt2ajRVSnc0RnZCb2M5bHRRSCtaYUN0TStpSWFHUVZ3NFo0aFNSWXFWVTNRSDJqNnRQWWVQTGlDT1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA1MDc0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpoUS95clJKejVFc3NYK2MrVDEwMHFDb1VML05jZFI4Y0IzVzB0VG1zWndMeG4xQ0lWQW5oSmljWGdZNnNMU1pxZnJ4V2xveUlMV3RmSVFqZU1JSEZDQT09Cg==",
-  "from_ui_build": 7,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-8/bundle-7-to-8.patch"
+  "ui_build": 9,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-9/bundle-d9302ab7.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURwQTJkU3MyL2hzdkg4eWtwN3FmTlVmQzk0UnYxRUtrN2lYOGp4bUhQeVl4bnFXNDR4OTV2ekFkN0sva0ljaXRJRDEyTDZnYTBoVmo3VVJ4UzVpd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA2NTM1CWZpbGU6YnVuZGxlLWQ5MzAyYWI3LmpzCkd1SlRoSkV2OUxJeUh4WGJ4NmdHVWRaTy9LcXRtSDhZVHZrcXZlZFdiajQvcGtta2RqdHJnZDlFeFZYVUlveGhVSlNVMnhVN0thazVQT1QyaFFXckR3PT0K",
+  "notes": "ДИАГНОСТИКА ICE: лог состояния/кандидатов/выбранного пути (host/srflx/relay) + ускорил замер звука — найти, где рвётся медиа при 'нет звука'",
+  "pub_date": "2026-06-30T08:04:49Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-9/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUQvMjNOZ0IrN2VuUjFHOG1mZWNNWEJ3aWxQRVlVVzZRQ3ovdjdWbHhna0NieU14SUFBWTBTdUtEbG5Vb0VldFA4VFhqbmZmclRGb3grTW03bmd3MkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA2NTM1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpPR3dRK1Z4OWR1SEh4MG02aFBONS9NYUNCZmg5RUhzRS9hWTJSSWQyTEY1SVBiR3A3U2VmbUFFUzBycW5Ba3ZORW9GMlNqNDNGa1o5TkVxL2JQOTJBdz09Cg==",
+  "from_ui_build": 8,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-9/bundle-8-to-9.patch"
 }
