@@ -1,12 +1,106 @@
 <!DOCTYPE html>
-<html lang="ru"><head><meta charset="UTF-8">
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
-<meta http-equiv="refresh" content="0; url=install.html?r=1">
-<title>Tempora — переход на актуальную установку</title>
-<script>try{location.replace('install.html?r=' + Date.now());}catch(e){location.href='install.html?r=1';}</script>
-<style>body{background:#0a0712;color:#f4ecff;font-family:-apple-system,Arial,sans-serif;text-align:center;padding:48px 24px}a{color:#ffb24a;font-size:19px;font-weight:700}</style>
-</head><body>
-Это устаревшая страница. Перехожу на актуальную установку (build 53)…<br><br>
-<a href="install.html?r=1">Открыть install.html</a>
-</body></html>
+<title>Tempora DEV — установка (Wi-Fi hot-reload)</title>
+<!--
+  СТАБИЛЬНЫЙ DEV-линк для Артура (плюс к семейному install.html).
+  Этот IPA встроенно редиректит WebView на https://dev.akoev.com → reverse-SSH
+  туннель → esbuild --serve на ПК Артура → SSE live-reload. После установки
+  большинство правок UI долетают ~2с по Wi-Fi БЕЗ пересборки/переустановки.
+  Кнопка строит itms-services://… из manifest-dev.plist рядом со страницей.
+  Открывать ТОЛЬКО в Safari. И страница, и manifest-dev.plist, и Tempora-dev.ipa,
+  и иконки ДОЛЖНЫ отдаваться по HTTPS с валидным сертификатом.
+-->
+<style>
+  :root{
+    --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
+    --accent:#ffb24a; --accent-hover:#ffc06d; --line:#2a2348;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg-0); color:var(--fg-0);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter","Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased; min-height:100vh;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    padding:24px;
+    background-image:
+      radial-gradient(at 20% 0%, rgba(255,178,74,0.08) 0%, transparent 50%),
+      radial-gradient(at 80% 100%, rgba(120,80,200,0.10) 0%, transparent 50%);
+  }
+  main{max-width:480px; width:100%; text-align:center;}
+  .glyph{font-family:"Georgia","Times New Roman",serif; font-size:96px; line-height:1;
+    color:var(--accent); margin-bottom:12px; letter-spacing:-2px; position:relative;}
+  .devtag{display:inline-block; vertical-align:super; font-family:-apple-system,sans-serif;
+    font-size:14px; font-weight:700; letter-spacing:2px; color:var(--bg-0);
+    background:var(--accent); padding:3px 8px; border-radius:6px; margin-left:6px;}
+  h1{font-family:"Georgia","Times New Roman",serif; font-weight:400; font-size:44px;
+    margin:0 0 8px; letter-spacing:-0.5px;}
+  .tagline{color:var(--fg-1); font-size:17px; line-height:1.5; margin:0 0 36px;}
+  .button{display:inline-block; background:var(--accent); color:var(--bg-0);
+    font-size:18px; font-weight:600; padding:18px 36px; border-radius:12px;
+    text-decoration:none; transition:background 120ms ease, transform 120ms ease;
+    box-shadow:0 4px 24px rgba(255,178,74,0.22); border:none; cursor:pointer;}
+  .button:hover{background:var(--accent-hover); transform:translateY(-1px);}
+  .button:active{transform:translateY(0);}
+  .steps{margin-top:36px; padding:18px 20px; background:var(--bg-1);
+    border-radius:10px; text-align:left; font-size:15px; color:var(--fg-1);
+    line-height:1.65;}
+  .steps b{color:var(--fg-0);}
+  .steps ol{margin:8px 0 0; padding-left:20px;}
+  .steps li{margin:6px 0;}
+  .note{margin-top:24px; font-size:13px; color:var(--fg-1); opacity:0.8; line-height:1.6;}
+  footer{margin-top:48px; font-size:12px; color:var(--fg-1); opacity:0.6;}
+  @media (max-width:480px){
+    .glyph{font-size:72px;} h1{font-size:32px;} .button{width:100%; padding:16px;}
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="glyph">T<span class="devtag">DEV</span></div>
+  <h1>Tempora DEV</h1>
+  <p class="tagline">
+    Сборка для разработки: после установки правки UI прилетают<br>
+    сами по Wi-Fi (нужен запущенный dev-сервер на ПК).
+  </p>
+
+  <a id="install" class="button" href="#">Установить DEV на iPhone</a>
+
+  <div class="steps">
+    <b>Как поставить:</b>
+    <ol>
+      <li>Один раз включи <b>Режим разработчика</b>: Настройки → Конфиденциальность
+        и безопасность → Режим разработчика → вкл → перезагрузка
+        (для dev-сборок Apple требует это всегда).</li>
+      <li>Нажми <b>«Установить DEV на iPhone»</b> выше → <b>Установить</b>.</li>
+      <li>Если «Ненадёжный разработчик»: Настройки → Основные → VPN и управление
+        устройством → выбрать разработчика → <b>Доверять</b>.</li>
+      <li>Запусти — приложение само уйдёт на dev.akoev.com и будет
+        перезагружаться при каждой правке.</li>
+    </ol>
+  </div>
+
+  <p class="note">
+    Открывать в <b>Safari</b>. Если экран пустой/«не удалось открыть страницу» —
+    значит на ПК не поднят dev-сервер (esbuild + туннель).
+  </p>
+
+  <footer>© Артур Акоев, 2026 · DEV</footer>
+</main>
+
+<script>
+  // manifest-dev.plist лежит в той же папке, что и эта страница.
+  (function () {
+    var here = location.href.split('?')[0].split('#')[0];
+    var dir = here.substring(0, here.lastIndexOf('/') + 1);
+    var manifestUrl = dir + 'manifest-dev.plist';
+    var link = 'itms-services://?action=download-manifest&url=' +
+               encodeURIComponent(manifestUrl);
+    document.getElementById('install').setAttribute('href', link);
+  })();
+</script>
+</body>
+</html>
