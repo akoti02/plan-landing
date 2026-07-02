@@ -45,6 +45,19 @@
     box-shadow:0 4px 24px rgba(255,178,74,0.22); border:none; cursor:pointer;}
   .button:hover{background:var(--accent-hover); transform:translateY(-1px);}
   .button:active{transform:translateY(0);}
+  /* Крупный ЯРКИЙ бейдж «какой билд ставится» — по просьбе Артура: большой,
+     заметный, цветной, а не мелкий серый текст. Номер тянется из dev.json. */
+  .buildbadge{display:block; margin:0 auto 30px; max-width:360px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+    font-size:22px; font-weight:800; letter-spacing:0.5px; color:#03130a;
+    background:linear-gradient(180deg,#63f58e 0%,#22c55e 100%);
+    padding:18px 22px; border-radius:18px; line-height:1.1;
+    box-shadow:0 8px 34px rgba(52,211,120,0.5); border:2px solid #86ffb0;
+    text-shadow:0 1px 0 rgba(255,255,255,0.4);}
+  .buildbadge .n{display:block; margin-top:6px; font-size:52px; font-weight:900;
+    letter-spacing:0; line-height:1;}
+  .buildbadge.err{background:linear-gradient(180deg,#ff8a5c,#ef4444); color:#1a0505;
+    border-color:#ffb199; box-shadow:0 8px 34px rgba(239,68,68,0.5);}
   .steps{margin-top:36px; padding:18px 20px; background:var(--bg-1);
     border-radius:10px; text-align:left; font-size:15px; color:var(--fg-1);
     line-height:1.65;}
@@ -66,6 +79,8 @@
     Сборка для разработки: после установки правки UI прилетают<br>
     сами по Wi-Fi (нужен запущенный dev-сервер на ПК).
   </p>
+
+  <div id="buildbadge" class="buildbadge">Устанавливается<span class="n" id="buildnum">BUILD …</span></div>
 
   <a id="install" class="button" href="#">Установить DEV на iPhone</a>
 
@@ -100,6 +115,18 @@
     var link = 'itms-services://?action=download-manifest&url=' +
                encodeURIComponent(manifestUrl);
     document.getElementById('install').setAttribute('href', link);
+
+    // Номер собираемого билда — из dev.json (обновляется при каждой публикации).
+    // Кэш-бастим (?t=), т.к. iOS/Pages кэшируют агрессивно; показываем КРУПНО.
+    var badge = document.getElementById('buildbadge');
+    var num = document.getElementById('buildnum');
+    fetch(dir + 'dev.json?t=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        if (j && j.build != null) { num.textContent = 'BUILD ' + j.build; }
+        else { badge.classList.add('err'); num.textContent = 'BUILD ?'; }
+      })
+      .catch(function () { badge.classList.add('err'); num.textContent = 'BUILD ?'; });
   })();
 </script>
 </body>
