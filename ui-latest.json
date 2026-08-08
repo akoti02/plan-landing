@@ -1,11 +1,11 @@
 {
-  "ui_build": 16,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-16/bundle-473f3543.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9vZGw2REc1dldvckRQRlhhUW8ramxJNTRWVW9WZnAzMzRvazRhYUIxb2hMUUl6VEoyT3RvKzFScnRYVEZwQ0RXLzd0aXNqY3l4QmdHc0l1QXkyekFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg5MzE0CWZpbGU6YnVuZGxlLTQ3M2YzNTQzLmpzCjJPblZNcE9yMWFaenRmd0k5NVZzS2Y0U3ovK3FJbnphZ0tvUUN5OVFlQjNHc2RLVjlrZ3dMZUhNaFVkZHlsS2trQ3RGYTF5cWRjQXFud0RIMWxGd0NBPT0K",
-  "notes": "Перемотка ленты фото по годам, крупный ползунок с пузырьком месяца, Медиа без поиска, серые плитки больше не зависают",
-  "pub_date": "2026-08-08T11:45:29Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-16/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU94dEpzOGVJOEZ4WXlFTmNYK1VUUThHNmE5SG10ZXROUWcvM2t6c1BEMVpMaWNlT2FIbndnWHRIRHJydEZFay9NZXJORDhFTW5taEdwY3l4RG9wM2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg5MzE1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpnMndTc1NkVDJaS3lxQmVWdXRuK2ZyN3JkUXcxWU13U1hIWWhZUmQraVg0NndHbUlqMTh4NEUyVERiajFVWWFuVEc3QVRZV0xkRTVsK0xWWmVGWXBCdz09Cg==",
-  "from_ui_build": 15,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-16/bundle-15-to-16.patch"
+  "ui_build": 17,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-17/bundle-afb49e42.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUk1S3BFdUhxK3NMaEs2MkU2bW9DeXp2L3hDNldZaFZaenp1OGZGakZHZU02cUdFOThpSFZFYXJvbnN3S3lNcm9kVU04WGRyN3l0ZDdlaEhCUjVudndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTkxNjI0CWZpbGU6YnVuZGxlLWFmYjQ5ZTQyLmpzCjRnME1kQ3E1Q3pVb0JJUlJ3M3pwTDJwZy9sYUZub1JSN3lsby82M3JoZzNtYlRTUkNtYytWYzlGQU9XVUpqWk4zTWllSEwrRlM0Q3d3VGtCY20zWUFnPT0K",
+  "notes": "Задачи: убран лишний крестик в форме новой задачи (закрывается тапом по фону)",
+  "pub_date": "2026-08-08T12:23:40Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-17/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUIrSElxcUl2c2h4V0JkaUptblhuNGNQaGl1b0lhQ05sRmZJbTB3VjRBVm5yemtuSC9NdW9Ocis3MTBWSVBRNlRrc2plSFo3UUh6c29mWk9YVlorWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTkxNjI0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwp3cW1sVWtweC84YytOcm4rbTVtcllDUTBDcVd3a1hNK3Ftc2NaV293NFJ2cTZadFpsMnVheENiVzMydFIzeDFmRVZpMlAvR3VTR0Rhd0JxTDl1U3lCQT09Cg==",
+  "from_ui_build": 16,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-17/bundle-16-to-17.patch"
 }
