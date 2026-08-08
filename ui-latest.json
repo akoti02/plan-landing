@@ -1,11 +1,11 @@
 {
-  "ui_build": 28,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-28/bundle-b8920f9e.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVBjYjQrRG5MYjl2VHJoVzJKd3dwcEpjbjhoZis5R0RGWVhybVlGMUZJRzg2VkJycGxlc2M2a0Z4NHZQd2RDdGRlZmluZ0R6OTRaN1h4aGhBMW5vOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjI1MzM5CWZpbGU6YnVuZGxlLWI4OTIwZjllLmpzCjViVk12RkFycWZtUElTQTZJeXpLOHlQc0hSeXEvbHZJZ1kwY3JpMWVhMGUraXd0bkVKTzdXcVNzdnF6bjhJcVNIbGdqN1RzVWtiREVFeDZFZjhPQkR3PT0K",
-  "notes": "Диаг-агент: тапы работают при открытой клавиатуре iOS",
-  "pub_date": "2026-08-08T21:45:11Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-28/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZWUkdKa0k2RE1QUjdDNVJFQnJxcDVnNlFLZXBRY0ZUV01JVGQzRjVaY2dMTW93QzY1eWVYdW1MQnZyVFJyYWRDanlza1hqZHgweGhpVTA4TnFqcVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjI1MzM5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpDdUM0aUJiUVNMSjVSRXNFM3ZBVXY4VWF2cm1PcHNYUFFDbTNtbWZxV25JSy96ZE9MZGQyU21lT1VmVTNoUlQrQVgrNFhvbUY0ZEljTFB4Mnd5ZUpEUT09Cg==",
-  "from_ui_build": 27,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-28/bundle-27-to-28.patch"
+  "ui_build": 29,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-29/bundle-f4dbfd23.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUFRS1phMC9RWkJMRS9ja05lNDUzV3FXM2svZWIvTXc2WThCQ0UzZG1wNWdOQ3RvZHlzbjM4SlBGMGFWdEVGMUp6Q0NTMnI0ZmJ2SFpQeFNmbkNIM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjI3NzQzCWZpbGU6YnVuZGxlLWY0ZGJmZDIzLmpzCjRWWFdmQUFCNkpCbXFmcnlVdElYVldWRmFKcUtIaG5OTnVVQzAwMXVPUURQSGZSRFkySThvNjlWTHh1bjIzcDR4c0dNUlJsbU8wVE9ZUGZZKzFVNEFBPT0K",
+  "notes": "Заметки: свайп удаления кладёт в корзину (было — стирал навсегда)",
+  "pub_date": "2026-08-08T22:25:27Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-29/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtFVituMzdSWDVsU1prcFE3ak5tcWVUY3YwQ1BrU01tWU1NMHUxdjhGcU9vQjBJS0R3VVhGQ2ljWkJKMHpRN0JNK3pPeDZCNlBBRzFkL2JUN1RjMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjI3NzQzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwovZXk4YXY0M3hTV0JDUXp5QWYxdTFpeUFzbUVucnNDV0dBYk53QkU1RFFUdDkydzhaQml1SFJMOVJCbWZpVlRXTjJWUjRoSFNYSUhsSjJGbzhxTkxBdz09Cg==",
+  "from_ui_build": 28,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-29/bundle-28-to-29.patch"
 }
