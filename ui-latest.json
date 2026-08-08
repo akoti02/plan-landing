@@ -1,11 +1,11 @@
 {
-  "ui_build": 19,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-19/bundle-ed95693c.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxLcmJHNjhWMEhCTjFaeWM4R3l3ci9aU0NPZFUrZjZaVlFKUEJmWlc4b1pyUFhoWEwrVTdYaE5QTitMZ3B3ZFFnSDRtWmhSUXNQblpNMDlyeCtTeWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTkzNTkyCWZpbGU6YnVuZGxlLWVkOTU2OTNjLmpzClpYcGpjY24xYmx6VWU5dXZ0TDI4eDU0K2plWkRXeFlueTBuY1pTWThiem44Tzl1Q2c4dnIydjk3SThwa0ZtTW5jbEc4UVc3cGVKa2xUWlpMWDg3b0NnPT0K",
-  "notes": "Заметки и Медиа: полоска сразу открывает действие, без меню из одного пункта",
-  "pub_date": "2026-08-08T12:56:21Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-19/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdqamdrWHpsaVFReGlEelFPWnRQYW11YU11MHltSXdUK005dE04cE5BZGo5TDJLUk9lUWNnVGd6Q0pCYkJvSFJtQytZc2NDYlVuTTVwY0xCeTFKRVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTkzNTkzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpyRnNwNVFOMXI3bU1jamViSlB6MlRCSjAzd24wMWt5Y09OZWRIZ3lmdS9lZm95NWhCNlRhZ0RPQ1M1Ukt0dW51dUpHblJ4RXRxcy9jZGFkZjZDRW5DZz09Cg==",
-  "from_ui_build": 18,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-19/bundle-18-to-19.patch"
+  "ui_build": 20,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-20/bundle-0b7493ec.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5lT0ZGSEd5SUZiazNSdUZabkplSGRBQ1JzZzRKb1F3Z2h0NWUzMjVDb0R3ays1VUVHa0UxbmN2NnQrUFQ5MzFpRFlpK2U3czdvTHd3MUZXekV3dmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk0Mjc5CWZpbGU6YnVuZGxlLTBiNzQ5M2VjLmpzClhZVGg1T01KYysxekRGYTlHWmNsUDEzQlVrVm5ZUlpkdE9sNjBGTDN3NFlLVDVjWlNmUlEvMWhEbzd1SmFCd3B1dzJxVzZXUFR1RWg4V3BHWVMvSURnPT0K",
+  "notes": "Заметки: строка поиска — одно цельное поле, кнопка ИИ без своей рамки",
+  "pub_date": "2026-08-08T13:07:55Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-20/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUs2UVdiLzYyK1E3QWRKZFpvakE2S1lFSWFNQzduVmhtd0ZyTCtIWDJmMVlPQlUwa1NkV3J0N1doUjl2VVN5WDVEeHNwb1EyWVdPT0psMXNPd01aaHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk0Mjc5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpiY3NMR25DWXdKanVCdHIyVFVBZ0k3SU5JcXpmd3lMVHRVRVFIV1RqNkx5V0xTRGxMWHhoaFhLcDl0MXNOaGtndjRrdjJzK2hnTE9YanY0WnQ5UXhBQT09Cg==",
+  "from_ui_build": 19,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-20/bundle-19-to-20.patch"
 }
