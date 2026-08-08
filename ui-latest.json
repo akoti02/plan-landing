@@ -1,11 +1,11 @@
 {
-  "ui_build": 23,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-23/bundle-f7adf68d.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUNwenhGZElrajRSelA4REdKQ2dtUEllNk9IMFkrQ1F5K2VlNGZoSTN6ZkhjdFIwMk51dXlmSFNEWjZyeVJGVFRHbkpMNzY5d2JvNGJFc0c2U3pLZVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk3NDU1CWZpbGU6YnVuZGxlLWY3YWRmNjhkLmpzCjZkYUt3RThUZ2FvMlQxL0ZpVTQxdHF0MHBjaFpzamd6TUxMUDlXOGVZc3VTZklhd2NpM2lESVYraEJ1NmoyNkVBb0EranJSa3NTUWlPazFyWnZKVkJRPT0K",
-  "notes": "Синхронизация задач: правки и удаления видны на всех устройствах сразу",
-  "pub_date": "2026-08-08T14:00:18Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-23/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUplNS9KTERTbS9wYXZVelRhZGV4TFc5L1cwL0o3SXMwK0JwN2dGV1NScnBtMk5rWUpGeVhoNFdJKzRVKzc0eVNsek1JWkdPZXZ6MHpUQVVxYkpMZUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk3NDU1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwp4VG14clRiRGxMVzJzdTliSTMrQXhzV09RbFdHc283bjJxYmhvL2ZFNTV5SHJiMERNbk9Hdks1MVdQalVZZHZNZ2hKTnZzYisrQUttcEhOZkw5ZmtDdz09Cg==",
-  "from_ui_build": 22,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-23/bundle-22-to-23.patch"
+  "ui_build": 24,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-24/bundle-7a54749b.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUk4cjljZjFXUk91V2lyVzJWMmt5dEcwZFJoZDlSbGpmYi9tdXYyWUJiaFlDZGZnblkyUVIya3M5NVlQWEM2b1FZZmZpR2o5TTlldldzSlcveU0vNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk5MzA4CWZpbGU6YnVuZGxlLTdhNTQ3NDliLmpzCnh1Uk5mL0ZaTXJNUnBkSEpjSUh3WlIzNmxFQTgrR2dmbGRhN2xPajRBbkYyV0RpNURBMU1vcktqMUp4QkFvUVBZL3l1YW5tSXZPbitzQmpDOU9BdEF3PT0K",
+  "notes": "Задачи: редактор полей в карточке ожил (тап по строке больше не закрывает его)",
+  "pub_date": "2026-08-08T14:31:38Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-24/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUovaWJKbHd0VzJsRUtJNjRic1FWdWFlUXFMMEtNbVlXWnlxUzRQd1hieW5POEIwbzloUExrVUhMaytweGduMC9mU2dVOTAraW5XOTdOYWxJV0RMK3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTk5MzA4CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpTNUZkbGFnRUJuMWQ0OG5hQW1hMWFQeU5Tckk1TFBCcVp3eU9FeHQ0K0lkK0N1aC9XTmxENVVMMnhkR1cvNTNNNndFRjNPclhDbXUxZmFCQTdVNklCUT09Cg==",
+  "from_ui_build": 23,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-24/bundle-23-to-24.patch"
 }
