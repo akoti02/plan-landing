@@ -1,11 +1,11 @@
 {
-  "ui_build": 15,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-15/bundle-b9271892.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlFbHV6NEhpSW9LZHNsNWZ5Q2ZDdlc4cWdQLzVqWFZPVzZNOUErdXVMc2V3cmc4Y1lVNkthZFpjODNnUVIvV29VT2d0UVZ3RUpEUGxkZVAxMDA1c3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQ4NDA1CWZpbGU6YnVuZGxlLWI5MjcxODkyLmpzCkdEdzk0c3A0Vm9zNmR0U1cxYVVDbzNHTlZEOTU5eWJRV3kwbXJ6RXQrVjRZNU9tQmgzUFRRSFZFR2ZVUzFwNitKcy9mOXk3WmI3bXJnWmtOREdheUR3PT0K",
-  "notes": "iOS anti-echo v2: .voiceChat+ухо ×7 за 12с + нативный маркер audio_set_speaker для верификации доставки OTA",
-  "pub_date": "2026-06-30T19:42:20Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-15/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUQyMnZWTFhDMlhnaHR4UlJpWTcybi9abTdITjd1L2hGVWhIS0JnbS9MdU1iaTFaOW0xWE5GSldTNVpndVFkbG82WnV4bFk2SzN3OVl5UnoveUNlTEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQ4NDA1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpiUEpZMUxYcUVadTNYVjMrbmdzMG9kNDJyVDNCWXRGZnNpTStZcWRrbHRHYXpvOWN2R0h4YlAxTXR6MHFsQ1VYMDBQdWRUOTRVY240V09ZL1Z6S3FEdz09Cg==",
-  "from_ui_build": 14,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-15/bundle-14-to-15.patch"
+  "ui_build": 16,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-16/bundle-473f3543.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9vZGw2REc1dldvckRQRlhhUW8ramxJNTRWVW9WZnAzMzRvazRhYUIxb2hMUUl6VEoyT3RvKzFScnRYVEZwQ0RXLzd0aXNqY3l4QmdHc0l1QXkyekFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg5MzE0CWZpbGU6YnVuZGxlLTQ3M2YzNTQzLmpzCjJPblZNcE9yMWFaenRmd0k5NVZzS2Y0U3ovK3FJbnphZ0tvUUN5OVFlQjNHc2RLVjlrZ3dMZUhNaFVkZHlsS2trQ3RGYTF5cWRjQXFud0RIMWxGd0NBPT0K",
+  "notes": "Перемотка ленты фото по годам, крупный ползунок с пузырьком месяца, Медиа без поиска, серые плитки больше не зависают",
+  "pub_date": "2026-08-08T11:45:29Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-16/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU94dEpzOGVJOEZ4WXlFTmNYK1VUUThHNmE5SG10ZXROUWcvM2t6c1BEMVpMaWNlT2FIbndnWHRIRHJydEZFay9NZXJORDhFTW5taEdwY3l4RG9wM2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg5MzE1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpnMndTc1NkVDJaS3lxQmVWdXRuK2ZyN3JkUXcxWU13U1hIWWhZUmQraVg0NndHbUlqMTh4NEUyVERiajFVWWFuVEc3QVRZV0xkRTVsK0xWWmVGWXBCdz09Cg==",
+  "from_ui_build": 15,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-16/bundle-15-to-16.patch"
 }
