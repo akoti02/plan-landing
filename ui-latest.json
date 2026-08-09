@@ -1,11 +1,11 @@
 {
-  "ui_build": 34,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-34/bundle-e93cf037.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9MNGdTR0lSRGt0ZFpjZnc3a1lEN2pnVmtvUXBES216U1NhTU1aYVdnMDBORW5vOUhNTUdXTkVGZjJsTE4wNXd0aTVZWWRKajFhTkx0VFFXQy9aR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzEwNzE3CWZpbGU6YnVuZGxlLWU5M2NmMDM3LmpzCnZrOUlvR1FJZnhsSXBwQlBZYXE2enh5bzkvRDNaMmJpRi9pdTR0S0hoL3pVdWxVajUrNStxQ2tPcFB2bUZoVEVOU2pkWWtnRjdQRU5zY29VVTlNQURnPT0K",
-  "notes": "Честный лейбл статус-фильтра задач + открытая карточка подхватывает pending без перезахода",
-  "pub_date": "2026-08-09T21:29:14Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-34/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZCcW5TT3h5ZUU4T1AvM3c1SkVuOUFSUEtaVFpERCt0eXN3aTBvdEpuZTUvMk1YY25MbUY5cmRsSUZXNjBvV2dhQXJETlJYbzVuUFRVVm8rVUhFNUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzEwNzE4CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpPZzJSR3JNQ1hoVDloKzFkWEZHTXM0S0RmT0YwWEFLVlQvME5TSVpNWjJEdGRPVUJ0cWNxRWZnRVB6WHFKOUNUbHRobkk1THdOT0RpVGYxOHh0eTRBZz09Cg==",
-  "from_ui_build": 33,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-34/bundle-33-to-34.patch"
+  "ui_build": 35,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-35/bundle-df84b95b.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU4zcWVIclgvTy9wMERVellXeVBLcEFaSWtOQUR0ZTM0TU1xS1FDaWYvWjhGNWtNenNBK1JNOVNVaGhNc2RWdGxSVnVGRUE4bFdpdjFESEN6ek1xZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzE1MDkwCWZpbGU6YnVuZGxlLWRmODRiOTViLmpzCldpOFR5STdtOXl2bXZ5bU1EZnRlUTFMR0xXZE4xRndraWw3WStBay9lRnVQTGt5NUZGMnUycEd3dVo3M09CazJNcms0bEZNQ2Y4bTZVS1NZTnpKSUJ3PT0K",
+  "notes": "Карточка задачи: баннер «Запросил(а) подтверждение» с кнопками Подтвердить/Отклонить (существовал только в мёртвом старом экране)",
+  "pub_date": "2026-08-09T22:43:31Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-35/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJCamhocVNWZEVySDNvV09JaEdpTDJpNzRYUVFjVVJ6bzRHWEJjSW9iUWw5VnU0UGJDdFozVUJBSmRWVkdTREV4dnNSK1hPNjBsT1NPZ0dIUTc0ZGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzE1MDkwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpjUVprMjRLNWM1d3ZVQWxCRldPYytxMzRIc0ord0Q4MjFodkhKMFhzemw2UElHZ0hpN2RpdGNCcWNIeDR1OWV1R211WnRxaGRzU201Z1VuUm93ZnBCZz09Cg==",
+  "from_ui_build": 34,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-35/bundle-34-to-35.patch"
 }
