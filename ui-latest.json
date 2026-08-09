@@ -1,11 +1,11 @@
 {
-  "ui_build": 32,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-32/bundle-59740856.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVA5UUJ3c2U0TUdlYlpnRnJlRzlmdnZ6TlhRT25wOFdaTjBMRnNqUDAxejNFSXNKRm1XUWpzYjRJdWRieHAwMXhjYVMvMlNkWmFjMnRZOHdLVTJrNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzA2OTEzCWZpbGU6YnVuZGxlLTU5NzQwODU2LmpzCnhONWtGT0ZsQkRMVTJoc0grWHk2R1R5Sm45ZHFaOFkvZ3RkdExTaE9tYzRtVUR6c3BWdWVuMjh2MG5meEgwcU5TdVZXdnozS1FpU3p6UmRIRFQrckNRPT0K",
-  "notes": "Заметки: анти-воскрешение жёстких удалений (зеркало задачного лечения) + корзина поверх панели Данных/Заметок",
-  "pub_date": "2026-08-09T20:25:53Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-32/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJFOWFOc2JPbkFCSWVUSEdRTUdHL1cxeGZGbFZvZDZLZFljeWI1aldvMGlpZWVkaERlcG9kOVFMRnZ5a0RuWjRKbDBGV3VURlNRZHFpU1ZPVktzcEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzA2OTEzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwp5K3NPaXNLY2JVU2cyZVRSREs2VVd0MHM4cE1oYlpsa1daK3JvdFlZbjh0WGlHbkl0b0wrdWVJTmJqY0ZYSytzdmhiN21zSVgzT3ZSOURTRmQ5cVJBdz09Cg==",
-  "from_ui_build": 31,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-32/bundle-31-to-32.patch"
+  "ui_build": 33,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-33/bundle-08f023ec.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVqdTZiUmZsWldaV0xwQURnS29Rd0ROM3VOdHNKcTd5ZDdISFlWLzd2R28yNk5hYVN0R0RNMzVEdkFaN3lweWtrOXAyL0ZJOUlINFRIbzRkbjVYWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzA3MzE1CWZpbGU6YnVuZGxlLTA4ZjAyM2VjLmpzCjRQQmRFQ3h1ME1zOGhyRVpzcFZrUCtvQnQ4bitENTVrQU5tbHRhSlN1R1huZFpXNFVwOVVLU29aTFVuUkRRSVFlMzNITlIvZ0tORDd3Qy9HNm1Na0NRPT0K",
+  "notes": "Свой текстовый ввод вместо нативного prompt()/alert(): время в ИИ-карточке, восстановление из GitHub (кнопка была мертва из-за prompt первой строкой), тост вместо alert при открытии файла",
+  "pub_date": "2026-08-09T20:32:24Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-33/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVBoREN2RUlkS3N0V09rWW53YTBmRHZaM2RtZWZNMWdtV2hVL21PS0N6SjhvYnk0UlFaREg4OUwrREc2dUcyNzhXYW80aXFOaTM2UXorWld0Vi9FV3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzA3MzE1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpZaDNjMVZCOW9mV0I2SkkzcmNnNVlrL3lZQ3V2NFI3bTRESDR0T0x6N2pjZXdqRjVjdy9EUHN0RDBGUGlOaXlneHAyL0tXZmtZQlY5Ung5RFJJaHdEQT09Cg==",
+  "from_ui_build": 32,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-33/bundle-32-to-33.patch"
 }
