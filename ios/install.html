@@ -3,19 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tempora — установка для iPhone</title>
+<title>Tempora — установка</title>
 <!--
-  OTA-страница установки Ad Hoc (мама Юля + Света).
-  Кнопка строит ссылку itms-services://… из адреса самой страницы
-  (manifest.plist лежит рядом). Открывать ТОЛЬКО в Safari на iPhone —
-  Chrome/в-приложении-браузеры itms-services не открывают.
-  И эта страница, и manifest.plist, и .ipa, и иконки ДОЛЖНЫ отдаваться
-  по HTTPS с валидным сертификатом.
+  ЕДИНАЯ страница установки для всей семьи (Артур 2026-08-10): ДВЕ кнопки.
+  · iPhone (мама Юля + Света): itms-services → версионный manifest-bNN.plist
+    из МЕСТНОГО ios/latest.json. Открывать ТОЛЬКО в Safari.
+  · Android (папа Алан, Samsung): прямая ссылка на подписанный APK из
+    КОРНЕВОГО /latest.json (его пишет scripts/release.sh) — страница всегда
+    отдаёт самый свежий релиз без ручных правок.
+  И страница, и manifest.plist, и .ipa, и иконки ДОЛЖНЫ отдаваться по HTTPS.
 -->
 <style>
   :root{
     --bg-0:#0a0712; --bg-1:#15102a; --fg-0:#f4ecff; --fg-1:#c8b8e8;
-    --accent:#ffb24a; --accent-hover:#ffc06d; --line:#2a2348;
+    --accent:#ffb24a; --accent-hover:#ffc06d; --line:#2a2348; --android:#7ac97a;
   }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;}
@@ -35,13 +36,16 @@
   h1{font-family:"Georgia","Times New Roman",serif; font-weight:400; font-size:44px;
     margin:0 0 8px; letter-spacing:-0.5px;}
   .tagline{color:var(--fg-1); font-size:17px; line-height:1.5; margin:0 0 36px;}
-  .button{display:inline-block; background:var(--accent); color:var(--bg-0);
+  .button{display:block; width:100%; background:var(--accent); color:var(--bg-0);
     font-size:18px; font-weight:600; padding:18px 36px; border-radius:12px;
     text-decoration:none; transition:background 120ms ease, transform 120ms ease;
     box-shadow:0 4px 24px rgba(255,178,74,0.22); border:none; cursor:pointer;}
   .button:hover{background:var(--accent-hover); transform:translateY(-1px);}
   .button:active{transform:translateY(0);}
-  .steps{margin-top:36px; padding:18px 20px; background:var(--bg-1);
+  .button.android{background:var(--android); box-shadow:0 4px 24px rgba(122,201,122,0.22); margin-top:14px;}
+  .button.android:hover{background:#8fd68f;}
+  .buildnote{margin-top:10px; font-size:14px; color:var(--fg-1); opacity:.85;}
+  .steps{margin-top:30px; padding:18px 20px; background:var(--bg-1);
     border-radius:10px; text-align:left; font-size:15px; color:var(--fg-1);
     line-height:1.65;}
   .steps b{color:var(--fg-0);}
@@ -50,7 +54,7 @@
   .note{margin-top:24px; font-size:13px; color:var(--fg-1); opacity:0.8; line-height:1.6;}
   footer{margin-top:48px; font-size:12px; color:var(--fg-1); opacity:0.6;}
   @media (max-width:480px){
-    .glyph{font-size:72px;} h1{font-size:32px;} .button{width:100%; padding:16px;}
+    .glyph{font-size:72px;} h1{font-size:32px;} .button{padding:16px;}
   }
 </style>
 </head>
@@ -59,29 +63,41 @@
   <div class="glyph">T</div>
   <h1>Tempora</h1>
   <p class="tagline">
-    Семейный планировщик: задачи, заметки, чат и общие фото.<br>
+    Семейный планировщик: задачи, заметки и общие фото.<br>
     Только для нашей семьи.
   </p>
 
   <a id="install" class="button" href="#">Установить на iPhone</a>
+  <div id="buildlabel" class="buildnote">Версия загружается…</div>
 
-  <div id="buildlabel" style="margin-top:14px; font-size:14px; color:var(--fg-1); opacity:.85">Версия загружается…</div>
+  <a id="apk" class="button android" href="#">Скачать для Samsung (Android)</a>
+  <div id="apklabel" class="buildnote"></div>
 
   <div class="steps">
-    <b>Как поставить (2 минуты):</b>
+    <b>iPhone (мама, Света) — 2 минуты:</b>
     <ol>
-      <li>Нажми <b>«Установить на iPhone»</b> выше.</li>
-      <li>iPhone спросит «Установить “Tempora”?» — нажми <b>Установить</b>.</li>
-      <li>Закрой Safari, найди значок Tempora на экране — он будет ставиться.</li>
-      <li>Если при первом запуске пишет «Ненадёжный разработчик»:
+      <li>Открой эту страницу в <b>Safari</b> (не в Chrome!).</li>
+      <li>Нажми <b>«Установить на iPhone»</b> — iPhone спросит «Установить “Tempora”?» → <b>Установить</b>.</li>
+      <li>Закрой Safari, значок Tempora появится на экране и докачается.</li>
+      <li>Если пишет «Ненадёжный разработчик»:
         <b>Настройки → Основные → VPN и управление устройством</b> →
         выбери разработчика → <b>Доверять</b>.</li>
     </ol>
   </div>
 
+  <div class="steps">
+    <b>Samsung (папа) — 2 минуты:</b>
+    <ol>
+      <li>Нажми <b>«Скачать для Samsung»</b> — скачается файл приложения.</li>
+      <li>Открой скачанный файл из шторки уведомлений и нажми <b>Установить</b>
+        (если телефон спросит про «неизвестные источники» — разреши для браузера).</li>
+      <li>Обновление ставится ПОВЕРХ старого приложения — все данные сохраняются.</li>
+    </ol>
+  </div>
+
   <p class="note">
-    Эту страницу нужно открыть в <b>Safari</b> (не в Chrome и не внутри
-    другого приложения), иначе кнопка не сработает.
+    Кнопка для iPhone работает только в <b>Safari</b>; кнопка для Samsung —
+    в любом браузере.
   </p>
 
   <footer>© Артур Акоев, 2026</footer>
@@ -89,11 +105,10 @@
 
 <script>
   // ОДНА постоянная ссылка (Артур 2026-06-29): install.html всегда ставит САМЫЙ
-  // свежий билд. Кнопка сначала получает мгновенный фолбэк (manifest.plist), затем
-  // уточняется по latest.json → ВЕРСИОННЫЙ manifest-bNN.plist (уникальное имя IPA =
-  // Safari не подсунет старую кэш-копию) + показывает номер билда. Даже если сама
-  // страница закэширована — она всё равно читает свежий latest.json. Версионные
-  // vNN.html больше не нужны: этой одной ссылки достаточно навсегда.
+  // свежий билд. iPhone-кнопка: мгновенный фолбэк (manifest.plist), затем уточнение
+  // по МЕСТНОМУ ios/latest.json → версионный manifest-bNN.plist (уникальное имя IPA =
+  // Safari не подсунет старую кэш-копию) + номер билда. Даже если сама страница
+  // закэширована — она всё равно читает свежий latest.json.
   (function () {
     var here = location.href.split('?')[0].split('#')[0];
     var dir = here.substring(0, here.lastIndexOf('/') + 1);
@@ -112,6 +127,33 @@
           if (bl) bl.textContent = (j && j.build != null) ? ('Устанавливается build ' + j.build) : '';
         })
         .catch(function () {});
+    } catch (e) {}
+
+    // Android-кнопка (Артур 2026-08-10: «две кнопки на одной странице»):
+    // корневой /latest.json — это манифест самообновления Tauri, который пишет
+    // release.sh; берём оттуда подписанный universal-APK текущего релиза.
+    // Фолбэка-ссылки нет намеренно: лучше честное «не удалось узнать версию»,
+    // чем тихая раздача устаревшего файла.
+    try {
+      var rootLatest = dir.replace(/ios\/$/, '') + 'latest.json?t=' + Date.now();
+      fetch(rootLatest, { cache: 'no-store' })
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+          var a = j && j.platforms && (j.platforms['android-aarch64'] || j.platforms['android']);
+          var el = document.getElementById('apk');
+          var lb = document.getElementById('apklabel');
+          if (a && a.url) {
+            el.setAttribute('href', a.url);
+            if (lb) lb.textContent = 'Версия ' + (j.version || '') + ' для Android';
+          } else {
+            el.style.opacity = '0.5';
+            if (lb) lb.textContent = 'Не удалось узнать версию — обнови страницу';
+          }
+        })
+        .catch(function () {
+          var lb = document.getElementById('apklabel');
+          if (lb) lb.textContent = 'Не удалось узнать версию — обнови страницу';
+        });
     } catch (e) {}
   })();
 </script>
