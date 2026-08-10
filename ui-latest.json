@@ -1,11 +1,11 @@
 {
-  "ui_build": 52,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-52/bundle-fbfad7a8.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVBGOGw1N05PYzdLdUhicjJ1RzI0UFlxUTlibzA0aG9YQUJEY1lwK0ExL3NTRjU4ckRxS3FFN3J0TW9xdHA0V0QyOXlDMFY2dWlUSTQxSEtsNXErTmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDAzNTg3CWZpbGU6YnVuZGxlLWZiZmFkN2E4LmpzCmtKTDNjTWNlWXpsWm9DQkFvaG1xSktwMFlzYldHUE5LY3F3ekpXY0FVN0o1cDJPempLcEdDSnM3bi9CaWpzSC9YL015bGc3M3VyTC9hc3pwbEc4dkRBPT0K",
-  "notes": "Нейронка: живые имена чатов (обновляются с разговором), история = 5 крупных карточек",
-  "pub_date": "2026-08-10T23:17:35Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-52/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtIbVJ6MDQxMVNYUmZMZVNkVUZFc0FsVnI4VXBZYS90MCtvbmVGekRDdTB4UjRCeFZSWG1vMEppSVcrckJ4cHFTZ1llNlhvQVNwQ2gvMzZTbnM5ZXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDAzNTg3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwo1Z2U2WEhINUZLQlpoRU1uVTZuWVMzeGtmUVd0RXF1SS9LZmRZZFQ4TE5wSkxYSk4rbzJ3SDFYOXJVK3dlYUd3ZVg0RDdTeUh2QWVUWEFGeGRxMnRCUT09Cg==",
-  "from_ui_build": 51,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-52/bundle-51-to-52.patch"
+  "ui_build": 53,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-53/bundle-1513b4a5.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUg5ZG1NTWJFQ2dIeDhQNmpSWGNLUVRkT2IzRm9FdzRDMmlIcGFqM2JoK1YyMlJIREcwejRpVG51aVp0TTZ0TmxGbUJjbHlZbTdscDZRS1FKSGlFaXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA0MzUyCWZpbGU6YnVuZGxlLTE1MTNiNGE1LmpzCnRNTXkvaW4xQjNKZXVzbmFvUTF2a0hSNEt2cjJRVnc3Z28weUROeDR4Z0IyczV0TytSWGh3K0QxZEg0cmFsdGw3ajRvaUFIQUFEK1VhUnNGcXB2TkJ3PT0K",
+  "notes": "Нейронка: сниппет истории без markdown",
+  "pub_date": "2026-08-10T23:29:18Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-53/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUk3WGd4WkJnOWZKdXNaVEF0VFBWR3JWNDF2aXVmaUFFZndFY3czV0FROU1YTFNLUnVyWWd3emhIOVBVZmFUNDZtT21Kb1R6OE1QVUppZ2RReWRtUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA0MzUyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpBbkJvalVhdnJMNENXYzMvVDFBNzVVUUlkU3FNdjZ0VjRaSWcxbEs5VXF1YWhJZmgrRFNXYjNSRXA4aTZ2cVVQMXFyc3dQd0NCaDJrVVhtSVRmcVJCdz09Cg==",
+  "from_ui_build": 52,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-53/bundle-52-to-53.patch"
 }
