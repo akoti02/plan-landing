@@ -1,11 +1,11 @@
 {
-  "ui_build": 47,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-47/bundle-7a1d867d.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUF2TW5HOUN6R0lmYVhkeUVac0dVblhTVXdOV3VCVm8vTlFJMFc3WkVCTjc5bkF2M0JVaUE4Q0daOEw5TkZtZWdUQ2tlZHZ2VndHL2pvckR5bGpzSmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk3ODIzCWZpbGU6YnVuZGxlLTdhMWQ4NjdkLmpzCjY5ak1YRlRFenRQTWxBdTF5cjlmNTdiL2V3Vkp0RWpTeWU0QmxaRkRmOUpKbTg1S3ovQm9xaUl0UmJlRVZOTytEWkFkc2JtaytTWWF0WHdJckQ5Y0F3PT0K",
-  "notes": "Данные: перф входа в папку (лимиты, батч превью, копилка догенерации) + редизайн (цветные папки, крупные секции, плоские ряды, золото)",
-  "pub_date": "2026-08-10T21:41:06Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-47/styles.tailwind-bdfbf20d.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUwya1hSWmtNRElSdXNqdGVDRkY0Z0E2M1d4Q0tYc205YkNZZW56ZXpSVm9jV01BemkzbERZUVA5RERYV1VIUFBCMFg2bm9OYlUwQ0xDMkM0ZzRiL3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk3ODIzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLWJkZmJmMjBkLmNzcwplSDIxNWJuS0pVaWxhSWZiV3o5TGZhQUt5Ym4zWVd4WkdhUUVRUXBjZG5ua3ZtL0hraWU5VWlXY1dPWUQ3dGdVdjRDVGhGdlEyb1pISjdTN0dkZWFEUT09Cg==",
-  "from_ui_build": 46,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-47/bundle-46-to-47.patch"
+  "ui_build": 48,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-48/bundle-57eef6c0.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9tbGlsVXhKTTB0MHFFSFFVRVc1Rmhnb2w1WG1jT0pJT0FlRUUwclh4MlpuaEZDYlRGNTc3Y0RSOGFlb0FsYVRWOUJ5OElpNFRFU2pzUlR4WmxoYndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk4NTM2CWZpbGU6YnVuZGxlLTU3ZWVmNmMwLmpzCndnNFRTR0xzdDZxelFKZm1uaG45TzBWWmZPaktMS05IbG5uWEJKK1RFeVh3VUdCbldKK1lmaEZCRHU3QWlsR2dsVCtGendydmttS2tPVWMySXRUU0FnPT0K",
+  "notes": "Данные: новая шапка — поиск во всю ширину с фильтром внутри, крупный заголовок папки, чипы Файлы|Медиа",
+  "pub_date": "2026-08-10T21:53:02Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-48/styles.tailwind-bdfbf20d.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURYdlhPUmFENnRLUEppMnJvUUR2Y3VvdVRFQnRMdjNFQkYzSllORzdveFpuckYzM28rQ010NUR0UkxPNTlwbi83RGFSSEZoY3E1eHl2OElKMTlpR0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk4NTM2CWZpbGU6c3R5bGVzLnRhaWx3aW5kLWJkZmJmMjBkLmNzcwpQREtMTkFmRTNNU1BPVDlFRHNjOGphUmcyUEtxSUdTNVE0dHdNZHhtR05sVVVrUExFY0lZclRMU2xaVjJzUVhnYURhQXVZTEJOajFWOGRrby9vWjVDdz09Cg==",
+  "from_ui_build": 47,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-48/bundle-47-to-48.patch"
 }
