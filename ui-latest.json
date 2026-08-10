@@ -1,11 +1,11 @@
 {
-  "ui_build": 44,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-44/bundle-198b3e39.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUR6c0gxQzM0Sk03Z29TaHRIdGlsbnpFOEg5dGtlV2pJOExyaVVqbWhHS1FzZ0RhR0FlcWRucGRPV09LeW1LZDN6TUtLcFN4cmh3aFNFQnpQd1JaalFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk0OTA3CWZpbGU6YnVuZGxlLTE5OGIzZTM5LmpzCjd5aWx5a1FFaStNMU1RVUtCQzFJWHZPdExDZXBJbFdHekhjdittQU5NRTUrL0Q2b2ZMWXpjL0F4cDBkVklvaUp3SjJ6bWRoVnRXNnVYL3VVTDFMN0J3PT0K",
-  "notes": "Задачи-полотно: круглый чекбокс (сброс глобального min-height)",
-  "pub_date": "2026-08-10T20:52:06Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-44/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5HaFlMak1qbkRiUkJ4MzU0Z3dCVkI0R3d1eEh0U3FVd2VwNW13S0FkdzhzblRkN2tmNkI1UjlxM2dwSndUUmp5Z3ZoRWZVcXFLeFY0V0lyM1c3cFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk0OTA3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwo3Z2hrNmZCN1RmUnRLSG11emZ0R3h6bnZWYS9scVhheTNmRWdnamVmdEFVWDJZd2hyOXdnVmY4L3lYbUdPYlZPV2NCMDJYZERZWU5Lb3pObkNPTmZEQT09Cg==",
-  "from_ui_build": 43,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-44/bundle-43-to-44.patch"
+  "ui_build": 45,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-45/bundle-a05a41d2.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhUbFVneXFqbU9aSjFCL2JLYVRtTVpQQzB0QmRBN243RXdwejJjNU9IU2J2Uk9jUE1lWHltaHRQa0ZTUEtTaGx1MVo3T3ZuY2twOUtKdGYyYnZJY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk1OTkyCWZpbGU6YnVuZGxlLWEwNWE0MWQyLmpzCm1FbGVieDhhNCtRcm5ydUhiRERoY0RHeU43TE55L1JpUTM1WktoRE9SV29DZzlOekFCbG9WRG1maVlDQ0xrVEdONEpudG1UNnUvV0FraFE3SWd0akF3PT0K",
+  "notes": "Claude-этап: hero-экран (искра, Чем помочь, чипы-подсказки)",
+  "pub_date": "2026-08-10T21:10:48Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-45/styles.tailwind-a27c16b1.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlMSi8vdTJpWWFyckZoLzB5aVZWcHEzR0M0NTJBR1lrUEdlWEJNMk4ydTVFUzB4aTM2b203V2lYNTZSUm9Na1dWRnRCbWl0cFRuVFRjMkt5eEFCWEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk1OTkyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLWEyN2MxNmIxLmNzcwp0Y1IzVFlQaVlQZmFYSVl6Nmt5NTY1UmdXQnNJQmlNMGROTlRJR2J3QVp5ZXZYMGg0THNiVzlQc2dHWjF2UnF6amQ0L0ltK1NyY01GR1J6dE5rODJCQT09Cg==",
+  "from_ui_build": 44,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-45/bundle-44-to-45.patch"
 }
