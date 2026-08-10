@@ -1,11 +1,11 @@
 {
-  "ui_build": 35,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-35/bundle-df84b95b.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU4zcWVIclgvTy9wMERVellXeVBLcEFaSWtOQUR0ZTM0TU1xS1FDaWYvWjhGNWtNenNBK1JNOVNVaGhNc2RWdGxSVnVGRUE4bFdpdjFESEN6ek1xZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzE1MDkwCWZpbGU6YnVuZGxlLWRmODRiOTViLmpzCldpOFR5STdtOXl2bXZ5bU1EZnRlUTFMR0xXZE4xRndraWw3WStBay9lRnVQTGt5NUZGMnUycEd3dVo3M09CazJNcms0bEZNQ2Y4bTZVS1NZTnpKSUJ3PT0K",
-  "notes": "Карточка задачи: баннер «Запросил(а) подтверждение» с кнопками Подтвердить/Отклонить (существовал только в мёртвом старом экране)",
-  "pub_date": "2026-08-09T22:43:31Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-35/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJCamhocVNWZEVySDNvV09JaEdpTDJpNzRYUVFjVVJ6bzRHWEJjSW9iUWw5VnU0UGJDdFozVUJBSmRWVkdTREV4dnNSK1hPNjBsT1NPZ0dIUTc0ZGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzE1MDkwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpjUVprMjRLNWM1d3ZVQWxCRldPYytxMzRIc0ord0Q4MjFodkhKMFhzemw2UElHZ0hpN2RpdGNCcWNIeDR1OWV1R211WnRxaGRzU201Z1VuUm93ZnBCZz09Cg==",
-  "from_ui_build": 34,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-35/bundle-34-to-35.patch"
+  "ui_build": 36,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-36/bundle-734aa8b1.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUx3cVZETS9lRGFnSjRjQmlZYTNOczlNdGRoQkYvNXlodEN5OXM0Q09vUm9KdUpVbTJpNTI4RFB5WlhkUk53Z1paUzFqNG1VSWZvQ2M1SHB5Qkl4NFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzY5NTg3CWZpbGU6YnVuZGxlLTczNGFhOGIxLmpzCkcrNXhnSEw2TmJtOHArK2VpbjlMN2JHYk1BeHdjRHhtRndHdW1MS0Jpak9lUVBteW9BSGxxZXg5MVlvTVFaUloxejJIczZhVHpILzFCdmFGNXBLRUJRPT0K",
+  "notes": "Массовое «Кому видно» для выделенных файлов в баре мультиселекта",
+  "pub_date": "2026-08-10T13:49:43Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-36/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlTemhZLzVmTnpWSEcvWEp5OG10bzZHMGZMRThwWXF1QzE1VWxZUWVOeVVBUytaa1pIOWpSMXlPcDN2dnJLTG9CZ0hoVDJjRjN5WDA5RHZqc2ZBZWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzY5NTg3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpwUlpEK1UrRUxiM3BCTmhPMWNDSStBR0JoQTdhY05PMTVYMzFjS2FCMGU4VXZJRFhQSU4xNy80ekVhdzRIY0psRDhkR1BHcTY0SXVJMFIvTkdWS21Ddz09Cg==",
+  "from_ui_build": 35,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-36/bundle-35-to-36.patch"
 }
