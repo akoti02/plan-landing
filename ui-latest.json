@@ -1,11 +1,11 @@
 {
-  "ui_build": 46,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-46/bundle-012d4f67.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9NTHFva1I2YXlNQUtHSjE4MmJPakU4L1pVZ2x4SWM3Wk1JV21BeDBDK0N1ZHlxdEJBdkhNalYrWml6WmdKR2IxMnRJZDBhejE0TEtzV3dlUGdmUHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk2Njg5CWZpbGU6YnVuZGxlLTAxMmQ0ZjY3LmpzCmdPN3F6OTE2NlczRmswVHlaVzZmT3dIc1NtUDJxOVE1MnMvZnBZa3cweHh4UmpFUWc4cks3bEZGMHFjSVk4amFzRGVYTTF4UENNYWdnN20vTXg4OUF3PT0K",
-  "notes": "Claude: hero без кнопок-подсказок (по слову Артура)",
-  "pub_date": "2026-08-10T21:22:09Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-46/styles.tailwind-bdfbf20d.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUFRZjlnSWd3b2ZENkF3WVZTc0syRTZtdmphb3A0cW16UEpZOGQ5aXZwaElFMEYxMWQzWGZNM2QzZEE4ZDJHekM0SFl4M24vWDVpSC9leXhKR3YyOFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk2NjkwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLWJkZmJmMjBkLmNzcwpKbll5ZlJCQjJ5dHBJR3htU1VTK2xHSU9jK29NTC9xendUUVdKSmVLUGdiUVBML0NPQSs4UjQ3TTN3Skd6R1Jla1Vlc2pWNHJ4U2NKWGtsUDZ6T1hDZz09Cg==",
-  "from_ui_build": 45,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-46/bundle-45-to-46.patch"
+  "ui_build": 47,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-47/bundle-7a1d867d.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUF2TW5HOUN6R0lmYVhkeUVac0dVblhTVXdOV3VCVm8vTlFJMFc3WkVCTjc5bkF2M0JVaUE4Q0daOEw5TkZtZWdUQ2tlZHZ2VndHL2pvckR5bGpzSmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk3ODIzCWZpbGU6YnVuZGxlLTdhMWQ4NjdkLmpzCjY5ak1YRlRFenRQTWxBdTF5cjlmNTdiL2V3Vkp0RWpTeWU0QmxaRkRmOUpKbTg1S3ovQm9xaUl0UmJlRVZOTytEWkFkc2JtaytTWWF0WHdJckQ5Y0F3PT0K",
+  "notes": "Данные: перф входа в папку (лимиты, батч превью, копилка догенерации) + редизайн (цветные папки, крупные секции, плоские ряды, золото)",
+  "pub_date": "2026-08-10T21:41:06Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-47/styles.tailwind-bdfbf20d.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUwya1hSWmtNRElSdXNqdGVDRkY0Z0E2M1d4Q0tYc205YkNZZW56ZXpSVm9jV01BemkzbERZUVA5RERYV1VIUFBCMFg2bm9OYlUwQ0xDMkM0ZzRiL3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk3ODIzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLWJkZmJmMjBkLmNzcwplSDIxNWJuS0pVaWxhSWZiV3o5TGZhQUt5Ym4zWVd4WkdhUUVRUXBjZG5ua3ZtL0hraWU5VWlXY1dPWUQ3dGdVdjRDVGhGdlEyb1pISjdTN0dkZWFEUT09Cg==",
+  "from_ui_build": 46,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-47/bundle-46-to-47.patch"
 }
