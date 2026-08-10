@@ -1,11 +1,11 @@
 {
-  "ui_build": 36,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-36/bundle-734aa8b1.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUx3cVZETS9lRGFnSjRjQmlZYTNOczlNdGRoQkYvNXlodEN5OXM0Q09vUm9KdUpVbTJpNTI4RFB5WlhkUk53Z1paUzFqNG1VSWZvQ2M1SHB5Qkl4NFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzY5NTg3CWZpbGU6YnVuZGxlLTczNGFhOGIxLmpzCkcrNXhnSEw2TmJtOHArK2VpbjlMN2JHYk1BeHdjRHhtRndHdW1MS0Jpak9lUVBteW9BSGxxZXg5MVlvTVFaUloxejJIczZhVHpILzFCdmFGNXBLRUJRPT0K",
-  "notes": "Массовое «Кому видно» для выделенных файлов в баре мультиселекта",
-  "pub_date": "2026-08-10T13:49:43Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-36/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlTemhZLzVmTnpWSEcvWEp5OG10bzZHMGZMRThwWXF1QzE1VWxZUWVOeVVBUytaa1pIOWpSMXlPcDN2dnJLTG9CZ0hoVDJjRjN5WDA5RHZqc2ZBZWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzY5NTg3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpwUlpEK1UrRUxiM3BCTmhPMWNDSStBR0JoQTdhY05PMTVYMzFjS2FCMGU4VXZJRFhQSU4xNy80ekVhdzRIY0psRDhkR1BHcTY0SXVJMFIvTkdWS21Ddz09Cg==",
-  "from_ui_build": 35,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-36/bundle-35-to-36.patch"
+  "ui_build": 37,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-37/bundle-0eb547f3.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZuKzJKbkRmb1pGVGJkSFBYUU9aWHpZMkJ2eE9TNkRVajNmbWtZdjlrTWkxYUFwbUx6ZldrcTlrNU95cXNjSXo3ZUswOHhOTTB3L0gwNHhGM1ovOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzc3NTk0CWZpbGU6YnVuZGxlLTBlYjU0N2YzLmpzCndXMHY3djJqc0FMRHNLaVhnWUR6dXdGZFdSY05Sc2JzdmJIOEZQUE9NSUhUMFBNNHc3dUxRcHB0SGp3ckk0TS91Z3VTTkdncU5yaERFUE9yVm1RbENBPT0K",
+  "notes": "Авто-архивариус: тумблер и журнал в настройках ПК",
+  "pub_date": "2026-08-10T16:03:06Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-37/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUc5KzJNM0FZcExBV3pGNThGRXdlaVpjWlZTelBlejl5VzFoRnBtaERFZFN2dDhjK1BrNGRmY2x2cGxNTUN0dENVMG4zK21GOExTbmRkM053ZmQ2OVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzc3NTk0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpkaExScVByV2pyeUVDK25BdzVxdVFmUndHVS9wUlM5bVdHeWRjOFdybWxKMUdoL280aEcwRlduL2w1ZlpQditpWUtHMm4yM2ZLZ0tDdE9pYzJ5RkVDQT09Cg==",
+  "from_ui_build": 36,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-37/bundle-36-to-37.patch"
 }
