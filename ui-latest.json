@@ -1,11 +1,11 @@
 {
-  "ui_build": 40,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-40/bundle-646094c7.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtnQ0hnbW1uQVRxczdPOS9SMmdUQjkwYmpDTmpJY2NKZEVXck1GVUtkcjh3R3YvV01nYmxiMFVaMmZVOHRBQlJQTDJWSHc0UGphanFSVjVldkFaNEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkyMDI4CWZpbGU6YnVuZGxlLTY0NjA5NGM3LmpzCjYxYlNpa043ZmttZFJ3OEw0bFFxNWxTamNJbDZYVUM2eTVMeDFRSEU5WHluOTgwR3JoVWJoZ2t0ZmwrYVhsclNCclNGZkVxWldPb2MxV2Vqc0gzcURnPT0K",
-  "notes": "Календарь в Задачах: финальный дизайн недели-ленты (золотые дни, ровная сетка)",
-  "pub_date": "2026-08-10T20:04:31Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-40/styles.tailwind-54129ff2.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlCWGxFeUh5c1pPc1JSNHBJdkdQK3YrQWpEVmR4SHQyTE5DcnRBUnhnNXdyWkZmRUIxcXRpVEFTZlJGNjUvcFNUaThOKzI2ZEFTT1hQeW5FMVl0eHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkyMDI5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpsYmlQYUJIVFQ0eHJVNzhoaVlKT1g4dFFXTkNwU3A2MVlHaEVCdW9LOUxOVnJjNVVaTnlGZFpCTXh4Rzc0YUpSSzl6SFVMcW0rNTBmNjdXN2M5LzRBUT09Cg==",
-  "from_ui_build": 39,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-40/bundle-39-to-40.patch"
+  "ui_build": 41,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-41/bundle-2b970d9e.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlSdndOU2djamh4cUc2b0hyTlRQQXZZSmJjQkh1Z0gwTHlFQzNycW5GZEkwNlpmVXRxMDlYcmw5YjNNVDBEcVNPaVhWQ3RLMVFCamxkRk5kRWJPZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkzMzMyCWZpbGU6YnVuZGxlLTJiOTcwZDllLmpzCmJiZEhyRVBwSzYyMlAzbGt3RTB6bjI2U25FZjZTRlRDZzhGYzNoREtQZXhlYmpTYW9Rb2Y3ajNJV3prZUY4a1puN1Q5cHk1QkxYUlhmckYveTRObkJBPT0K",
+  "notes": "Дизайн волна 1: крупнее тексты в Хранилище/Заметках/ИИ, шевроны папок",
+  "pub_date": "2026-08-10T20:25:33Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-41/styles.tailwind-54129ff2.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUMxV0NzeEtJSUlNN2IvVGhSelg0UFBEbkdVM1VYOU9PU2pPdnRpbWw4bkN2RmsvVWZsNjIxajl0eGY0SDNEZkJMU3ptZnJaMmpZNjIreFA0cTU5ZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkzMzMyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLTU0MTI5ZmYyLmNzcwpnYzJNRm9MRklXenRhTzJGR0VPV1Q1ZTVmdjZsdndpN2luSUhMaTZCVVdjYjI2SWNQTHQ1REFpaHJoZXo4WVRRNytHV1ZFaHdhSnlyRVRWWkJsYVpEZz09Cg==",
+  "from_ui_build": 40,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-41/bundle-40-to-41.patch"
 }
