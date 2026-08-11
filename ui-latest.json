@@ -1,11 +1,11 @@
 {
-  "ui_build": 67,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-67/bundle-7747deae.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtxeGEzVzVhZUdSaW0xcUM5UmxnRm9lMjVlOEZQUG0wbld6VDZjNVFYRWZQS2VsMWxYc3ZET2RvcGlQT1RvK3dTaW9TcG5paFFaU2FTdkdKQ1V5Z1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDc0NjMyCWZpbGU6YnVuZGxlLTc3NDdkZWFlLmpzCm9xbDBBcVp1STZYSER6eTVNYTRpQnJtQWlwa01jSHR5VWlVUHhjYmFVWHR3QnZRcGdwdFhvcXlHYVpuN3NZdjN1TnZhNGo1aHp3MjNlbHA0UTduM0FRPT0K",
-  "notes": "Нейронка: поиск по архиву отвечает в разы быстрее",
-  "pub_date": "2026-08-11T19:00:02Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-67/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlXOWJDSEdtN3NkOWt0dWIybVFERHJjbXp3cXA4ZmZ2MGYzSnlCVDMxTHNmQSs1UmFFV2REc2o5WTVPQkdFbURPeGFLUUJFeVdSd1JmY0FRb1U5d2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDc0NjMyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpqM1FzSDB5eWxVN1Z2NUpXbDV5ZzVxeGRVODlHbXNRK2tmOURlWE4xL2JxbHdWZGxlaHd6Ym5ob0NHVmc3M0EyQUN2Q0VLaGQySTFZZFRrbkJwUWhBQT09Cg==",
-  "from_ui_build": 66,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-67/bundle-66-to-67.patch"
+  "ui_build": 68,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-68/bundle-2e92b2d5.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5FcnhGaUhhOW52YXNnaG9zbUxIaWtibk9NTVpVZmpoOXRMZ0FHYW9nR2dOU3BOZ01UZitDcHQ1NGVHRU9hZ2U1UVlYSmZPYnphVTVHU3BaeFIremc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDg0Mzk2CWZpbGU6YnVuZGxlLTJlOTJiMmQ1LmpzCmRRaC9kRDE2RURMNE9NQVE3ME9OQ1I2RFA2ME5LeHFMU3pIejB6UFJ0SlRJeDFPZlFSRlNraTFWaDYvQld1OTZkMWhob3JlQ3poWi9ZL2hPN2ROVUNnPT0K",
+  "notes": "Данные: вселенная памяти — папки-туманности из цветов ваших фото",
+  "pub_date": "2026-08-11T21:44:33Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-68/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpTelY1SXRMcGVkb1BNSXBOVWtWM0RzQVlleDBEYmJSaitFTjdSQUJGOXpqcG1NaDJRN3p6V04vRFl2RkszdWtsMUNqa2N2YnZTYmdyZG9nd3Noamc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDg0Mzk2CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwovNHN5RHZtMHFVVWJqRndFMmRBR0xVODR4VEhJZEpDVGpsd3l4eWlPNXZ2bms2R2oyNkFkYUI5UEovQU90QUVGL1B6WXB5b1ZCMWwvQXFNZ3JCbk5DUT09Cg==",
+  "from_ui_build": 67,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-68/bundle-67-to-68.patch"
 }
