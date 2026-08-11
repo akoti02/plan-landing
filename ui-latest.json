@@ -1,11 +1,11 @@
 {
-  "ui_build": 57,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-57/bundle-a265b856.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVubHhmU25sMDBkQlRNR2ZEcE1nV1JINjdTbHRwZjJPZnAyU2phOTRpNHp2RlFHRlpLTFNRdDRQWTlaZkNrakkySjJFRlUyQ0FRci9YODhxSExxT2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA4MTQzCWZpbGU6YnVuZGxlLWEyNjViODU2LmpzCjZTT2N0cTZWSTdrQm9qN25vNk40TlhWTnltR3UrQlhDZHprRnhDKzdPMjZsMkJlTmpWQlprWWJUME40bDFNbWJlWVdueGtaUENTTXVVRkl2MDNCWkRRPT0K",
-  "notes": "Задачи: одно крупное пустое состояние вместо двух фраз",
-  "pub_date": "2026-08-11T00:32:37Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-57/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUY5Vk1zR2pDU3JGRlc0M2Uvc0xmL1JvSG1hOThNc3RCSndwSG42NHRHNURTakh4dGFjM1puanNSTE9kbUdkdy9LdS9jZEdlcFJ5c2grY3pzUzBvTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA4MTQzCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwowMjZjeGw3OGZCMjNqMCtucjcwT3g2dHg4WFo5aG96Q3pMS2JMa1h6SXBNWitkT0lKc2dsZnZyL0FDZGNVUWp6bVEvYjAzKy9PeTViMG9NZkF0b2JEQT09Cg==",
-  "from_ui_build": 56,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-57/bundle-56-to-57.patch"
+  "ui_build": 58,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-58/bundle-0d035be8.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1GMk5WTUdPVWdYU21TRjJUU2FJTWZpbUdmMHZtTDluajgvNVU2eFRIRnNvTDhSVmVpdWVRaXlLNmlsL2IyS2tCVlRqYWN6dEN4OGJXdDU5M0lCeVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA4NTUwCWZpbGU6YnVuZGxlLTBkMDM1YmU4LmpzCmt6Wnh3VFpSd3R2RndvQXo0blEvMnN3TDYwYzh4TTd5ZGF2N1BtWmhvM0FYcWpsbk1PenJnZkJyU2FPUm1COGxTL3ZUUWx1QTA2djIweWZBbjFxUkNnPT0K",
+  "notes": "Задачи: пустой день — только фраза «свободно» и кнопка",
+  "pub_date": "2026-08-11T00:39:46Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-58/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZiQWZ2TEFjcXdGSk5yRHdaekpEblQzM2RGTGFuRHdnZEF0S0pXZGN5bklPZzNGWUhmbXhlQTRiZGtzODdzK3F1WkIraUxVSzZ5c1MrbWVQQkVFaEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA4NTUxCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpuQ2hJTjJVWlhwOFZIYTlZMng4TVFYL2I0OE16NUU4dmhMTWU2Y21xWVlGZ1NkUGJ4OWZkRVhxWnI2enR3L3JMU1lSME9PWm03R2hhd0c5dzhNcHpCUT09Cg==",
+  "from_ui_build": 57,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-58/bundle-57-to-58.patch"
 }
