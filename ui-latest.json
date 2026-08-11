@@ -1,11 +1,11 @@
 {
-  "ui_build": 62,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-62/bundle-009005a0.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZjMzdKRmpLcTY2aWtOWmJ0RFZ1aXF5bHNQYzhabGFhbzBhdlJOS3pnWkxIVkRnd2ZlOTBrSmZoaDhIOE1iK0pQbE4xcG81K1dtcSt3akxvWW1UNndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDQ5ODg1CWZpbGU6YnVuZGxlLTAwOTAwNWEwLmpzCm9VaEFmNVAvdmxnWFdJS2swZnc1R29SYW1KTno1YmhPU2VtOC9mUDRlTHhncXdxQVlVa0JQa2xGMFlMMGYrOWNua2RvVWcweTB0VlVsWFpKWHJJdUFnPT0K",
-  "notes": "Сводное: календарь-расписание, смахивание уведомлений, Медиа без шапки, переключение вкладкой, новый скраббер, простые настройки, чистка дублей корня",
-  "pub_date": "2026-08-11T12:10:32Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-62/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUFQUlZxaUtFbEZJT1A1bzBoVXhwRGIzL2FTeW9iSWh5UnNFYVQ4UXlHMDZBcGd4bU9ROWU4U0xZeTMrWERVc1BONnZHc1JWK0FJemkwVVI5WXJXdXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDQ5ODg1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpTZ1VQNzk2VE1qaDU2K3hIem5xb01kU3JKMHNJdG1wQmduTHFRN1FaNTEvb2srSVJMVmQ2dzIyWjR0bkt5N2x3NlhxeVB4ZDVDeXpBNVJjTloyMlhDZz09Cg==",
-  "from_ui_build": 61,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-62/bundle-61-to-62.patch"
+  "ui_build": 63,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-63/bundle-009005a0.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUMyWGtjVml4RlBhcDlLTkQxS3RVVFYvWkN6MDdJOFBLdDBLeWFtQzl6TUFQRzMwMGtYMEI1c1g3U21nQVNJSTgrK3BrUEJhM0x6ekdFS3BYN1hzY3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MDk1CWZpbGU6YnVuZGxlLTAwOTAwNWEwLmpzClN6U0xuMFRTSjlyTmRCZ2h4YllHWlpDVjlWRnhhT1RoRGdPeG81Y3BqeG8waXdGMTB4a2lPTGxidDZRVGM1d3hrUnB1aHlTRXg0SkEvMzZibUZJb0JRPT0K",
+  "notes": "Проверка канала доставки на прод-сборке Артура",
+  "pub_date": "2026-08-11T13:34:42Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-63/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9EWStmVy9yZDBpOGphTHpmVVM3bFBjNWxIR0NUQW00RjRIRjFyaWlUcWUxdjBUVjNIODBJMWdhM29aQ2ZsbzBseUl0Ukl0Ry9PNXJJTk5jeSs0Y0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MDk2CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpzZEFiaHhsc2kwSCtyczNWYmpGelNvdzNhV3l3dkNBa0Y5Sys1RlMveWU1b1Y4NnRwc1RpNGRYYUtkUE9WZmltS2dBSGlNNEpHZ01vbS9FSjcyYitBQT09Cg==",
+  "from_ui_build": 62,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-63/bundle-62-to-63.patch"
 }
