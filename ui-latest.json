@@ -1,11 +1,11 @@
 {
-  "ui_build": 64,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-64/bundle-a3fd8096.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUR2MGJYOS9yNXk2RHk3RUxvZ2JoT2Rod1lEamJQSlhqQUZVcXNQWUZUU2NZOHF1YnJTRjdzYkxETzhlZzBLUXg0OXQ1M1ZuVDRJZzJMYWZQelBKK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU4NjY1CWZpbGU6YnVuZGxlLWEzZmQ4MDk2LmpzCm5VaUdzbG5lYjQ1OTJzV3N3UEZvTFJUQWFoSTJQejdnZVV3MFpTeWYwbFpFZFdpN0Q5NXA5Qmo4QVVTbDBPeWhqck9BZFEvb2tPc1dPdEE3eURkZENRPT0K",
-  "notes": "Календарь: месяц-лестница — дни во всю ширину, задачи видны именами",
-  "pub_date": "2026-08-11T14:34:06Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-64/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlVUHZxVG5vdTFpeVdJNktzNEJqOHBOYlFuQVdXZlJzY29mR0dPcVNZd1duNG1MWGFwaENPeG0rTmtPMVFOanAzeG1sWlZoT2ltNjNpZXNaeFRMNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU4NjY1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpOSWxZaWZBbTlUTDkyMFlNN3hqK1JQS2xpSUdIVDFRZmt5WnBNTm5NbTdrUVU0aVphNGw4RWg2UVQrdGFLZXB4eFdmVDNjSXdLaXlIZnlRcHlPMlBCdz09Cg==",
-  "from_ui_build": 63,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-64/bundle-63-to-64.patch"
+  "ui_build": 65,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-65/bundle-eafdc671.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUMvYVl4K2R5cUJnWTFmK29OMDQ4MGZFSS96cytWQkJPWnM0ekNkSFU2UkJHaitTeFZrenJoUGMwdjlKamRRM0pxemYrUG42UDhxZG5WZ21DckxmNXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDY0MzYwCWZpbGU6YnVuZGxlLWVhZmRjNjcxLmpzCnBSVHh6cGdROFpXSjlnelFrUjMybEhNdndjNkdJUGt2ZzNxSjFkSVQzcmVEYTJTejBDMWdxQ215ODFpb0x3TFBzV0ZRcFhnYUdGOFRaamlrenpRT0J3PT0K",
+  "notes": "Календарь: подзадачи со своими сроками стоят самостоятельными строками",
+  "pub_date": "2026-08-11T16:09:29Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-65/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhoSWlaaDVXQm1IbXVoT2I5bkUyajNOK2lzOElTTm1FLyt1VU8yeXpEZXFUZ2t1OEdNSTJGTUpOZUlYRUFoU2FQTEZPb1ZPNWE3anJaUGZ0Q3dBN3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDY0MzYxCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp5VzFaaTExTTYxcHBKOGxKZVFYV1A5dGJaQS9yYys3ZTdlVTdDSDFxeGN5NWJoM1VFclJqZnFaaFMzVGc3T1pnbkNxaUUxbVVNVHFjS3FmSlQyKzNEQT09Cg==",
+  "from_ui_build": 64,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-65/bundle-64-to-65.patch"
 }
