@@ -1,11 +1,11 @@
 {
-  "ui_build": 81,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-81/bundle-d67cfc21.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtpU1BodWJXNERHOUJNWk9kdEhTSTZMTDlQZ0FFdlQ2L0ZjL1ZSU1dTN3ZzVFlTNVVFNU15Wm44YmQ4SXc1TFF6TVdFNlNnZXRmWVEzcGhoUldoZndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTU5NDY4CWZpbGU6YnVuZGxlLWQ2N2NmYzIxLmpzCm1rUXhUdExyMXRVOEp4N2lTczNXSFE1eEx6YXNja2QxUDBGaU1ZNXE4T2hBSDgvczNiZmdTSWFYSVhMek8vdm55VUtrTVYyVkZkck1QODIvaUh0WURBPT0K",
-  "notes": "Пустой календарь: сегодня крупно + месячная сетка",
-  "pub_date": "2026-08-12T18:35:26Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-81/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5WeVMvQVFEZWlrWk93NXlBWjcxRUFIaVJ6ZjNNbGZEbmhhR2FDSk1jN2ZhSDAyeEN3QVpZS05UU282eUxoKzNyV2EwTzZZTHdqcE1lTnk4a3VVRVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTU5NDY5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpQL2d6WnJKRHZreVdBNTkwUFdBSmQvSUc4ODVPYm1iMkNYZG40THBsTCs2UC9zZDAwZVN1WWQycW1CN1EwNVhtT0c0bDMxdDdrOTA3aVBmOFgzS0JDQT09Cg==",
-  "from_ui_build": 80,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-81/bundle-80-to-81.patch"
+  "ui_build": 82,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-82/bundle-f527bd16.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1kdHc1czd6alZxNldXQ3Zic3JkWjM1azZVUHNHcFExRU1DNkJCNGYxd2NzSEtBSjd0L0dPZTc5M2c2NktiRXo3K2dzblZyNmphVUJ5czNoWDhCNUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTYxMzcwCWZpbGU6YnVuZGxlLWY1MjdiZDE2LmpzCnBvcStXU01naE43eWlIYldodTJ6R0NPY2VZTWZIRGFlS1ZMVlNyRlFQeXlvbWg3RlVmMWhaY1YxREpqbHUyVWtkUnJQaVpQbzV5TWVBbXUxNUdINERnPT0K",
+  "notes": "Заметки: тело до низа экрана",
+  "pub_date": "2026-08-12T19:06:43Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-82/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUUvNU9OOXVQSHRIS3dDUDBDK21sUzMrMXI2RnhvbWR3d1BIdno1UE5LdnR4dXZ5M1VDcmtBOWllV3RsUlhnTzVsT1RuWFpQVEE2blhsUTVQay9hd1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTYxMzcwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp2Qk5MNnpDYTdVQlZTckR6WDlEekx3WElZZVJMNlFYL3FkcHluU0FNSWtyTVByVTdnbXBDNE1MdG9Ja1VDZXVvVHhJdlkvR1ZHaGptd0RFMGZrN3JCdz09Cg==",
+  "from_ui_build": 81,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-82/bundle-81-to-82.patch"
 }
