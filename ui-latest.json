@@ -1,9 +1,11 @@
 {
-  "ui_build": 72,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-72/bundle-239f1d40.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURBbVRhNERSTU5ERVFlTEF5ek5mMTVkTGZwZlluNkxqRzd0KzVKZnBSdmtpaGlVY0kySFZhNGpoUFdEakIyQS9ZbWl0MXRwQ3hNdjYwbEZDYSt3VFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI3NTMyCWZpbGU6YnVuZGxlLTIzOWYxZDQwLmpzCldHcmc3QmF3eVFYSXE2WUdWUU1FeG1CTVFrMWVja1h1Q3IrRE5yeW5VUG1FVzBPeXZ4QldGUUNTUjFYcGQ0MTFPalNQOGFHaVQrUUxQczU3R1oyWkFBPT0K",
-  "notes": "Данные: документы показывают первую страницу и читаемые имена",
-  "pub_date": "2026-08-12T09:42:24Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-72/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1TblBPaytGY1RtNCtZUWVqY1NFUHZEUnZ6VGowZGxBVHBmYkthMDRiUnExeWpBdnJMK1ZETmtwZkJhVzVjT0hRa3phazZGR2ZoTXF6QWVucmxzOFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI3NTMyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwptZ3VNN20wUFcvWHV6ZU9GYnVSaStPN215K3h4N1pKVWlQWnI3QUNYUEp2WHBpcFA0c1BuOGJhdksvb2Nsakl4MTNyZXp0RVpBT1pFNzUzTS9nUlVEQT09Cg=="
+  "ui_build": 73,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-73/bundle-d6c0ac10.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUQ1eEN6SkhUYTh1bFM4VDBiVnRxd2w0bFB2ZnVvSlRoMmdhWGMyekF5bGorOFZ5YVQ0anJMemo2cmVPWlFXQklPMDNjallmRGhGcGVaWFRua3ZMZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI4Mzc1CWZpbGU6YnVuZGxlLWQ2YzBhYzEwLmpzCmIwK1p3a0ZmK2NJTFZTZW1KR1M5dldlMHBCMld4dkwvVXdaYk1MdDhIUzhtazltMWxYUDlhY2JiZEpHaEJGekEveGdsdVJMZmxBbTNtdUxueW1ocEJRPT0K",
+  "notes": "Просмотрщик PDF чинится на прод-сборке (абсолютные пути pdf.js)",
+  "pub_date": "2026-08-12T09:56:53Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-73/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUllQXUxdGh3Mlh2eHo3eUgvaVd1SHZGSUEzQ3JzN016MTNwN2VmUWFtZ0I2MnZ4UWgzekJObm02VFo3RFhyYkZEWXV3TVdXSi8vTTZhMGljWks0WFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI4Mzc1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpNQVE4TVdRM0lyVzRBVGJPa2xYUzRXNEI5U0RjMUdoNDRaNnQ4NTBSM2NDU0FEN0MxZmRaVTJHZzNTUUU5RHB1VVlzb2ZlcTNXZnJCeXU1L1Q1SWxEZz09Cg==",
+  "from_ui_build": 72,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-73/bundle-72-to-73.patch"
 }
