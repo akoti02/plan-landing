@@ -1,11 +1,9 @@
 {
-  "ui_build": 71,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-71/bundle-c502878a.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU04VWNHSzY4RVZ4OUhmKy9YQTRKbmtIRitjSFUxbVlmT1JwT0lzNmNHUW41WVk2RmVaU0sxcVk4ZDFJVTRxNVRyaW1KOVVXRmdrT1RvcFlNNzJWV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0ODM3CWZpbGU6YnVuZGxlLWM1MDI4NzhhLmpzClEvQTBTbmhUY0haWThobFRia1VXV2RVOG5DZVlaaFhLM2hlYmdLeEJ6UUVLMlRRN01Wc3UzbysvNnNPbytmS3IyY3VMditkbFJ2NGNINmxLSFpDdERRPT0K",
-  "notes": "Данные: документы со своими страницами и читаемыми именами",
-  "pub_date": "2026-08-12T00:37:28Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-71/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUQvZFZWQ1RDWVl4NHNhQWNNNERzcFNhTmpvaWt5S3ZiTmVmc0tMWjR1ZXlTWDZSNWJxVW1Yd1NJcWJKckVvRldNN3NKcUdFKzR6WGdsblBWYWFWV0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDk0ODM3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpZOWdKK0NycW5sd09VcXpBZXlSeU9NYjJxbHJEWi9vWUFxejFsZ1BXV2xINHVQOVlIa1BMbVF4VFdtc2gvZ0dxa1VxRGIwamZlWjlqWkdVbEE1WFdEUT09Cg==",
-  "from_ui_build": 70,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-71/bundle-70-to-71.patch"
+  "ui_build": 72,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-72/bundle-239f1d40.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURBbVRhNERSTU5ERVFlTEF5ek5mMTVkTGZwZlluNkxqRzd0KzVKZnBSdmtpaGlVY0kySFZhNGpoUFdEakIyQS9ZbWl0MXRwQ3hNdjYwbEZDYSt3VFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI3NTMyCWZpbGU6YnVuZGxlLTIzOWYxZDQwLmpzCldHcmc3QmF3eVFYSXE2WUdWUU1FeG1CTVFrMWVja1h1Q3IrRE5yeW5VUG1FVzBPeXZ4QldGUUNTUjFYcGQ0MTFPalNQOGFHaVQrUUxQczU3R1oyWkFBPT0K",
+  "notes": "Данные: документы показывают первую страницу и читаемые имена",
+  "pub_date": "2026-08-12T09:42:24Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-72/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1TblBPaytGY1RtNCtZUWVqY1NFUHZEUnZ6VGowZGxBVHBmYkthMDRiUnExeWpBdnJMK1ZETmtwZkJhVzVjT0hRa3phazZGR2ZoTXF6QWVucmxzOFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI3NTMyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwptZ3VNN20wUFcvWHV6ZU9GYnVSaStPN215K3h4N1pKVWlQWnI3QUNYUEp2WHBpcFA0c1BuOGJhdksvb2Nsakl4MTNyZXp0RVpBT1pFNzUzTS9nUlVEQT09Cg=="
 }
