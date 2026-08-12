@@ -1,11 +1,11 @@
 {
-  "ui_build": 76,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-76/bundle-713de704.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZDZk9KMkg1RXRCUThEMHFZc1ZsMHdOQUtaRnlQcThFR3pWYm9Cck92Ty81L3YrR3lSVVZuT3BuVm95SnNSZXcwVEhVUEtBYmpWVUlvTDFoVkpFRWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTUyMTQ5CWZpbGU6YnVuZGxlLTcxM2RlNzA0LmpzCnBFWHVBVVhhSUNUMDh4UThHZXQrNUpaaDVRRTRNa0FFMnJXb1lSOGgxV25qNmFhb2dqSjdSbVZpbTR0NzFmVklvK09sUnhrbldBVWxJYnpSQVV6eUFRPT0K",
-  "notes": "Тише мета задач, честная месяц-лестница, строгие настройки, порядковые цвета папок",
-  "pub_date": "2026-08-12T16:34:09Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-76/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1ERzVZWUtWa2FqbCtjb2lCR05nd1h5UUlidlFaMEM1dWhKZTFUN1lsUFg2bnRCZXREeDNzL2xqNk1uWkcvdFNxM3hZOXJ6cndjWGJCWWZiYmVFWGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTUyMTQ5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpDZ1NZRDdmRUJtaXh1WjhuTnVWZzJ0MDJyWEpFd0hyVTJFTzFoeTIvS3JTdWNDWlUzbnFLd3JDTXBEM2VTM2RZUUF1M1J2Z3lrTTJsZ3lpQy9DNEdEdz09Cg==",
-  "from_ui_build": 75,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-76/bundle-75-to-76.patch"
+  "ui_build": 77,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-77/bundle-71ed5342.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURkbmM2Z3M0NWk1YjNTRHpSdEFnSHNRblYxaUNkVUh0Z2E1RExwVUNEVGlVT1NXYzBsYUFvZmRKVkxoN09UL3RzQXJEcUlUWTgzUnYyanAzaGpoR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTU0MDE4CWZpbGU6YnVuZGxlLTcxZWQ1MzQyLmpzCnRDd1laTWdPQkpOcGo1bmg2dForSXpnWExjaGliT3diSGt0aTIzcjR1VDZFSHVDRk1NSTYwcXptNW5hREhraHZEeFAwckFGSzZlTHgvbmdxaVc1Z0JBPT0K",
+  "notes": "Статус сегментами над лентой задач, фильтры за воронкой, язычки на полосах Добавить",
+  "pub_date": "2026-08-12T17:04:39Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-77/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVBQbXFhSjB0ZjFBd0N3SFdyUFA5Q2V6MmVoakNLK0wzTHY4aCtxaXZwKy9jY1FjUEE3ZmQ3YjlXZDdkaVRBc0oydnhkWVRXWnowOTRpK0ZFQjVVOVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTU0MDE4CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpueGFibkh1TDRoZkxDRHBmaExaWkZqQkd4SUpFOXNOTGdDTmZ2WVY0V3pORDlFemFjbGdKak9MVU1EYllvd2tkVC9rRHIxbVlXZDYwNEowZG0xckpEdz09Cg==",
+  "from_ui_build": 76,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-77/bundle-76-to-77.patch"
 }
