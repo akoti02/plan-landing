@@ -1,11 +1,11 @@
 {
-  "ui_build": 86,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-86/bundle-f9bedd39.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdTLzNSMUl3SDdwOVo3T2JOSXFJZTVmaW5PUTFEbUJqbE1vV3U4RkczRnBKZ3FwWE9VWlBmVVVRZmF5V0RnaHl1RVNwM3Vhd3VCYmNyVnFObHVpTlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTY0OTkwCWZpbGU6YnVuZGxlLWY5YmVkZDM5LmpzCm52bVEyd1R2SDRoV1FtbEhIS2dCckRIWFFJRllWWVZWc04vbHdOMlUvRHVOYWF4V2xtbjBRNWVNd0h5M0o4dWhzZ2FpSncrR1lweHI2b0U3czlyc0JBPT0K",
-  "notes": "Заметки: гамма «уголь и слоновая кость»",
-  "pub_date": "2026-08-12T20:07:10Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-86/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhlNS95QlJSUHVFaTA1c0VmOUVFZ2FnZS9wSGNSUUZ6Tk1WdHoyaGpBeFBkZXNzV0IxMy8xejNMKzFTZXBGRFlCc01Tb3NaSlN1NzY2Y0NwbndscWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTY0OTkwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp0SExLQTg1MGl5SE0xbHhRVVFkSWVyOVBjSTNZSnNmV3MxN2VoZHBXYUg1RVc3dHBwOTlBb2Zab3NEdDZpait0YmJXbDNqbXhERlJtU3dsN0VydnlEUT09Cg==",
-  "from_ui_build": 85,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-86/bundle-85-to-86.patch"
+  "ui_build": 87,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-87/bundle-1548749c.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJUVHVOS2d3ZTg3cWJVanhQT3lVTU1qQW5iRVFjdnMxTmJRRldKS1NPcVlSeTNZcVJzYloyWmQ3WVZjOFBJd0JSNHo1NTFwL3ZoMHQxejFOWjZvOGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTY1NjQxCWZpbGU6YnVuZGxlLTE1NDg3NDljLmpzCkdsSjc4YmNjOWkwaVF2Y3A2S0RjWWZqTVJ1VjNOQWRXTlYzSzIvYklacUR0a0JBcmRQbDhIYkpsR2lSUTM0T096NWRxeWVhc3crVGpyVnpWbEdMcEFRPT0K",
+  "notes": "Заметки: гамма A на карточках списка",
+  "pub_date": "2026-08-12T20:17:45Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-87/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhOTlNXSGg1V0dORW0zQUFTSk9DczNWcmpqN0x1QllIbG4venFIYk9iVUxWbUFoT2xCcEhBc0YxbnI3WGdoNll5d0x2UGsya0pZTHQ4Sk8zUnVJV0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTY1NjQxCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp2ZWVGR1VqSU91Y3V0TXg2RElFcVJDZitWWWoxUVEzNXp0NklkWm84b1F4dy9NalA1aTZTVVhYS1BZVURpNnZnOGtCM015S2dRRnFwT09jeTg3YTVBUT09Cg==",
+  "from_ui_build": 86,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-87/bundle-86-to-87.patch"
 }
