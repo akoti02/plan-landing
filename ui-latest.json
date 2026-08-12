@@ -1,11 +1,11 @@
 {
-  "ui_build": 97,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-97/bundle-e8489864.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUU4bEVaU1dWZkViWE91dUxBOWdrK0NaNWlmQXp0OGRvRUtmWnNEZTFsUlZqdlBvL2F1V0hTVTQ1My9HSEJGSkphMWlpTDVHcGRUMmkyQ0lEcGVTbmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTc2NzMxCWZpbGU6YnVuZGxlLWU4NDg5ODY0LmpzCmovTjhzRlczejFZY01Cb1o5enpKR2J5dUN3anU5M2JCckxuWkNENWkrRDQ4TktlbGJmcjFka09LZzdGaW5pV2pleHdjaENyZUh4OUNUT2hHR0JaSERnPT0K",
-  "notes": "Календарь: один золотой день",
-  "pub_date": "2026-08-12T23:22:48Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-97/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUNEUE9FSDMrekM2ZkJMdXBXTVFVaEt1Q2ZSajd2Rlg0YVpIRXF3Z2NRQWJPSWd6anp2bFZFV0Z4bkVkZ3RVZEpPNGFsR3BheTVYbm5QUUx3bWpSU1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTc2NzMxCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp4Q1Rmd3RXbEJKdGtTTDUwQnZIR1BId2EwMStCckFWMktldVd4SlVrWEIwcFlqcU1GYUxXNUVENUcxUmxpdjlUenhXb1ltMHlWdU5YV2dBUnF5N1ZEZz09Cg==",
-  "from_ui_build": 96,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-97/bundle-96-to-97.patch"
+  "ui_build": 98,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-98/bundle-1aab3521.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpMdzZMQ1Y4TldlZWpjamNhU0lYbHZ5aE5hbmFCMENXQy9PSkpjYUlEY20wcmxKcDNxczBkWUlqVVI1c2ljdFR3QVFSV1N5c0FXNFBqc0tXOWxMRVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTc4MzYxCWZpbGU6YnVuZGxlLTFhYWIzNTIxLmpzCk1rZ3pTQjdRU1ltV0ZpNmVWenVRY0xyd09rT2FCZWwwY3RqREZNTFBHUGtON0IyODRoOXpGOFRIQXBVcC9abmYxRlBIT1BFeUtnaUpqa1orYS9kT0JRPT0K",
+  "notes": "Нейронка: карточки → родные виды с возвратом в чат",
+  "pub_date": "2026-08-12T23:51:00Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-98/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdRMjhMUGszdTBuVTFWaC9oMGp2VDBzOTMvd0RVUUxzSXlWa3pIMnZBYUFBRXc5UUJLOWNPU2hrZ0lNMlVMeXhLeHVQSy9hN2dRbmwxTWFvUTcvRXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTc4MzYyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp2a3FDVUNDNFU4SzlsVVB1MnovSDlueElRd1JIRTJFV2gyRXBqOHNPNm9rU2tNaVBxRlQ2WGJadC9DTFhOWGd6ZWR2VGdmNWYwaTRGVklZdlFuK0tEQT09Cg==",
+  "from_ui_build": 97,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-98/bundle-97-to-98.patch"
 }
