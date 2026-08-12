@@ -1,11 +1,11 @@
 {
-  "ui_build": 90,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-90/bundle-75eccf84.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9WNVB4MkNvYUphSUNvdWhlQkZlUDJMVHVSQ1VRWGc3UGt6S0tGUXlDVmJFVnhucEw4eTZDUk9FcFlmRjFubjNBTVpJV2VMTmRjeVhFaVVSOU03cHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTcwNjcwCWZpbGU6YnVuZGxlLTc1ZWNjZjg0LmpzCkpHTGF4MjhtelVKeW1scmROQ253a0ZYSjBqMnZlOHlPaGdUZHUvZzVRa2RzWmJhS1RyRkFFblhmZlVZUmV1ZnVsVW04K0wwWDV2cFdYK2I4VjBodUN3PT0K",
-  "notes": "Подзадачи: кольцо прогресса, рельса шагов, новая кнопка добавления",
-  "pub_date": "2026-08-12T21:42:28Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-90/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUMxSldETjlmQWZ4L2hIOUFtSEJXeFdFK29rS0s0SWx6WFhITk5veXl6MkVmN0RwWkNTOVlwWXNxa214N3gwanFwNTNsb1FnYU1NMm4xWjhpY1ZiUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTcwNjcwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpBNFg3YWNmVnNQWXNqVW50VytmRXhCNFJSL2hodzc1djdLeG9BN3NzMmF5NU1LY1dCVHVZc0xxTUorNkYydnhlODMyZWFHbWNXNFE1U3pDTHptWHRDdz09Cg==",
-  "from_ui_build": 89,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-90/bundle-89-to-90.patch"
+  "ui_build": 91,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-91/bundle-7f9b9bf2.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxJcEZZa1VVWU9xajlmck45aHRKZmNob3RqTXZuQUxWMUk1bUNjQ1hWMTV3M2gvbkVMcUNnczFJS0RsTnZuZGpKMVFLNDhvU2NsRkMwS2xWS3RibXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTczMzc5CWZpbGU6YnVuZGxlLTdmOWI5YmYyLmpzCmcweWwzajd0eXkzVjVXdm1kRGQrc1A3eU5tNE1LRnJiK1pVcnlXRU1IRWVIdHpzK0ZHZzhiS1FMK0xiRCtPdnpudkx3OElwTU1Md1NWaWMrRVpCaUR3PT0K",
+  "notes": "Календарь: Монумент — гигантская дата, ноль границ, масштаб от объёма",
+  "pub_date": "2026-08-12T22:26:38Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-91/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtXOXQveVEwREkvalZ5eDdzMk9KY2RHWW1xRGtZNjhpcDFBRUFCRnFvM1c1OWlYZ2lQNjVZL0hPaXhOQm14NyswK283NWpqeno1VWJ4bDZmU0dDc2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTczMzc5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpqcHVxc1pPL0ZoZjJmajlDbTJzUzlIN0JPVjNYbUtDbzZPeVdZaHY0dWJEcnl0SGViek5nSEJTSFg4NGsyckMrRE10UVRKOFFybk15VVhvc1hlb0JDUT09Cg==",
+  "from_ui_build": 90,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-91/bundle-90-to-91.patch"
 }
