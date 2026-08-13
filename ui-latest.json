@@ -1,11 +1,9 @@
 {
-  "ui_build": 109,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-109/bundle-931d2077.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUUreWZYOS9VM3RyZnQ3dFFRN1pmUkFSNnYrZk8vaGJRVHpGOElGdmc3cHZKWi9CLzYrWHhFdDZXak8zSkFyTFlKQ2J0T1NXQnBhbzNtV0hEUmhNWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYzNDE3CWZpbGU6YnVuZGxlLTkzMWQyMDc3LmpzCjFrQ3E1VkJGUUxuWDJtREdBK1drdjRWWjB4cUxRb2ZxVnV1NEFpSGtDT0ZFTzFSTS84VFI3MENzMDltRmZvWThzZmgxMkVQcWdkakFLakNSR1hPRUJnPT0K",
-  "notes": "PDF: при уменьшении видны отрисованные края страницы, а не чёрный квадрат",
-  "pub_date": "2026-08-13T23:27:08Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-109/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5sc2ZpSkN4LzRpR3NPS2JJa3RYU0ZrRUE4cWphcDFma2M0OFZHMTc5Z3Q1TVhOd1BuVmVwT2ZXTlRva251RmtFcFZ4N005dXR0cmdkOEsycG1VUGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYzNDE3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpGb1hXSm1pSVpLL0ZNLzZjMUNiK2hLeXVUazFkQ0M1bGlYT1BLS0c2SUliUUNyTkVCZDhrZ0JScDlRcXAxdWw1Tzk5c0paN0xJVmt5WGdXMW5JZDJCQT09Cg==",
-  "from_ui_build": 108,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-109/bundle-108-to-109.patch"
+  "ui_build": 110,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-110/bundle-cd8fa1e8.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUh2UlVFbDc2azBhVnRETitISlFMNm9KUHpKTllZQUM3OGJyRDdiSldOa3VjdXNnOG5PaVNCRTNCaXpRbktuUWFjbXVjcmEreEJRaGYxRGlPbnFVd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY0NTI2CWZpbGU6YnVuZGxlLWNkOGZhMWU4LmpzCjJLcGJGUmJjaWlxUE94SzhXK1hsZjJFTWgyTFdvNDM4b1dMa3JYcUZHVlZXdDlWTDlDbmtRNjlmbkYzNWNhTUZkVUsrQkxRSVlFSzlQNG0yOUVNdUJRPT0K",
+  "notes": "PDF: пинч-аут не обрезает края и дорисовывает въезжающие страницы",
+  "pub_date": "2026-08-13T23:42:08Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-110/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUgrMU1hbjVSTW43ekUrRmRBTndUR0ZvVjMwOWxRMWErdDRkL252MVlqUmNkbzg0UU5sdzNHWmQwVUduNmtmNHczWUNVTmpBMXlDVFpUcXpxWVhxaUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY0NTI2CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpRbFdmb3RIVW1hL2ZOL2ZtMGF3RE5CK09DMXFVMy8zRjBBZVl0TEJ4MWl6STBnc1VYckJLNWZnajI0MWFKUDFnb1h1SjlhaE5XVjRYMFV2VEYxVnlCdz09Cg=="
 }
