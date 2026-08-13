@@ -1,11 +1,11 @@
 {
-  "ui_build": 104,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-104/bundle-b0381a40.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUExNGl3U0ViQVBOemRiUzdyUC9GWDdzMGFDdTl0c0FVOVZINENheW5vZTJWMFV4L3pMYi9aZWFORmpjNXplRzAvck1HeTRpdVpkekU5Vk9UZU9DOUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQxOTY3CWZpbGU6YnVuZGxlLWIwMzgxYTQwLmpzCk5PRkJFQmRVNDliNm5PVlFxQ1BiMEhYNllLU3BOZ051Z2NRWXRSOUwxa2I4RmptRTdNSU1aeThYblVDNjV6VkRBSXhtS1JoWVdaMm5FaVlhZ0xNSUNBPT0K",
-  "notes": "Данные: тяжёлый список файлов только при заходе в раздел",
-  "pub_date": "2026-08-13T17:29:53Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-104/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhLTXFFcmtvT2ZlNisxZllKRnd5RHk2Y1E5bEw5MUgwS2pKeXM0b3ViMW1TbHUydXZwUjljTXptaS9zZmdoTFZZQnNUdW9lWGljWU0yM3FMWUFYSmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQxOTY4CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpjcE1WLzNhaXBJM3VleHZkc1VvZ2twMU9jNEFsSEZ3MlEvNFNaMzFRSytFMmdPNDdtcnFyN01jaGdlSU9ySFVnYWRPTnhTKzZFcll4Y2FqcDdDRHFEdz09Cg==",
-  "from_ui_build": 103,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-104/bundle-103-to-104.patch"
+  "ui_build": 105,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-105/bundle-0d8118a0.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURGWndFTUVPNmlvTU1RQ1lsaXZNWDJsTG1yd0R6VHJDelhENkYxUXpoRDZqK0dvV1FFT3ZZVzRlSGlBNVJSZUdBVkhXcTZRNkFFR1VkRXptSHpWTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQzNDQ2CWZpbGU6YnVuZGxlLTBkODExOGEwLmpzCmdORnhJd2dKOUZRdEFERk82Nm42L25ZTUFJYXJndHpmcVZYVC9kOS9yUmZ4R1VVTDhaQXJxTUw0bU0vWTBpQWFIZ0I2K05sSkgwY3NKMGdodndXZ0R3PT0K",
+  "notes": "Нейронка: звезда без вечной пульсации",
+  "pub_date": "2026-08-13T17:53:43Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-105/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUlyNy90TGJqS0xHNkZPUE5rRnZVZkZUMFpnR3pwbGFleG0xMjQvdVgvL0ZFUWRtSDhHR0lMN0ltQUFoSmlwcWhPVFJXZThMSjhLRldnS3J3SjQrc2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjQzNDQ2CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpLS1NkckNuQmhjU1RtaGZvVkpFU0hxMHNnWUdkR25EdjIyOS9WTUFzUjJsV0xITzFXeVZNNG1UOEp3UWNIVGw2WmFsdlF2Z0tubVZyNDRYTjJ5MXNEZz09Cg==",
+  "from_ui_build": 104,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-105/bundle-104-to-105.patch"
 }
