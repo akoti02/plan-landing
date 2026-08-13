@@ -1,11 +1,9 @@
 {
-  "ui_build": 106,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-106/bundle-815cb8e8.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVBEb0VySkNBOG5PZmVUbTl3MjFnNU9kNjBkUGg0VVEyMHp3d0lWNVlSbWlqc1Q4SjNhaU1XOFprdWl4SUNCM2FnQWFUMW1Zc3gwRDJlcTdzeTh4d0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYwMTkwCWZpbGU6YnVuZGxlLTgxNWNiOGU4LmpzCkhBREljTWJnMmcvOENMamdPTVdwdFpiTFk4MWdIeGJxcG5HK09PdzRNVklrTjByUFc4UmJaYXV3UHMvSnJ5VHVvdGwwWEdMdVc0K0VzeVVkL21IK0N3PT0K",
-  "notes": "PDF: пинч-зум без прыжков",
-  "pub_date": "2026-08-13T22:33:16Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-106/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9HWmtrMVJWbjJxUGptSDZLWi9yQ2EyMjdqbkhPOUJNbVdSNmVLM01yakN5ekRHaEwzMlRDNlB3TlpuM3lsYWR0cGFUQ0ZEaG5nUnc1RVVKTk1qWGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYwMTkxCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpsd3NhU1ZNUDNuZ094UU5EaDFTbVorYThGdnRaWE1HWHZQbjV2ZjhEaE9WMWtJbENXRTgyZmNId1pSdkVweVFyQlN2WEFVYU1BbldNUUxDemEwOWFDdz09Cg==",
-  "from_ui_build": 105,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-106/bundle-105-to-106.patch"
+  "ui_build": 107,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-107/bundle-c60800dc.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVA0UkpNUW5DTzRQUzZUS3hYSDdSaXdXMGhLd2xOM3Z0Q1IzU2RUajZIZ1hiNitrQmxvZWI0TTFjVjV2ZWhRQVJ0R3NHckJ5aTBndlVYVzErWHVmNFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYxMjkwCWZpbGU6YnVuZGxlLWM2MDgwMGRjLmpzClRVMUk4b1hJWE0rTXJJQUpXQTJ1ZS9FbFh0cktIeWZNU0QzT09nQ0xzQkpEeUhMS3M0Vm04bjBWUDlUZ2V5Q0tSUnU4QnhQeGtuUU1RWW9pUWNTR0FnPT0K",
+  "notes": "PDF: атомарное запекание пинч-зума — скачок при отпускании пальцев устранён",
+  "pub_date": "2026-08-13T22:51:10Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-107/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVoMjkxQnZoeStld3pxaUVKV0ZHUmxESkRTakl1UzVMQ3gvclJ6bnoxMllUbDQ2T0hsakRtLzdvbGM4Z3pDTTNRdGU0dW9DdkVaOXRweXRxS21SdFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYxMjkwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpnUldBYmw4V1dxNlMwYi9GZS9LK29zNnBkNW5PU2t2cm0rZ0RBN3A3eFhQd1I4MFVsM2M4aEdjNVBzNWFOS1VFRmUrU0FQOFpLaGVLVU9tTjdwWDNEdz09Cg=="
 }
