@@ -1,9 +1,9 @@
 {
-  "ui_build": 110,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-110/bundle-cd8fa1e8.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUh2UlVFbDc2azBhVnRETitISlFMNm9KUHpKTllZQUM3OGJyRDdiSldOa3VjdXNnOG5PaVNCRTNCaXpRbktuUWFjbXVjcmEreEJRaGYxRGlPbnFVd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY0NTI2CWZpbGU6YnVuZGxlLWNkOGZhMWU4LmpzCjJLcGJGUmJjaWlxUE94SzhXK1hsZjJFTWgyTFdvNDM4b1dMa3JYcUZHVlZXdDlWTDlDbmtRNjlmbkYzNWNhTUZkVUsrQkxRSVlFSzlQNG0yOUVNdUJRPT0K",
-  "notes": "PDF: пинч-аут не обрезает края и дорисовывает въезжающие страницы",
-  "pub_date": "2026-08-13T23:42:08Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-110/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUgrMU1hbjVSTW43ekUrRmRBTndUR0ZvVjMwOWxRMWErdDRkL252MVlqUmNkbzg0UU5sdzNHWmQwVUduNmtmNHczWUNVTmpBMXlDVFpUcXpxWVhxaUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY0NTI2CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpRbFdmb3RIVW1hL2ZOL2ZtMGF3RE5CK09DMXFVMy8zRjBBZVl0TEJ4MWl6STBnc1VYckJLNWZnajI0MWFKUDFnb1h1SjlhaE5XVjRYMFV2VEYxVnlCdz09Cg=="
+  "ui_build": 111,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-111/bundle-192ba4a2.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxmOWhkdVhKMnlCQzNtWWhtM0JDdzVFSmlZdTlieVBMN1pnNHlwVEUrOFVXak03cVM0bXNLQ3VqZVd6T1VobXU4VmlxeTg1ZFY5T2dwNkk4cGV6VEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY1MDM5CWZpbGU6YnVuZGxlLTE5MmJhNGEyLmpzCkpTUzc4QVpZNzdaTTdUQkdXNFZJZWU0Y09oRElldFhtNXF3bHVUSTFTWjVvVmFDcGQ2eG9oMEdCMDIrRTNSUkRjS1B4dG9YVUFJK0IrYUN0bFA2eEJRPT0K",
+  "notes": "PDF: сняты отладочные записи зума",
+  "pub_date": "2026-08-13T23:50:41Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-111/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdYYUVwMmlyenRTc0Yrazl1bWlPTkZSR01ObGlpRCsvYnhoZU9lcU9XYkJveUxldElFWFJYdGtoNnh5c2poWjRrbFBmUUJ2Nmc0enlibVhTOWl4bnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY1MDM5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpEV2pyM2oySG1MUmZqdG41ZitPazZDK3E4K2IwcWswU2x5SkQ0T1JNbEswejQ0dGRwWmpWNFg1YVlheXpPb3RWcDR2UTQ3Wm9jUDk2VnZneVErY1BBdz09Cg=="
 }
