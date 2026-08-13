@@ -1,11 +1,11 @@
 {
-  "ui_build": 108,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-108/bundle-aa99e58f.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdITE9wQTg5VnA5aTBOUy9TOGJRazl5WlNIRzZIbjMzYmRPd2p0VGF5RVpOcm1sTE9qWUY4cWUzQUhGVUNFVHFtV1d4R3M2c3hkeWFSYlExcFcxU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYxODExCWZpbGU6YnVuZGxlLWFhOTllNThmLmpzClR2QzBHSzJ1aGlGUWxFdXRtdmIzK2xWaVhpcE9WU2hURENnNTdZdVc5TEZqSWxBcHpYSDhSOW9FbFlFSVZMUGlycWVmR0d2UTY0VXoybTNsYVhoWkN3PT0K",
-  "notes": "PDF: рендер страницы больше не затаптывает вёрстку старым зумом (гонка с пинчем)",
-  "pub_date": "2026-08-13T23:01:49Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-108/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpVUEFuZkNCcWRyUDJDUlhXeEJBWHhtY0RSTWZHaUljTktEYlFLR291emoyMFRNUC9xWlhxSnQzRzdMSkFEWjdkcW5saTBuTGZiTTlnalV6N2tqWmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYxODExCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwo0bXdMUmY4MnZtemxrYUNUTGVSWXVmV3p3eUVENU9nemtXNDFyeXRpUUJ1YXZvUEZ5czY4RytnS3BHTDFYZHZzNG9oaDhRRk1wR1FvSVVMV1IwTHpDdz09Cg==",
-  "from_ui_build": 107,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-108/bundle-107-to-108.patch"
+  "ui_build": 109,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-109/bundle-931d2077.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUUreWZYOS9VM3RyZnQ3dFFRN1pmUkFSNnYrZk8vaGJRVHpGOElGdmc3cHZKWi9CLzYrWHhFdDZXak8zSkFyTFlKQ2J0T1NXQnBhbzNtV0hEUmhNWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYzNDE3CWZpbGU6YnVuZGxlLTkzMWQyMDc3LmpzCjFrQ3E1VkJGUUxuWDJtREdBK1drdjRWWjB4cUxRb2ZxVnV1NEFpSGtDT0ZFTzFSTS84VFI3MENzMDltRmZvWThzZmgxMkVQcWdkakFLakNSR1hPRUJnPT0K",
+  "notes": "PDF: при уменьшении видны отрисованные края страницы, а не чёрный квадрат",
+  "pub_date": "2026-08-13T23:27:08Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-109/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5sc2ZpSkN4LzRpR3NPS2JJa3RYU0ZrRUE4cWphcDFma2M0OFZHMTc5Z3Q1TVhOd1BuVmVwT2ZXTlRva251RmtFcFZ4N005dXR0cmdkOEsycG1VUGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjYzNDE3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpGb1hXSm1pSVpLL0ZNLzZjMUNiK2hLeXVUazFkQ0M1bGlYT1BLS0c2SUliUUNyTkVCZDhrZ0JScDlRcXAxdWw1Tzk5c0paN0xJVmt5WGdXMW5JZDJCQT09Cg==",
+  "from_ui_build": 108,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-109/bundle-108-to-109.patch"
 }
