@@ -1,11 +1,11 @@
 {
-  "ui_build": 101,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-101/bundle-803edd06.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpzU200RjMyVlQ0Z1JPV0R5Q2lkMlAwVGhaOW1hQVdkRGJsaVFuVXozM1FKTWJhdEJvTmZDbElEOHNscHowQlJsTVhCbGJjZU12dEVqVE5vWTR4Z0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjI2NjQyCWZpbGU6YnVuZGxlLTgwM2VkZDA2LmpzCnVGeVJHclo5WVdxNisveURsZHgyTlRpckNEMmpKTE5EUWpaZWVYdkVoMUgxSm41aTh2Wm1oZDJkeWx3dEgwQnA1ak1HeTE4VytEL0JtN01HdDhHcEFnPT0K",
-  "notes": "Вкладка закрывает заметку; PDF без буферизации при зуме",
-  "pub_date": "2026-08-13T13:17:42Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-101/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUUvMFhBOHU3aC94WmpuZ2JVRFd3enFMQkd4VFhYUUdqbDRNcEZIeWJVQXFzZ3ZBTHVUVU5UUk5EVWFUam9oT3JVZTU5UXJydThaR0pyUms3ZUtyMWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjI2NjQyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpKcWhSV0cvZkpqd1NtYTNpWnZOQVg1S3lKd3QrWkVBbnYyTk5OcmlmK2cwSE1mdzNMcVJFdTIzcXhIbGxNQUE3czcxdjBpZFUyT1ZodGY4cjF1VjBEUT09Cg==",
-  "from_ui_build": 100,
-  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-101/bundle-100-to-101.patch"
+  "ui_build": 102,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-102/bundle-ba2fae26.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUM5WHRSeWMzaklXdStUbjdORnBPQU1CRmt2Wk51ODY1OTdoS2tXeXZaSXI0SzBVYW9Xc3lGazBrMGtpMFBxanRhTUFTOHR2YmhmRmxiT3A0MmlKNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjMxMTQ1CWZpbGU6YnVuZGxlLWJhMmZhZTI2LmpzCm9QZEFKbXhZVzZFck0rSnhRSFMweTJvbktnalplalU5UEtvQ3M3ZTdnTmFLdGlpeHhiVjdYRTVtYzJZS1pHMXA1elNrbkYyeXBWN3pJYXhObEdBSkJ3PT0K",
+  "notes": "Заметки открываются сразу, не дожидаясь каталога",
+  "pub_date": "2026-08-13T14:29:18Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-102/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURRSldSMDhXZWFiWkRmSGZyQVNFdzVVSUVMeG1yL1JoVCtxcXphTFZKajI3NnNzK2hOMXdESHlwSHhGdlhZSDRaWnZERm02cGY5WDZuT21leW82VXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjMxMTQ1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpQemZGTEp4MVErU2lKS2RYN3FLSVZIZlZKZDdxZE53L2pSMVdkVzZ3NVBLb3RJK2tseHliRVdtcXNScFZod00yRHFVVExxdXBPZlVIUStQNzJ1OU9BZz09Cg==",
+  "from_ui_build": 101,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-102/bundle-101-to-102.patch"
 }
