@@ -1,9 +1,9 @@
 {
-  "ui_build": 117,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-117/bundle-236e2100.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUgzblVySlAxQkFaZjRFYnhteWJKV3AvdEplR0pEQkRRTHRtYk11L1pUTER1MGl0V1Jrdlp3d211YngrMG1lanhudk1ZWU55ZkUwa280QzNGVC9LbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjcyNzg3CWZpbGU6YnVuZGxlLTIzNmUyMTAwLmpzCjFmemJ6NWpzQlFJRlBCWVVLbGt6YVpKTmtJQkNVM2UvdC81RGlJKzVPZkFuZkNSYTJTRncrbjYvTmVrR3N0RW0wOThaNFIzRFZEWS9FK21zQzdXWkN3PT0K",
-  "notes": "Данные: удаление и правки без 20-секундной паузы (прогрев каталога)",
-  "pub_date": "2026-08-14T01:59:50Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-117/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUcxV0pqOG5XdThXSXJRL2IyNkZvUHF4Q1dVd1p4L0hWR3VFQVZwZ0dxUXNvTkljOG1ockhhdjYwb3ZPYnFzaGo0a1FIV1BPQnh2b2xHeWUzZSs0ZHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjcyNzg3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwprOCtzMEtGZTlOcGFyYlRKbDU1a3ZQL3BSTkUrMmYzeldvUU0raThMS3haOWhlMWM4WnYwRllCU29sb1JKNzNPMDNRT0IvYnpqWEZyalU0UDJMNmhEZz09Cg=="
+  "ui_build": 118,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-118/bundle-09c52519.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUFmNXVjbmVBT2lETmQxYVFWNDhkR0xoRUhTa2dLV2VPOXdoQWNpaFBjVUpBdGd0SUtCM3o3R0ZCZDFnbGJOVzIvOWs5L001ZGp0NHlNTzRjUGxqQUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Njk4MzU4CWZpbGU6YnVuZGxlLTA5YzUyNTE5LmpzCjJMcG9TUC9vVDNDUk1MYnJublNkM2RsZGs1dmNYaFZkZVpRMDF2QVFUNy9taGhOWkFVUVNGN3NOYXByMzJrdFFPZ2I1WXhZNmxiOFdhLytzOGVpRURRPT0K",
+  "notes": "Данные: холодный старт больше не показывает пустой раздел",
+  "pub_date": "2026-08-14T09:06:01Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-118/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVBLMUdwRTVSYk9sNUZCekNtL1R5QUQ4WVliQm1hVWhiRVovMCtUM3o0anFMRUQxcjBtMFdmZERIczFoMlY0YnpQOGZKVHdIU0xqSHdYS2Y1MExJUHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Njk4MzU5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpubzRvckNSeEQzR0xkRWhRZjFEUlFwTkFvcE1nU0t4LzJjMzNWSUlqRXZvaFlTRFgybkVGcHdHUzNVeDNHUkl5akYxOVQrREUwdUk2dEJFVFRxNDVEQT09Cg=="
 }
