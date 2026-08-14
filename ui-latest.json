@@ -1,9 +1,11 @@
 {
-  "ui_build": 111,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-111/bundle-192ba4a2.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxmOWhkdVhKMnlCQzNtWWhtM0JDdzVFSmlZdTlieVBMN1pnNHlwVEUrOFVXak03cVM0bXNLQ3VqZVd6T1VobXU4VmlxeTg1ZFY5T2dwNkk4cGV6VEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY1MDM5CWZpbGU6YnVuZGxlLTE5MmJhNGEyLmpzCkpTUzc4QVpZNzdaTTdUQkdXNFZJZWU0Y09oRElldFhtNXF3bHVUSTFTWjVvVmFDcGQ2eG9oMEdCMDIrRTNSUkRjS1B4dG9YVUFJK0IrYUN0bFA2eEJRPT0K",
-  "notes": "PDF: сняты отладочные записи зума",
-  "pub_date": "2026-08-13T23:50:41Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-111/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdYYUVwMmlyenRTc0Yrazl1bWlPTkZSR01ObGlpRCsvYnhoZU9lcU9XYkJveUxldElFWFJYdGtoNnh5c2poWjRrbFBmUUJ2Nmc0enlibVhTOWl4bnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY1MDM5CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpEV2pyM2oySG1MUmZqdG41ZitPazZDK3E4K2IwcWswU2x5SkQ0T1JNbEswejQ0dGRwWmpWNFg1YVlheXpPb3RWcDR2UTQ3Wm9jUDk2VnZneVErY1BBdz09Cg=="
+  "ui_build": 112,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-112/bundle-79dc0412.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUNEOVpMWFl2UWlmbnJDRDJDU1pIRzFTb2JFbDg1SVFSOWZrNW9ENDVENGNsSTJSVHg3NHBlbDJNc2xSU2lCSTRCV0NZMmliQUdVckFudHFCZitpc0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY4NjA3CWZpbGU6YnVuZGxlLTc5ZGMwNDEyLmpzCkZ0TVp1bldZaXJ4dXRLK3M2UC9PNXpUcnJRL2tRRDBlWEEvOUp4SDRWVEUySVhwa1JhQ29MMWVxQm10YUk4cFBsbGMvR0ZNN2JqMFlocUw2SWJRWUFnPT0K",
+  "notes": "Задачи открываются списком; PDF-зум без прыжков",
+  "pub_date": "2026-08-14T00:53:21Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-112/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSVA4ZDVrdlFKWncrRlZLajJBM0hUekNtaWNaZW5KcUVMZy9tQ1dPUFIxVnRDM3FFdWVkcWVkMkp2aXhlTEwrMUtKYUl2eW5vSENpTVg0KzQ1cjZuK0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjY4NjA3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp6TkR4SnFhTUNjckEreFYzeTZ2MXdMSEd4b21sdDdsMkRUUWRMY1hHRWdlVUd6Y3loa2t1ZWpwTWQ4NlNYSE1pZjBMY3F5R1Q0dW1qRDNNMTVhYU5CQT09Cg==",
+  "from_ui_build": 111,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-112/bundle-111-to-112.patch"
 }
