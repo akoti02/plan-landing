@@ -1,9 +1,9 @@
 {
-  "ui_build": 114,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-114/bundle-aead0c6f.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZkVVhKellVV1RjRlY2UkQ5TTdDYlZTS2hvY2VrRnFONVYxL3VrUTNGSGVaQjhrWTJ6Sm5qbUhlVUNvczhXckducE56UXZMUkxyMW8zb29mbGxLZlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjcxMDE1CWZpbGU6YnVuZGxlLWFlYWQwYzZmLmpzCnhFWGZjdEFlMVpsc0JpOW5FcStHemJlUTVBZS8zSTBmeC93eklnOFhWb3N6UjNjRnh4aFVWOXloa1RDZTF2b0pqNlNMTGRrc0RkTWpKTGxXQytaaUNRPT0K",
-  "notes": "Поиск в «Данных»: возврат из документа крестиком и «назад», ввод без зависаний",
-  "pub_date": "2026-08-14T01:30:18Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-114/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU11Q3BTYXB4cFZOT1NqMVJISTkwamx1RmFaSlRRWGMvaUFnSnlnRUJNdjJXb0lnTnBxWFBVa251dFBBT0xnLzdDdEdXRGpTQm1hc2wrVDNCT2g0dmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjcxMDE1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpEZUY4Z2pMWFF3UTcwdyt5NDh5WGJpTzQrK1FXOW02T2FpOURKZmlkenhxb3htUTM1REF2aWNVOFEySjNWUVFwY3grLzh3bFF6WmVaOTJocDFJL2lBZz09Cg=="
+  "ui_build": 115,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-115/bundle-2514565d.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtLMGk2Q1ZTNk9tMS9yRVoxRDlsMjNrUUR4SDk3OU5vTDE2T2ZSRzRSKzR2enZGRmZHbTlBbDBUU2tRM0Z2RFd1OXJxbzgxYzdPelJaOTEvYTVEMEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjcxNjczCWZpbGU6YnVuZGxlLTI1MTQ1NjVkLmpzCkNrVGRka3c4L083TnlHN2lUck5BMjAzN2d1VUgrcmY5N3VBTENmYXkraDJETmdiMFZLVDhCTjRXNnVPRjB2L0k2VHdjem1SMi9rU3dJeWpTdjJBbENBPT0K",
+  "notes": "Поиск: файл открывается поверх поиска — без мигания домашней страницей",
+  "pub_date": "2026-08-14T01:41:16Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-115/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpadjlYcFYvaEVBYzU0amZ0RW12Rnk4cFF6K2JTQzlnYVlvSUdmTlFsWWRESzdMcytobk1wRnVkTitQQmVTNzZSRlZIZWF5dnBkOGszcnFTMlRlL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjcxNjc0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpCRThXTmdIZUNDLzFLZUVCMGwvRHZQV21NSmNJSnJScExYZEtCOG1hQmxLQ2lNYnlINGR2aDN6bjlXRWtPdzF3M1dlWGhYak9PdVNYTlNENXM5RVJCZz09Cg=="
 }
