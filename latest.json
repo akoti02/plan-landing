@@ -1,29 +1,29 @@
 {
-  "version": "0.1.11",
-  "notes": "PDF открывается и увеличивается как надо; приложение запускается за секунды и больше не тормозит; задачи снова открываются списком",
-  "pub_date": "2026-08-14T00:40:32Z",
+  "version": "0.1.12",
+  "notes": "Раздел «Данные» всегда открывается после запуска; удаление файлов и правки папок стали мгновенными; поиск в «Данных» возвращает туда, где были; PDF-зум без прыжков",
+  "pub_date": "2026-08-14T21:26:36Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VKdGFsUnpMemxwYW1kbkwzb3pNRmRhWTBwdVFTdGxRa2hIZUUxWVIyTmpkVmt3THk4eWIwRmliM1J3U2xOaWVITkNSRzVQVUN0amEyOTVPVUYzUkd4TE5FNVZRekk0YUhwQloweFdSblpvTkRKcmJYZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpneE1qY3hNRGMyQ1dacGJHVTZjR3hoYmkwd0xqRXVPQzEzYVc1a2IzZHpMWGcyTkMxelpYUjFjQzVsZUdVS0swMVZNbXczWldKVlNVMVZOREpCVUVkS1dWWnZhbEJ5YVVsWWVqUlBjbGwyZURSdVpUTkdNamh6TmtGck9FMXFjR0ZIWTBkb0x6UlNkR1IxTHprclFtc3ZiSFZ6THpSb01tMDVORkZDTm5keVV6QjJSSGM5UFFvPQ==",
       "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.8/plan-0.1.8-windows-x64-setup.exe"
     },
     "android-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VOd2JIQkNNVTFwYmpCdE4xVm9ka2g0ZERkc2NreFlaVFpEZWs1bE5UWTRhVE5MYjBOWVRqWjNUR3d6WlROb2JXTlFjM0pMZDBkV2RIVmhNMDlrSzNkb1QyOTRlVXM0VERCdlNXZG5ZalJIUmxSQlZtYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk5qWTRNRE15Q1dacGJHVTZjR3hoYmkwd0xqRXVNVEV0ZFc1cGRtVnljMkZzTG1Gd2F3b3dWMXBZU0ZJd1EzVk1iMlpPVWxKUWFrNHlWVVIyWVcxb1lWZEdVbmhHTUdGSU4wdEdZV3BhUlhGRFJsSkVVMFZDYlV4SVFWbHNSbWxCYVVaMGF6RXZibHB4YnpsUlJXNVdhRlZoVW5SMWVFczRNV1JEZHowOUNnPT0=",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.11/plan-0.1.11-universal.apk",
-      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.11/plan-0.1.10-to-0.1.11.patch",
-      "from_version": "0.1.10"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VGQlFXWkZObTR6UzJabU1uaFFVRmxYZFhkVllraHNjSFJrVVU0d0wzSnFVR0poTld4UVVHeDBZMjlzZWtVd1Myd3lkRTUxYjFaMmMzZzFOMWhCT1RabWNtaGhVWGRETjNabmF6ZFpiakY2VFVsWGNWRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk56UXlOemsyQ1dacGJHVTZjR3hoYmkwd0xqRXVNVEl0ZFc1cGRtVnljMkZzTG1Gd2F3cFdNak01YlhSMldUVjJZa3MxZW5aM1dWUlJkRVZTUzJjMWRuTTNTVnBSU1VWS1ZESklNMWhSTW5sM2VqbG5hbU12VEcxWFpqWndhMWRuVldkTGFHTjFUelI0TjNadlRHUm9ORE53TXpSalVrcGxVRzVCZHowOUNnPT0=",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.12/plan-0.1.12-universal.apk",
+      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.12/plan-0.1.11-to-0.1.12.patch",
+      "from_version": "0.1.11"
     },
     "android-armv7": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VOd2JIQkNNVTFwYmpCdE4xVm9ka2g0ZERkc2NreFlaVFpEZWs1bE5UWTRhVE5MYjBOWVRqWjNUR3d6WlROb2JXTlFjM0pMZDBkV2RIVmhNMDlrSzNkb1QyOTRlVXM0VERCdlNXZG5ZalJIUmxSQlZtYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk5qWTRNRE15Q1dacGJHVTZjR3hoYmkwd0xqRXVNVEV0ZFc1cGRtVnljMkZzTG1Gd2F3b3dWMXBZU0ZJd1EzVk1iMlpPVWxKUWFrNHlWVVIyWVcxb1lWZEdVbmhHTUdGSU4wdEdZV3BhUlhGRFJsSkVVMFZDYlV4SVFWbHNSbWxCYVVaMGF6RXZibHB4YnpsUlJXNVdhRlZoVW5SMWVFczRNV1JEZHowOUNnPT0=",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.11/plan-0.1.11-universal.apk",
-      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.11/plan-0.1.10-to-0.1.11.patch",
-      "from_version": "0.1.10"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VGQlFXWkZObTR6UzJabU1uaFFVRmxYZFhkVllraHNjSFJrVVU0d0wzSnFVR0poTld4UVVHeDBZMjlzZWtVd1Myd3lkRTUxYjFaMmMzZzFOMWhCT1RabWNtaGhVWGRETjNabmF6ZFpiakY2VFVsWGNWRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk56UXlOemsyQ1dacGJHVTZjR3hoYmkwd0xqRXVNVEl0ZFc1cGRtVnljMkZzTG1Gd2F3cFdNak01YlhSMldUVjJZa3MxZW5aM1dWUlJkRVZTUzJjMWRuTTNTVnBSU1VWS1ZESklNMWhSTW5sM2VqbG5hbU12VEcxWFpqWndhMWRuVldkTGFHTjFUelI0TjNadlRHUm9ORE53TXpSalVrcGxVRzVCZHowOUNnPT0=",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.12/plan-0.1.12-universal.apk",
+      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.12/plan-0.1.11-to-0.1.12.patch",
+      "from_version": "0.1.11"
     },
     "android-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VOd2JIQkNNVTFwYmpCdE4xVm9ka2g0ZERkc2NreFlaVFpEZWs1bE5UWTRhVE5MYjBOWVRqWjNUR3d6WlROb2JXTlFjM0pMZDBkV2RIVmhNMDlrSzNkb1QyOTRlVXM0VERCdlNXZG5ZalJIUmxSQlZtYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk5qWTRNRE15Q1dacGJHVTZjR3hoYmkwd0xqRXVNVEV0ZFc1cGRtVnljMkZzTG1Gd2F3b3dWMXBZU0ZJd1EzVk1iMlpPVWxKUWFrNHlWVVIyWVcxb1lWZEdVbmhHTUdGSU4wdEdZV3BhUlhGRFJsSkVVMFZDYlV4SVFWbHNSbWxCYVVaMGF6RXZibHB4YnpsUlJXNVdhRlZoVW5SMWVFczRNV1JEZHowOUNnPT0=",
-      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.11/plan-0.1.11-universal.apk",
-      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.11/plan-0.1.10-to-0.1.11.patch",
-      "from_version": "0.1.10"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZSY0VWUlpXZHZRbUpvU1VGQlFXWkZObTR6UzJabU1uaFFVRmxYZFhkVllraHNjSFJrVVU0d0wzSnFVR0poTld4UVVHeDBZMjlzZWtVd1Myd3lkRTUxYjFaMmMzZzFOMWhCT1RabWNtaGhVWGRETjNabmF6ZFpiakY2VFVsWGNWRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk56UXlOemsyQ1dacGJHVTZjR3hoYmkwd0xqRXVNVEl0ZFc1cGRtVnljMkZzTG1Gd2F3cFdNak01YlhSMldUVjJZa3MxZW5aM1dWUlJkRVZTUzJjMWRuTTNTVnBSU1VWS1ZESklNMWhSTW5sM2VqbG5hbU12VEcxWFpqWndhMWRuVldkTGFHTjFUelI0TjNadlRHUm9ORE53TXpSalVrcGxVRzVCZHowOUNnPT0=",
+      "url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.12/plan-0.1.12-universal.apk",
+      "patch_url": "https://github.com/akoti02/plan-releases/releases/download/v0.1.12/plan-0.1.11-to-0.1.12.patch",
+      "from_version": "0.1.11"
     }
   }
 }
