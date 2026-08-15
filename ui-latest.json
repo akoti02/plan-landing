@@ -1,9 +1,11 @@
 {
-  "ui_build": 124,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-124/bundle-4f9d781b.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUk2MXRwbFZra0s1UzVQRzZ0M0k1UGpKWUVuRkNCU05UOVF1RzdWcXNxeHZmMUhiQ3c4SFZoeU9KemQvUURjMlFIWXpMa1RTblM5YzNER0h2a294a2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODIzMDc1CWZpbGU6YnVuZGxlLTRmOWQ3ODFiLmpzCmtDWEdCMnhpZ05SVTFPU3NGbFFmUU9YR1p4VDZvclNkdHdyZ2NNd1lFdGdVL2s0aGFCRWhiV0N1M2UvcXFZOXQrMk1CQUh4bGd0bjhDWnZQdkJ5c0JnPT0K",
-  "notes": "Меню при зажатии: не уезжает под экран, строка подсвечивается на месте, закрывается с первого тапа; у папок зажатие больше не срывается",
-  "pub_date": "2026-08-15T19:44:38Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-124/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhDUllWLzVoQkREN25nMC8yRFN3T3E1TXFkb2xwTGtNakVqbXRMcWhKQUkyKzF2cElZcVFmeXQ5NkQyTk96Y1ZKQ2lGbms1bWE2MUxoUVVIZWZQNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODIzMDc1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpudVNneWFoS1ZweXZKU0RlQWUwZnIya3lrTTZ5R1NZK2c0bHlyMUlBRmI3clhKTGNNa0pGNVBrV3RmbGR0a25VVVBSN0QvQkViMlhtMGMvY3RaN0pCQT09Cg=="
+  "ui_build": 125,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-125/bundle-0f0a4b6d.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVoY0tFMDlFdVh0clVkS01rTWJMdzVBU3ZJck9FUndybENHLzRNNUVNUnU0ZmJuTTdxWTMzSVlJOVllV0VIdlV1QXQ5SmJaOStDSzRieWp2dks4RmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODM3OTU1CWZpbGU6YnVuZGxlLTBmMGE0YjZkLmpzCnVaOGpYR2NuQXp4TzQ2L1A2NjRTTlZKbDd1d1ErQmxTRVE0VGJkd0VoRWJhbmR1d0dsR0J1amZrZlY1cjM0eEUzSW1TdDJMR3RBQ0Q4VWZicFV0akR3PT0K",
+  "notes": "Задачи: редактор параметров (золотая полоса) открыт всей семье",
+  "pub_date": "2026-08-15T23:56:00Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-125/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1rdExMdHJNSU9ENFdad1Z3TDZNY3hZN1lzaUZmWTQzS284NXg0YmQ5VjVpb2pxdGdMSjFqMHFyY1dKMzJxcmV3TFpKLy91OGgyOXVaekppSC9TNFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODM3OTU1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpGZlBod1FlTmdHRm9qSG81dzFTbEpTalg4UDQ0TVQyVnYycnpNNi90SWZBM3RML0V1QTJYNmVFaDhrK1NETFhjSzlVOXNZNTNsUDZxNmphWWkwU1BDUT09Cg==",
+  "from_ui_build": 124,
+  "patch_url": "https://github.com/akoti02/plan-releases/releases/download/ui-125/bundle-124-to-125.patch"
 }
