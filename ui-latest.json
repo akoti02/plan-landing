@@ -1,9 +1,9 @@
 {
-  "ui_build": 120,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-120/bundle-5a7fff52.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU9OWHZyN1lBTFF2SERnSWpiZUNuT2sycjFycUUxNG1iWEhvTXNLd2Z2Q1pPeUtrZ0E3ODZkVTNDcE1nbHc4ckpNalR4NWI1YmRKSnBad0U1SlJaUVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzkxNjM3CWZpbGU6YnVuZGxlLTVhN2ZmZjUyLmpzCkZ2Y2xQQ3N3T3A4aGZ3aU9FQ3RLOGNOeTMwOEU4NFBib0pZZTh3N1lUUEVUaEpPVEdQckhvVVdkZEVlU1drc3NVdytsOTNNUVdUZjR1UGxtV3dSTkNnPT0K",
-  "notes": "Индексация документов больше не мешает работе приложения",
-  "pub_date": "2026-08-15T11:00:40Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-120/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURPQnpSV2ljajBMZjdKQTZBemxqUUUydnpXRkhkMWhTZHVYdXRWSXJuYzRIRG9tTHNnMnd5UUtUL1h6YkRzVXRMSzAyNTFDSElVWFgrZ2NBcm5CaUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzkxNjM3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpyT1VCZmpXRStTbWNxby9wZjRMTHlIYlNDcUw2UjQrU0d5anFqWFZmcVBZem5FSFJiUjVGU1VmRHdNVmU4aHdqNTJ5Y3Bsc3g5N3oya2x6QXk4WW5EZz09Cg=="
+  "ui_build": 121,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-121/bundle-9a145a73.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1RdkdRVXRHT1l3NWtFdWEyUUl6ZVo5NmNWS3d1Uk8wN3RXY3VWZ2RhVTJvL2t5dkpmaytqWC9uYWZGMG9SUHF0bkFGUmZBeXNIb09UYUFpbjdhTkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Nzk5ODk3CWZpbGU6YnVuZGxlLTlhMTQ1YTczLmpzCnJkSHRrR0NiNHJ6STJsOHJ1ODJ2a0NkcnJzcldKeU5reHNRd1cxdG91eVNZczlEYldYbjVZQWxTQ2JhcHRxa3NTZVRkamhkNTNzVUJvaG9HMmJLRUNnPT0K",
+  "notes": "«Отправить» на iPhone (когда натив умеет), история ИИ по UUID участника с запасным чтением по имени",
+  "pub_date": "2026-08-15T13:18:20Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-121/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtvdGdIaVEzempTR1g3YkExSHBEcVRWMU80UmtmaHgvZWViTTJUclBNZGJ3VWhzd2JOaCtYYVlxbGNvUmR0RDNjUk1QZ0NuSXFEUE5QVk5jQUt6Y3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Nzk5ODk3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwoyS25xemE2anJjUXdObXQ5NWpMZkVFZ0hhZDl1NVpSdTI0RkN4dWZqVTdXZmR6d0R6S2tYVjZqNFlqUEJHTU8yZng5cnFaVkUxdm54MGEwWXdKY0REUT09Cg=="
 }
