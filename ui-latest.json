@@ -1,9 +1,9 @@
 {
-  "ui_build": 121,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-121/bundle-9a145a73.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU1RdkdRVXRHT1l3NWtFdWEyUUl6ZVo5NmNWS3d1Uk8wN3RXY3VWZ2RhVTJvL2t5dkpmaytqWC9uYWZGMG9SUHF0bkFGUmZBeXNIb09UYUFpbjdhTkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Nzk5ODk3CWZpbGU6YnVuZGxlLTlhMTQ1YTczLmpzCnJkSHRrR0NiNHJ6STJsOHJ1ODJ2a0NkcnJzcldKeU5reHNRd1cxdG91eVNZczlEYldYbjVZQWxTQ2JhcHRxa3NTZVRkamhkNTNzVUJvaG9HMmJLRUNnPT0K",
-  "notes": "«Отправить» на iPhone (когда натив умеет), история ИИ по UUID участника с запасным чтением по имени",
-  "pub_date": "2026-08-15T13:18:20Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-121/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUtvdGdIaVEzempTR1g3YkExSHBEcVRWMU80UmtmaHgvZWViTTJUclBNZGJ3VWhzd2JOaCtYYVlxbGNvUmR0RDNjUk1QZ0NuSXFEUE5QVk5jQUt6Y3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Nzk5ODk3CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwoyS25xemE2anJjUXdObXQ5NWpMZkVFZ0hhZDl1NVpSdTI0RkN4dWZqVTdXZmR6d0R6S2tYVjZqNFlqUEJHTU8yZng5cnFaVkUxdm54MGEwWXdKY0REUT09Cg=="
+  "ui_build": 122,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-122/bundle-bfbd59df.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJCVGNkUHpjd2dQNVRkMTVIT3VTWERtWXZjUnlzTlord2ZMZytab1RRUlFUTkEvNE51eFRzNFV5S3d5QkNDQnIwdXVNekVhUjIrM3B3Qzh4cjN5Z3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODA4NTc4CWZpbGU6YnVuZGxlLWJmYmQ1OWRmLmpzClVqNm1SZy9nTUdOb1FpdmVsREtUSUdETVZxYU1jZnQvcWo2YXF2ZGpoWUdXRlVUZktrWUs0bkw2b0lvNjA3TmpERzJoeGdOWmhSOW9XYTk0SUs4S0JRPT0K",
+  "notes": "Экран «отчёт о сбое» больше не появляется поверх работающего приложения",
+  "pub_date": "2026-08-15T15:43:01Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-122/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJLR2swd01JaFRBRStydml2OWNtY0dUZ201bWtNM1U4QUJlOUdsK1MxdVAySzhEUTRDYnhJb1ltakdIK3hDMk9TM3FWaC9BaWdCM2t6bytWUXRvbGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODA4NTc4CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp6Q21vdVhZNVZtYWlOZnNReEN5Q2dSSjZKbzJIT1BIUlYrZDVZb2t6Vk9kTTFHWlFPZFVPOCs0K2RuTkExRXpkK3A1ZE8wdnJYQUdvYU5ReUxxYTREUT09Cg=="
 }
