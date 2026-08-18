@@ -1,9 +1,9 @@
 {
-  "ui_build": 132,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-132/bundle-649e30d4.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUd2cnE1b0loU21xRXE4ckg3QlBOcnJlbkVkU3dzNUFSZXpTNm5oaHJWTFpDS3J5Z3NwNno1cDloVk9wczIyeFducG1PUGhpY3ZtUnJrR083NWYvSUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ5MTc0CWZpbGU6YnVuZGxlLTY0OWUzMGQ0LmpzCm9DckNlZy8xQ1BuZ0tQUXREL2J3V0twNHlYOFAyNlNKS0g5VGg5YmR1TDJVTDNOT2daQjZlSGlRMEJtcU9uZTR1cTFIRjR6aFZHU09UYk1vVkFZWUR3PT0K",
-  "notes": "Календарный день не влияет на ленту задач",
-  "pub_date": "2026-08-18T10:32:56Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-132/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJrSStWbmNRNlFhNHRCUmh5TmVBVHVyUXdId0JIUk4yaGFCWUZ6NDJZVElRZi8ySGhDWXVWdHUvNzBLakVwU1laOURNdjRLbE9KQnVhanpPZDhVNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ5MTc0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwplQ3Y0eHlHRlpNNTdNc3NIOC9hMFN5Zm00T3FIQTQ1MTZ3cGZzODhaV2VRVHl1Y1BldnhHRGI3d0RoTkhhbnZXOExrcUtHMkZleGlUaVUvYkthSGRCUT09Cg=="
+  "ui_build": 133,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-133/bundle-357e4928.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSURWUllMelJZZklNQisxemwxNFZTOEdoVE1uS1lEUWV1Y0tBRE1LY2xJb2NYc3VQSE5TbHhvb3NHZW1rOS85dUMxY2Q2ajM2U2xOK1VxZ3BlTEthbXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ5NjQ0CWZpbGU6YnVuZGxlLTM1N2U0OTI4LmpzCmhDbnVkV2VOWlZFVU5CSlZkV0laNGI3VElRNTZ5MkNJaytDNlNpMVFUdGdvdlZjTllMT3l1cEt4UWZZQ05ibXU4bEM1K09hUGc0ZzU2MTZiNW51cER3PT0K",
+  "notes": "Крестик в поиске по центру",
+  "pub_date": "2026-08-18T10:40:47Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-133/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVMcnFDM1pVR3hSZzNqVThXYTYvYU1kNVo3YXA1MnB4dHNXTEI4UFM0SUR5bk5Qbit6NFZhUjQzRzZLSFFLY0pFUG5UMWxra1dNcmFJNmJSU1JHSkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ5NjQ1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpCNnZwb0c0eC9abWJNRkRndGlCQTgzZE5DanlFTDIvcEZRTUMwQ0xneWFIN1NlVHE1RjBPaStxNG5idStxc0JSblJKQWc5bTVIMEtEcVVtWDdPUmFBdz09Cg=="
 }
