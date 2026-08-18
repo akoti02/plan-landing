@@ -1,9 +1,9 @@
 {
-  "ui_build": 130,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-130/bundle-a5ddf7db.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUVqTlJ2clVNZ3JueUhKRUY4U2hIMnFTOWw0ZE1rWVppaStiZDEwR0JpZzRVdzJYK2t0bjhONHBQSk9EY3RWakZJYVFJeG01R0p1SWlxdTg3T3ZHZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ0MjI1CWZpbGU6YnVuZGxlLWE1ZGRmN2RiLmpzCkR6Wkx1V21GRFlXRWNYODRXWXlCdTd4M2pTU2JKTWRwQTJPTG9yVEVCWG1semJ3ZmI4L3BKdjc2QU9SMkJ0b1dXVUZxK2I5TWR4dXdtdzZKakp4UkJ3PT0K",
-  "notes": "Куда переместить: пикер открывается с текущей папки",
-  "pub_date": "2026-08-18T09:10:28Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-130/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUdzQ2VJT1RBeWwwdlBuRGVMcERQcmZ6NlVMZUFUVHBrMlVQNGRERjJZQ3B0UHlaOGxDV3U1dTZKaGZpRyt4K1BRaEEwQ3dUQXoxbC9Rb0F1Y1krbndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ0MjI1CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwo3clcxdEQwMGsyYzBTQld2NDFlUjhiMUZsbnpNS25hVUdxWVBPdmhDdU1zRnV3VzVUeUx4RnRZRktGOXdOWnNWN3kzQ0VuTW5QSjMvMGlOamdPYzhBQT09Cg=="
+  "ui_build": 131,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-131/bundle-205d27e4.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU00bVl3ejNoaEhPRkJwS3R4M01sMEowa3V6dkgxQVNEdW9YWU03Sk5vQkpGWUlhTFNVcldPYVZmOUtnQVdXYjI1WFNpcEVFTXVtWmZtalZLckVqN2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ2NjAyCWZpbGU6YnVuZGxlLTIwNWQyN2U0LmpzCkh6VUgvZGdZRFhCNkVGWTBaa3NrSVViOXRLQzFFZEk1TkFRMlpoS3F0bG83TS9XMXhnUWxzSzN6WWdZdFZzdXZGZHdBa0didGg5UU9DMzBCRWJ4dUJ3PT0K",
+  "notes": "Верхняя панель: все значки светятся одинаково",
+  "pub_date": "2026-08-18T09:50:04Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-131/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxyTzlXdXliNHBTYlpZOG1hMy9LWjYwQW5BbU9BeG56cGlCLzFOVUFheVRkWlErK2N3ZDdwZDdEZFhmUVNKYlpEbWhVUlA1UHFoN1NBSk0ycW5pNVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ2NjAyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpKNGRqZXoxRTMyaFI3cDY3VWJFTFJMckV5VE95akIxRmJGaGNISXRTUXlYNzFPanpBZW1JN3MxR25PVENiVjBPV0tjOC8vUi9zN3VKQ2pTTlNYZzNDQT09Cg=="
 }
