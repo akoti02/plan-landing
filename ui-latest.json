@@ -1,9 +1,9 @@
 {
-  "ui_build": 131,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-131/bundle-205d27e4.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU00bVl3ejNoaEhPRkJwS3R4M01sMEowa3V6dkgxQVNEdW9YWU03Sk5vQkpGWUlhTFNVcldPYVZmOUtnQVdXYjI1WFNpcEVFTXVtWmZtalZLckVqN2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ2NjAyCWZpbGU6YnVuZGxlLTIwNWQyN2U0LmpzCkh6VUgvZGdZRFhCNkVGWTBaa3NrSVViOXRLQzFFZEk1TkFRMlpoS3F0bG83TS9XMXhnUWxzSzN6WWdZdFZzdXZGZHdBa0didGg5UU9DMzBCRWJ4dUJ3PT0K",
-  "notes": "Верхняя панель: все значки светятся одинаково",
-  "pub_date": "2026-08-18T09:50:04Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-131/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUxyTzlXdXliNHBTYlpZOG1hMy9LWjYwQW5BbU9BeG56cGlCLzFOVUFheVRkWlErK2N3ZDdwZDdEZFhmUVNKYlpEbWhVUlA1UHFoN1NBSk0ycW5pNVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ2NjAyCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwpKNGRqZXoxRTMyaFI3cDY3VWJFTFJMckV5VE95akIxRmJGaGNISXRTUXlYNzFPanpBZW1JN3MxR25PVENiVjBPV0tjOC8vUi9zN3VKQ2pTTlNYZzNDQT09Cg=="
+  "ui_build": 132,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-132/bundle-649e30d4.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUd2cnE1b0loU21xRXE4ckg3QlBOcnJlbkVkU3dzNUFSZXpTNm5oaHJWTFpDS3J5Z3NwNno1cDloVk9wczIyeFducG1PUGhpY3ZtUnJrR083NWYvSUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ5MTc0CWZpbGU6YnVuZGxlLTY0OWUzMGQ0LmpzCm9DckNlZy8xQ1BuZ0tQUXREL2J3V0twNHlYOFAyNlNKS0g5VGg5YmR1TDJVTDNOT2daQjZlSGlRMEJtcU9uZTR1cTFIRjR6aFZHU09UYk1vVkFZWUR3PT0K",
+  "notes": "Календарный день не влияет на ленту задач",
+  "pub_date": "2026-08-18T10:32:56Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-132/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUJrSStWbmNRNlFhNHRCUmh5TmVBVHVyUXdId0JIUk4yaGFCWUZ6NDJZVElRZi8ySGhDWXVWdHUvNzBLakVwU1laOURNdjRLbE9KQnVhanpPZDhVNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQ5MTc0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwplQ3Y0eHlHRlpNNTdNc3NIOC9hMFN5Zm00T3FIQTQ1MTZ3cGZzODhaV2VRVHl1Y1BldnhHRGI3d0RoTkhhbnZXOExrcUtHMkZleGlUaVUvYkthSGRCUT09Cg=="
 }
