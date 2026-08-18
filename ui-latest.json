@@ -1,9 +1,9 @@
 {
-  "ui_build": 126,
-  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-126/bundle-f9e488f9.js",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSU5aY2JoQ0ZZQk4wNzU3aWhzWC9ETmJYamZQMUJoay9BNzJDQlFWQk8zdDFDT3VCOEFTaHhVMGR6T2NBUlNuZjhmNjh3UUZYMTJ2dUVicldweUlQU1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDAzNDMwCWZpbGU6YnVuZGxlLWY5ZTQ4OGY5LmpzCnZEUG5Fd3BWRC9XZ2FjZlBZUTMzSG1YUDMxK29VSjZ6azQ4d0IybHh1SElhRUdSQmR2SjFSZHBUbUZtUlFwVmdZTk5xNS9IUEh3QWpGUmo3bUpPK0N3PT0K",
-  "notes": "нейронка: пояснения при карточках; календарь/поиск; стендовая stress-mem",
-  "pub_date": "2026-08-17T21:50:34Z",
-  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-126/styles.tailwind-8bd1b7a5.css",
-  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUhkc1Y2VU1CWWNvTUJVZDhhaHlYQThaOVRUajhWcUJWZm5OeTFMeVRTWnphNis0ZkMxVFVLMHFsTSs4L3dPdUFEQmRCaHNPbzdjcWxGL2FvRHUrYlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDAzNDMwCWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwp1R2JGQVdWZXZGQnlwdHFzNStCN1o3MDZzYThjUzJuWmZJRGFiUWQ5NDJVRVRmR2hkbGEvS2prT3ZnOUs5TnVLTTAvT09WQ04wVWN0SU55S2J2b3NDQT09Cg=="
+  "ui_build": 127,
+  "bundle_url": "https://github.com/akoti02/plan-releases/releases/download/ui-127/bundle-bac039e2.js",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUpMSG5xR0JvWDFld0RaS3RzTkhMOWcwN1BNRVA0MG5rdExiRWt2VzExN2ZaeU9qNnV1TkdESFJGWmUweWlnODFvQ0hLM21TVytyQjFhOVpaTXdNbEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQxNjg0CWZpbGU6YnVuZGxlLWJhYzAzOWUyLmpzCiszbG5oMW9nbU5NSU4vWkZQL01Ic0o1VTVLN0dQUmwwWXdQOU9RMG13WWpGVUhQWnRpb1FWQVNmNFM5U3ZJU1FFUytCY2F2NDJhWm05OEovazFQTkN3PT0K",
+  "notes": "Куда переместить — проводник по дереву вместо плоского списка",
+  "pub_date": "2026-08-18T08:28:07Z",
+  "css_url": "https://github.com/akoti02/plan-releases/releases/download/ui-127/styles.tailwind-8bd1b7a5.css",
+  "css_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEVRZWdvQmJoSUZFcTAzaEcyYXFqZWhkbjlEbU9iYno0NnFhQTE1MWJPdHVuYy9MY1A5RzB6Wk0xUm0zYVhFRkhsZUJjd00rc012R2xyZVNKTFRiYTFqaGIzc0lIcUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQxNjg0CWZpbGU6c3R5bGVzLnRhaWx3aW5kLThiZDFiN2E1LmNzcwo4azhwcGFZTzB4QkxFeG4xckowano4NW92emVabmx3YU1KVWswRVZ3TzVid2REa2lzdktIb1BxNWdDdGRZRFFFZlp0U2hjbTF1YTFjL3BxbUl1MVBDZz09Cg=="
 }
